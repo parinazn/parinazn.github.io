@@ -21,15 +21,14 @@ __Behavioral and Game-Theoretic Security Investments in Interdependent Systems M
 M. Abdallah, P. Naghizadeh, A. Hota, T. Cason, S. Bagchi, S. Sundaram.<br>
 _in preperation._ 2019.
 
+
+<h2>Journal papers</h2>
+
 __Using Private and Public Assessments in Security Information Sharing
 Agreements.__<br>
 P. Naghizadeh, M. Liu.<br>
-_IEEE Transactions on Information Forensics and Security_, submitted,
+_IEEE Transactions on Information Forensics and Security_, accepted,
 2019.
-
-
-
-<h2>Journal papers</h2>
 
 __A Reputation-Based Contract for Repeated Crowdsensing with Costly Verification.__<br>
 D. Ghavidel, P. Naghizadeh, M. Liu, V. Gupta. <br>
