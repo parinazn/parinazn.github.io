@@ -17,23 +17,21 @@ with Thanh Nguyen.<br>
 _working paper._<br>
 <a href="https://web.ics.purdue.edu/~nguye161/manager.pdf" class="button">pdf<a> 
 
-__Behavioral and Game-Theoretic Security Investments in Interdependent Systems Modeled by Attack Graphs.__<br>
-M. Abdallah, P. Naghizadeh, A. Hota, T. Cason, S. Bagchi, S. Sundaram.<br>
-_in preperation._ 2019.
-
 
 <h2>Journal papers</h2>
+
+__Behavioral and Game-Theoretic Security Investments in Interdependent Systems Modeled by Attack Graphs.__<br>
+M. Abdallah, P. Naghizadeh, A. Hota, T. Cason, S. Bagchi, S. Sundaram.<br>
+In _IEEE Transactions on Control of Network Systems_, accepted, 2020.
 
 __Using Private and Public Assessments in Security Information Sharing
 Agreements.__<br>
 P. Naghizadeh, M. Liu.<br>
-_IEEE Transactions on Information Forensics and Security_, accepted,
-2019.
+In _IEEE Transactions on Information Forensics and Security_, vol. 15, no. 1, pp. 1801-1814, 2020.
 
 __A Reputation-Based Contract for Repeated Crowdsensing with Costly Verification.__<br>
 D. Ghavidel, P. Naghizadeh, M. Liu, V. Gupta. <br>
-In _IEEE Transactions on Signal Processing_, accepted, 2019.
-
+In _IEEE Transactions on Signal Processing_, vol. 67, no. 23, pp. 6092-6104, 2019.
 
 __Provision of Public Goods on Networks: On Existence, Uniqueness,
 and Centralities.__<br> 
@@ -65,13 +63,8 @@ In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 
 <h2>Refereed conference and workshop papers</h2>
 
-__The Impacts of Prediction Technologies on Relational
-Contracts__<br>
-P. Naghizadeh, T, Nguyen, S. Vardi.<br>
-In _the 30th Workshop on Information Systems and Economics (WISE'19)_, Dec 2019. 
-
 __Protecting Assets with
-Heterogeneous Valuations under Behavioral ProbabilityWeighting.__<br>
+Heterogeneous Valuations under Behavioral Probability Weighting.__<br>
 M. Abdallah, P. Naghizadeh, T. Cason, S. Bagchi, S. Sundaram. <br>
 In _the Control and Decision
 Conference (CDC'19)_, Dec 2019.
