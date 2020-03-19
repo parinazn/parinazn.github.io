@@ -20,7 +20,7 @@ _working paper._<br>
 
 <h2>Journal papers</h2>
 
-__[J8] Behavioral and Game-Theoretic Security Investments in Interdependent Systems Modeled by Attack Graphs.__<br>
+[J8] __Behavioral and Game-Theoretic Security Investments in Interdependent Systems Modeled by Attack Graphs.__<br>
 M. Abdallah, P. Naghizadeh, A. Hota, T. Cason, S. Bagchi, S. Sundaram.<br>
 In _IEEE Transactions on Control of Network Systems_, accepted, 2020.
 
