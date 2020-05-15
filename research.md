@@ -3,7 +3,6 @@ layout: page
 title: Research
 permalink: /research/
 ---
-<h1>Research Projects</h1>
 
 Our research is focused on examining the role of information and incentive design in distributed learning and decision making, particularly in network environments.
 Some of the current research projects of our group include:
