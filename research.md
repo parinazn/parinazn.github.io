@@ -37,14 +37,14 @@ The findings are of importance to network design and policy interventions.
 
 __Provision of Public Goods on Networks: On Existence, Uniqueness,
 and Centralities.__ 
-<a href="{{ site.baseurl }}/papers/journals/tnse18.pdf" class="button">(PDF)<a><br> 
+<a href="{{ site.baseurl }}/papers/journals/tnse18.pdf">(PDF)</a><br> 
 P. Naghizadeh, M. Liu.<br>
 In _IEEE Transactions on Network Science and Engineering, vol. 5, no. 3, pp.
 225-236_, 2018.<br>
 
 
 __On the Uniqueness and Stability of Equilibria of Network Games.__
-<a href="/papers/conferences/allerton17_vi-net-games.pdf" class="button">(PDF)<a><br>
+<a href="/papers/conferences/allerton17_vi-net-games.pdf">(PDF)</a><br>
 P. Naghizadeh, M. Liu. <br>
 In _The 55th Annual Allerton Conference on Communication, Control and Computing_, Oct 2017.<br>
 
@@ -64,17 +64,17 @@ with Thanh Nguyen and Shai Vardi.<br>
 _working paper._
 
 __Adversarial Contract Design for Private Data Commercialization.__
-<a href="{{ site.baseurl }}/papers/conferences/ec19.pdf" class="button">(PDF)<a><br>
+<a href="{{ site.baseurl }}/papers/conferences/ec19.pdf">(PDF)</a><br>
 P. Naghizadeh, A. Sinha.<br>
 In _ACM conference on Economics and Computation (EC '19)_, Jun 2019.<br>
 
 __A Reputation-Based Contract for Repeated Crowdsensing with Costly Verification.__
-<a href="https://arxiv.org/abs/1611.09763" class="button">(PDF)<a><br>
+<a href="https://arxiv.org/abs/1611.09763">(PDF)</a><br>
 D. Ghavidel, P. Naghizadeh, M. Liu, V. Gupta. <br>
 In _IEEE Transactions on Signal Processing_, vol. 67, no. 23, pp. 6092-6104, 2019.<br>
 
 __Perceptions and Truth: A Mechanism Design Approach to Crowd-Sourcing Reputation.__
-<a href="{{ site.baseurl }}/papers/journals/ton16.pdf" class="button">(PDF)<a><br>
+<a href="{{ site.baseurl }}/papers/journals/ton16.pdf">(PDF)</a><br>
 P. Naghizadeh, M. Liu. <br>
 In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 
@@ -90,17 +90,17 @@ In addition, we have explored the use of reinforcement learning in an edge compu
 <h3>Selected Publications</h3>
 
 __Hurts to Be Too Early: Benefits and Drawbacks of Communication in Multi-Agent Learning.__
-<a href="{{ site.baseurl }}/papers/conferences/infocom19_marl.pdf" class="button">(PDF)<a><br>
+<a href="{{ site.baseurl }}/papers/conferences/infocom19_marl.pdf">(PDF)</a><br>
 P. Naghizadeh, M. Gorlatova, A. Lan, M. Chiang. <br>
 In _IEEE INFOCOM_, 2019. <br>
 
 __Adaptive Fog-Based Output Security for Augmented Reality.__
-<a href="{{ site.baseurl }}/papers/conferences/sigcommarvr19.pdf" class="button">(PDF)<a><br>
+<a href="{{ site.baseurl }}/papers/conferences/sigcommarvr19.pdf">(PDF)</a><br>
 S. Ahn, M. Gorlatova, P. Naghizadeh, M. Chiang, P. Mittal.<br>
 In _ACM SIGCOMM VR/AR Network Workshop_, Aug 2018.<br>
 
 __Personalized Augmented Reality Via Fog-based Imitation Learning.__
-<a href="{{ site.baseurl }}/papers/conferences/fogiot19.pdf" class="button">(PDF)<a><br>
+<a href="{{ site.baseurl }}/papers/conferences/fogiot19.pdf">(PDF)</a><br>
 S. Ahn, M. Gorlatova, P. Naghizadeh, M. Chiang.<br>
 In _the IEEE Workshop on Fog Computing and the IoT (co-located
 with IEEE CPS-IoT Week)_, Apr 2019.<br>
@@ -118,24 +118,24 @@ Specifically, we have explored the design of cyber insurance contracts so as to 
 
 __Using Private and Public Assessments in Security Information Sharing
 Agreements.__
-<a href="https://arxiv.org/pdf/1604.04871.pdf" class="button">(PDF)<a><br>
+<a href="https://arxiv.org/pdf/1604.04871.pdf">(PDF)</a><br>
 P. Naghizadeh, M. Liu.<br>
 In _IEEE Transactions on Information Forensics and Security_, vol. 15, no. 1, pp. 1801-1814, 2020.<br>
 
 __Behavioral and Game-Theoretic Security Investments in Interdependent Systems Modeled by Attack Graphs.__
-<a href="https://arxiv.org/pdf/2001.03213.pdf" class="button">(PDF)<a><br>
+<a href="https://arxiv.org/pdf/2001.03213.pdf">(PDF)</a><br>
 M. Abdallah, P. Naghizadeh, A. Hota, T. Cason, S. Bagchi, S. Sundaram.<br>
 In _IEEE Transactions on Control of Network Systems_, accepted, 2020.<br>
 
 __Designing Cyber Insurance Policies: The Role of Pre-Screening and Security Interdependence.__
-<a href="{{ site.baseurl }}/papers/journals/tifs18.pdf" class="button">(PDF)<a><br>
+<a href="{{ site.baseurl }}/papers/journals/tifs18.pdf">(PDF)</a><br>
 M. Khalili, P. Naghizadeh, M. Liu.<br>
 In _IEEE Transactions on Information Forensics and Security, 13 (9): 2226-2239_, 2018.<br> 
 
 
 __Opting out of Incentive Mechanisms: A Study of Security as a Non-Excludable Public Good.__
-<a href="{{ site.baseurl }}/papers/journals/tifs16.pdf" class="button">(PDF)<a>, 
-<a href="https://drive.google.com/file/d/1reEPOLW0gEPVNan66zr_yj-RRmmE1JcX/view" class="button">(online appendix)<a>.
+<a href="{{ site.baseurl }}/papers/journals/tifs16.pdf">(PDF)</a>, 
+<a href="https://drive.google.com/file/d/1reEPOLW0gEPVNan66zr_yj-RRmmE1JcX/view">(online appendix)</a>.
 <br>
 P. Naghizadeh, M. Liu.<br>
 In _IEEE Transactions on Information Forensics and Security, 11 (12): 2790-2803_, 2016.<br>
@@ -143,12 +143,12 @@ In _IEEE Transactions on Information Forensics and Security, 11 (12): 2790-2803_
 <h3>Selected Publications: Data Analytics</h3>
 
 __Cloudy with a Chance of Breach: Forecasting Cyber Security Incidents.__
-<a href="/papers/conferences/usenix15.pdf" class="button">(PDF)<a><br>
+<a href="/papers/conferences/usenix15.pdf">(PDF)</a><br>
 Y. Liu, A. Sarabi, J. Zhang, P. Naghizadeh, M. Karir, M. Bailey, M. Liu.<br>
 In _the 24th USENIX Security Symposium_, Aug 2015.<br>
 
 __Risky Business: Fine-grained Data Breach Prediction Using Business Profiles.__
-<a href="{{ site.baseurl }}/papers/journals/jcyb16.pdf" class="button">(PDF)<a><br>
+<a href="{{ site.baseurl }}/papers/journals/jcyb16.pdf">(PDF)</a><br>
 A. Sarabi, P. Naghizadeh, Y. Liu, M. Liu.<br>
 In _Journal of Cybersecurity, 2 (1): 15-28,_ Oxford University Press, 2016.<br>
 
