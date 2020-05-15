@@ -10,6 +10,6 @@ permalink: /teaching/
 - ISE 4100: Stochastic Modeling and Simulation. Autumn 2020. 
 
 
-- ISE 7200: Advanced nonlinear optimization. Spring 2020. 
+- ISE 7200: Advanced Nonlinear Optimization. Spring 2020. 
 
 
