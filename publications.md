@@ -23,15 +23,18 @@ _working paper._<br>
 __[J8] Behavioral and Game-Theoretic Security Investments in Interdependent Systems Modeled by Attack Graphs.__<br>
 M. Abdallah, P. Naghizadeh, A. Hota, T. Cason, S. Bagchi, S. Sundaram.<br>
 In _IEEE Transactions on Control of Network Systems_, accepted, 2020.
+<a href="https://arxiv.org/pdf/2001.03213.pdf" class="button">pdf<a>
 
 __[J7] Using Private and Public Assessments in Security Information Sharing
 Agreements.__<br>
 P. Naghizadeh, M. Liu.<br>
 In _IEEE Transactions on Information Forensics and Security_, vol. 15, no. 1, pp. 1801-1814, 2020.
+<a href="https://arxiv.org/pdf/1604.04871.pdf" class="button">pdf<a>
 
 __[J6] A Reputation-Based Contract for Repeated Crowdsensing with Costly Verification.__<br>
 D. Ghavidel, P. Naghizadeh, M. Liu, V. Gupta. <br>
 In _IEEE Transactions on Signal Processing_, vol. 67, no. 23, pp. 6092-6104, 2019.
+<a href="{{ site.baseurl }}/papers/journals/tsp19.pdf" class="button">pdf<a>
 
 __[J5] Provision of Public Goods on Networks: On Existence, Uniqueness,
 and Centralities.__<br> 
@@ -182,6 +185,11 @@ In _the 3rd International Conference on Game Theory for Networks (GameNets)_, 20
 
 <h3>Non-refereed publications/pre-prints</h3>
 
+__Resilient Cyberphysical Systems and their Application Drivers: A Technology Roadmap__<br>
+S. Chaterji, P. Naghizadeh, M.A. Alam, S. Bagchi, M. Chiang, D. Corman, B. Henz, S. Jana, N. Li, S. Mou, M. Oishi, C. Peng, T. Rompf, A. Sabharwal, S. Sundaram, J. Weimer, J. Weller. <br>
+In _arXiv preprint arXiv:2001.00090_, 2020.<br>
+<a href="https://arxiv.org/pdf/2001.00090.pdf" class="button">pdf<a>
+
 __Inter-Temporal Incentives in Security Information Sharing Agreements__<br>
 P. Naghizadeh, M. Liu. <br>
 In _the Information Theory and Applications Workshop (ITA)_, Feb 2016.<br>
@@ -194,7 +202,7 @@ In _the Information Theory and Applications Workshop (ITA)_, Feb 2014.<br>
 
 __Incentives, Quality, and Risks: A Look into the NSF Proposal Review Pilot__<br>
 P. Naghizadeh, M. Liu.<br>
-In _arXiv:1307.6528_, 2013.<br>
+In _arXiv preprint arXiv:1307.6528_, 2013.<br>
 <a href="/papers/conferences/nsfpilot13.pdf" class="button">pdf<a>
 
 
