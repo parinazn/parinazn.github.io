@@ -10,17 +10,13 @@ Here is my <a href="https://scholar.google.com/citations?user=rbleSIcAAAAJ&hl=en
 
 __The Impacts of Prediction Technologies on Relational Contracts.__<br>
 with Thanh Nguyen and Shai Vardi.<br>
-_working paper._
+_Submitted._<br>
+<a href="https://web.ics.purdue.edu/~nguye161/prediction.pdf" class="button">pdf<a> 
 
 __The Role of Managers Revisited.__<br>
 with Thanh Nguyen.<br>
 _working paper._<br>
 <a href="https://web.ics.purdue.edu/~nguye161/manager.pdf" class="button">pdf<a> 
-
-__BASCPS: How Does Behavioral Decision Making Impact the Security of Cyber-Physical Systems?__<br>
-with Mustafa Abdallah, Daniel Woods, Issa Khalil, Timothy Cason, Shreyas Sundaram, and Saurabh Bagchi.<br>
-_submitted to ESORICS 2020._<br>
-<a href="https://arxiv.org/pdf/2004.01958.pdf" class="button">pdf<a> 
 
 
 <h2>Journal papers</h2>
@@ -71,6 +67,11 @@ In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 
 <h2>Refereed conference and workshop papers</h2>
 
+__[C21] Morshed: Guiding Behavioral Decision-Makers towards Better Security Investment in Interdependent Systems.__<br>
+M. Abdallah, D. Woods, P. Naghizadeh, I. Khalil, T. Cason, S. Sundaram, S. Bagchi.<br>
+To appear in _the 16th ACM Asia Conference on Computer and Communications Security (ASIACCS '21)_, Jun 2021.<br>
+<a href="https://arxiv.org/pdf/2004.01958.pdf" class="button">pdf<a> 
+
 __[C20] Protecting Assets with
 Heterogeneous Valuations under Behavioral Probability Weighting.__<br>
 M. Abdallah, P. Naghizadeh, T. Cason, S. Bagchi, S. Sundaram. <br>
@@ -107,7 +108,7 @@ In _ACM SIGCOMM VR/AR Network Workshop_, Aug 2018.<br>
 
 __[C14] On the Uniqueness and Stability of Equilibria of Network Games.__<br>
 P. Naghizadeh, M. Liu. <br>
-In _The 55th Annual Allerton Conference on Communication, Control and Computing_, Oct 2017.<br>
+In _the 55th Annual Allerton Conference on Communication, Control and Computing_, Oct 2017.<br>
 <a href="/papers/conferences/allerton17_vi-net-games.pdf" class="button">pdf<a>
 
 __[C13] Embracing Risk Dependency in Designing Cyber-Insurance Contracts.__<br>
@@ -189,6 +190,11 @@ In _the 3rd International Conference on Game Theory for Networks (GameNets)_, 20
 
 
 <h3>Non-refereed publications/pre-prints</h3>
+
+__[P5] BASCPS: How Does Behavioral Decision Making Impact the Security of Cyber-Physical Systems?__<br>
+M. Abdallah, D. Woods, P. Naghizadeh, I. Khalil, T. Cason, S. Sundaram, S. Bagchi.<br>
+_In _arXiv preprint arXiv:2004.01958_, 2020.._<br>
+<a href="https://arxiv.org/pdf/2004.01958.pdf" class="button">pdf<a> 
 
 __[P4] Resilient Cyberphysical Systems and their Application Drivers: A Technology Roadmap__<br>
 S. Chaterji, P. Naghizadeh, M.A. Alam, S. Bagchi, M. Chiang, D. Corman, B. Henz, S. Jana, N. Li, S. Mou, M. Oishi, C. Peng, T. Rompf, A. Sabharwal, S. Sundaram, J. Weimer, J. Weller. <br>
