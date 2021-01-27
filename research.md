@@ -13,7 +13,7 @@ Some of the current research projects of our group include:
 </li>
 
 <li>
-<a href="#MLecon">Econcomics of AI-Driven Decision Making</a>
+<a href="#MLecon">Economics of AI-Driven Decision Making</a>
 </li>
 
 <li>
@@ -30,7 +30,7 @@ Some of the current research projects of our group include:
 
 The outcomes of many social and economic interactions, such as public good provision, spread of research and innovation, and contagion in financial networks, are governed by an underlying network of connections between their users. 
 When participants are rational and self-interested, such interactions can be modeled as network games. 
-Our reserach in this area is focused on identifying the effects of the network topology on equilibrium analysis and comparative statics of these games. 
+Our research in this area is focused on identifying the effects of the network topology on equilibrium analysis and comparative statics of these games. 
 The findings are of importance to network design and policy interventions.
 
 <h3>Selected Publications</h3>
@@ -50,10 +50,10 @@ In _The 55th Annual Allerton Conference on Communication, Control and Computing_
 
 
 
-<h2 id="MLecon">Econcomics of AI-Driven Decision Making</h2>
+<h2 id="MLecon">Economics of AI-Driven Decision Making</h2>
 
 The wide-spread adoption of AI and ML tools for decision making raises questions about the fundamental performance, privacy, and fairness guarantees of algorithmic decision making,
-particularly in the presence of strategic participants. These may include the agents provding the data used in the learning algorithms (e.g., in crowdsourcing),
+particularly in the presence of strategic participants. These may include the agents providing the data used in the learning algorithms (e.g., in crowdsourcing),
 as well as the strategic agents who are governed by such decision rules. 
 Our research in this area analyzes the incentives of such strategic agents and their interactions with AI/ML algorithms. 
 
