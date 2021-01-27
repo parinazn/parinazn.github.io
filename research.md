@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-Our research is focused on examining the role of information and incentive design in distributed learning and decision making, particularly in network environments.
+Our group studies distributed learning and decision making, particularly in network environments, and examines how information and incentive design can shape individual and network-level outcomes. We contribute to, and draw from, tools and methods in several disciplines, including network economics, game theory, algorithmic economics, optimization, and control theory. 
 Some of the current research projects of our group include:
 <ol>
 
@@ -13,7 +13,7 @@ Some of the current research projects of our group include:
 </li>
 
 <li>
-<a href="#MLecon">Econcomics of Data-Driven Decision Making</a>
+<a href="#MLecon">Econcomics of AI-Driven Decision Making</a>
 </li>
 
 <li>
@@ -50,7 +50,7 @@ In _The 55th Annual Allerton Conference on Communication, Control and Computing_
 
 
 
-<h2 id="MLecon">Econcomics of Data-Driven Decision Making</h2>
+<h2 id="MLecon">Econcomics of AI-Driven Decision Making</h2>
 
 The wide-spread adoption of AI and ML tools for decision making raises questions about the fundamental performance, privacy, and fairness guarantees of algorithmic decision making,
 particularly in the presence of strategic participants. These may include the agents provding the data used in the learning algorithms (e.g., in crowdsourcing),
