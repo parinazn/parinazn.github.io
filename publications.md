@@ -10,7 +10,7 @@ Here is my <a href="https://scholar.google.com/citations?user=rbleSIcAAAAJ&hl=en
 
 __The Impacts of Prediction Technologies on Relational Contracts.__<br>
 with Thanh Nguyen and Shai Vardi.<br>
-_Submitted._<br>
+_submitted._<br>
 <a href="https://web.ics.purdue.edu/~nguye161/prediction.pdf" class="button">pdf<a> 
 
 __The Role of Managers Revisited.__<br>
@@ -23,25 +23,24 @@ _working paper._<br>
 
 __[J8] Behavioral and Game-Theoretic Security Investments in Interdependent Systems Modeled by Attack Graphs.__<br>
 M. Abdallah, P. Naghizadeh, A. Hota, T. Cason, S. Bagchi, S. Sundaram.<br>
-In _IEEE Transactions on Control of Network Systems_, accepted, 2020.<br>
+In _IEEE Transactions on Control of Network Systems, 7 (4): 1585-1596_, 2020.<br>
 <a href="https://arxiv.org/pdf/2001.03213.pdf" class="button">pdf<a>
 
 __[J7] Using Private and Public Assessments in Security Information Sharing
 Agreements.__<br>
 P. Naghizadeh, M. Liu.<br>
-In _IEEE Transactions on Information Forensics and Security_, vol. 15, no. 1, pp. 1801-1814, 2020.<br>
+In _IEEE Transactions on Information Forensics and Security, 15 (1): 1801-1814_, 2020.<br>
 <a href="https://arxiv.org/pdf/1604.04871.pdf" class="button">pdf<a>
 
 __[J6] A Reputation-Based Contract for Repeated Crowdsensing with Costly Verification.__<br>
 D. Ghavidel, P. Naghizadeh, M. Liu, V. Gupta. <br>
-In _IEEE Transactions on Signal Processing_, vol. 67, no. 23, pp. 6092-6104, 2019.<br>
+In _IEEE Transactions on Signal Processing, 67 (23): 6092-6104_, 2019.<br>
 <a href="https://arxiv.org/abs/1611.09763" class="button">pdf<a>
 
 __[J5] Provision of Public Goods on Networks: On Existence, Uniqueness,
 and Centralities.__<br> 
 P. Naghizadeh, M. Liu.<br>
-In _IEEE Transactions on Network Science and Engineering, vol. 5, no. 3, pp.
-225-236_, 2018.<br>
+In _IEEE Transactions on Network Science and Engineering, 5 (3): 225-236_, 2018.<br>
 <a href="{{ site.baseurl }}/papers/journals/tnse18.pdf" class="button">pdf<a>
 
 __[J4] Designing Cyber Insurance Policies: The Role of Pre-Screening and Security Interdependence.__<br>
@@ -191,10 +190,10 @@ In _the 3rd International Conference on Game Theory for Networks (GameNets)_, 20
 
 <h3>Non-refereed publications/pre-prints</h3>
 
-__[P5] BASCPS: How Does Behavioral Decision Making Impact the Security of Cyber-Physical Systems?__<br>
-M. Abdallah, D. Woods, P. Naghizadeh, I. Khalil, T. Cason, S. Sundaram, S. Bagchi.<br>
-_In _arXiv preprint arXiv:2004.01958_, 2020.._<br>
-<a href="https://arxiv.org/pdf/2004.01958.pdf" class="button">pdf<a> 
+__[P5] Paid Prioritization with Content Competition__<br>
+P. Naghizadeh, C. Joe-Wong, M. Chiang.<br>
+_In _arXiv preprint arXiv:2007.14574_, 2020._<br>
+<a href="https://arxiv.org/pdf/2007.14574.pdf" class="button">pdf<a> 
 
 __[P4] Resilient Cyberphysical Systems and their Application Drivers: A Technology Roadmap__<br>
 S. Chaterji, P. Naghizadeh, M.A. Alam, S. Bagchi, M. Chiang, D. Corman, B. Henz, S. Jana, N. Li, S. Mou, M. Oishi, C. Peng, T. Rompf, A. Sabharwal, S. Sundaram, J. Weimer, J. Weller. <br>
@@ -215,5 +214,10 @@ __[P1] Incentives, Quality, and Risks: A Look into the NSF Proposal Review Pilot
 P. Naghizadeh, M. Liu.<br>
 In _arXiv preprint arXiv:1307.6528_, 2013.<br>
 <a href="/papers/conferences/nsfpilot13.pdf" class="button">pdf<a>
+  
+<br>
+<br>
+<br>
+<br>
 
 
