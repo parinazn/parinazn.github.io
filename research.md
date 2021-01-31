@@ -4,7 +4,10 @@ title: Research
 permalink: /research/
 ---
 
-Our group studies distributed learning and decision making, particularly in network environments, and examines how information and incentive design can shape individual and network-level outcomes. We contribute to, and draw from, tools and methods in several disciplines, including network economics, game theory, algorithmic economics, optimization, and control theory. 
+
+Our group studies distributed learning and decision making, particularly in network environments, and examines how information and incentive design can shape individual and network-level outcomes. We contribute to, and draw from, tools and methods in several disciplines, including network economics, game theory, algorithmic economics, optimization, and control theory. Our work is generously supported by the __National Science Foundation (NSF)__ and __Amazon__. 
+
+
 Some of the current research projects of our group include:
 <ol>
 
@@ -153,3 +156,7 @@ A. Sarabi, P. Naghizadeh, Y. Liu, M. Liu.<br>
 In _Journal of Cybersecurity, 2 (1): 15-28,_ Oxford University Press, 2016.<br>
 
 
+<br>
+<br>
+<br>
+<br>
