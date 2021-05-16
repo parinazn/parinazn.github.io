@@ -21,18 +21,18 @@ Yifan is a 2nd year Ph.D. student in Integrated System Engineering at The Ohio S
 <table>
   <tbody>
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/jessica_griffin.JPG" alt="jessica_griffin" width =1000/></td>
+      <td><img src="{{ site.baseurl }}/imgs/jessica_griffin.JPG" alt="jessica_griffin" width = "1000"/></td>
       <td> <b>Jessica Griffin</b> <a href="https://www.linkedin.com/in/jessica-griffin-165864162/">[LinkedIn]</a> <br><br>
 Jessica received her bachelor’s summa cum laude at Ohio State in industrial and systems engineering with a minor in humanitarian engineering. She is pursuing her master’s in industrial and systems engineering with a specialization in supply chain and logistics. Her internships include NCT Ventures, Eaton Co., Engie N.A., and General Mills. Jessica volunteers with Buckeye Food Alliance and planned mental health events for the College of Engineering. Her previous research focused on designing an anti-racist technology course.</td>
     </tr>
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/abhishek_vijaykumar.png" alt="abhishek_vijaykumar" width =3200/></td>
+      <td><img src="{{ site.baseurl }}/imgs/abhishek_vijaykumar.png" alt="abhishek_vijaykumar" width = "3000"/></td>
       <td> <b>Abhishek Vijaykumar</b> <a href="https://sites.google.com/view/abhishekvijaykumar/home">[Homepage]</a><a href="https://www.linkedin.com/in/abhishek-vijaykumar-944797152/">[LinkedIn]</a>
 <br><br>
 Abhishk is a 2nd year Masters's student in the ECE department at Ohio State University. His research interest lies in the area of machine learning and signal processing. Outside of college and research, He is a big basketball fan and enjoys playing tennis.</td>
     </tr>
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width =400/></td>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width ="400"/></td>
       <td> <b>Xue Zheng</b> <br><br> 
 Xue is 2nd year MSc student in Electrical and Computer Engineering at Ohio State. </td>
     </tr> 
@@ -44,22 +44,20 @@ Xue is 2nd year MSc student in Electrical and Computer Engineering at Ohio State
 <table>
   <tbody>
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/abby_nichter.JPG" alt="abby_nichter" width =2600/></td>
+      <td><img src="{{ site.baseurl }}/imgs/abby_nichter.JPG" alt="abby_nichter" width ="2600"/></td>
       <td><b>Abby Nichter</b> <a href="https://blf.osu.edu/people/abby-nichter/">[Homepage]</a><a href="https://www.linkedin.com/in/abby-nichter/">[LinkedIn]</a><br><br>
 Abby is a third-year Computer Engineering undergraduate student at The Ohio State University. She hopes to use her degree to work in industry for a few years post-graduation, then hopes to return to university to study for her Master’s Degree. She also serves as the Society of Women Engineering Education Co-Director at OSU. Outside of academic and research interests, Abby enjoys stand-up paddle boarding, trying new recipes, and expanding her yoga practice.</td>
     </tr>
-
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width =400/></td>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width ="400"/></td>
       <td> <b>Yiqiao Liao</b> <br><br> Yiqiao is is a rising senior in Computer Science at The Ohio State University. </td>
     </tr> 
-
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width =400/></td>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width ="400"/></td>
       <td> <b>Mingwei Qiu</b> <br><br> Mingwei is a third year student in Computer Science at The Ohio State University. </td>
     </tr> 
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width =400/></td>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width ="400"/></td>
       <td> <b>Russell Zhu</b> <br><br> Russell is a second year student in Computer Science student at The Ohio State University. </td>
     </tr> 
 
