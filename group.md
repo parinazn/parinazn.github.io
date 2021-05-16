@@ -50,15 +50,15 @@ Abby is a third-year Computer Engineering undergraduate student at The Ohio Stat
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width ="400"/></td>
-      <td> <b>Yiqiao Liao</b> <br><br> Yiqiao is is a rising senior in Computer Science at The Ohio State University. </td>
+      <td> <b>Yiqiao Liao</b> <br><br> Yiqiao is a rising senior in Computer Science at The Ohio State University. </td>
     </tr> 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width ="400"/></td>
-      <td> <b>Mingwei Qiu</b> <br><br> Mingwei is a third year student in Computer Science at The Ohio State University. </td>
+      <td> <b>Mingwei Qiu</b> <br><br> Mingwei is a rising junior in Computer Science at The Ohio State University. </td>
     </tr> 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width ="400"/></td>
-      <td> <b>Russell Zhu</b> <br><br> Russell is a second year student in Computer Science student at The Ohio State University. </td>
+      <td> <b>Russell Zhu</b> <br><br> Russell is a second year student in Computer Science at The Ohio State University. </td>
     </tr> 
 
   </tbody>
