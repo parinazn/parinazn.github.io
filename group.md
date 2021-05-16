@@ -44,7 +44,7 @@ Xue is 2nd year MSc student in Electrical and Computer Engineering at Ohio State
 <table>
   <tbody>
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/abby_nichter.JPG" alt="abby_nichter" width ="2600"/></td>
+      <td><img src="{{ site.baseurl }}/imgs/abby_nichter.jpg" alt="abby_nichter" width ="2600"/></td>
       <td><b>Abby Nichter</b> <a href="https://blf.osu.edu/people/abby-nichter/">[Homepage]</a><a href="https://www.linkedin.com/in/abby-nichter/">[LinkedIn]</a><br><br>
 Abby is a third-year Computer Engineering undergraduate student at The Ohio State University. She hopes to use her degree to work in industry for a few years post-graduation, then hopes to return to university to study for her Master’s Degree. She also serves as the Society of Women Engineering Education Co-Director at OSU. Outside of academic and research interests, Abby enjoys stand-up paddle boarding, trying new recipes, and expanding her yoga practice.</td>
     </tr>
