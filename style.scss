@@ -19,13 +19,13 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.2 $helvetica;
+  font: 16px/1.5 $helvetica;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 900px;
+  max-width: 1000px;
   padding: 0 10px;
   width: 100%;
 }
@@ -198,7 +198,7 @@ td, th {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 26px;
   letter-spacing: 1px;
 }
 

@@ -8,6 +8,17 @@ Here is my <a href="https://scholar.google.com/citations?user=rbleSIcAAAAJ&hl=en
 
 <h2>Submitted and working papers</h2>
 
+__Data Debiasing through Exploration and Fairness.__<br> 
+with Yifan Yang and Yang Liu.<br>
+
+__Structured Network Games: Leveraging Community Information in Equilibrium Analysis.__<br> 
+with Kun Jin and Mingyan Liu.<br>
+_submitted to the IEEE Transactions on Automatic Control._
+
+__The Impact of Network Design Interventions on CPS Security.__<br> 
+with Pradeep Orugunti and Qadeer Ahmed.<br>
+_submitted._
+
 __The Impacts of Prediction Technologies on Relational Contracts.__<br>
 with Thanh Nguyen and Shai Vardi.<br>
 _submitted._<br>
