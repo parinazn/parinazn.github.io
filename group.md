@@ -29,7 +29,7 @@ Jessica received her bachelor’s summa cum laude at Ohio State in industrial an
       <td><img src="{{ site.baseurl }}/imgs/abhishek_vijaykumar.png" alt="abhishek_vijaykumar" width = "3000"/></td>
       <td> <b>Abhishek Vijaykumar</b> <a href="https://sites.google.com/view/abhishekvijaykumar/home">[Homepage]</a><a href="https://www.linkedin.com/in/abhishek-vijaykumar-944797152/">[LinkedIn]</a>
 <br><br>
-Abhishk is a 2nd year Masters's student in the ECE department at Ohio State University. His research interest lies in the area of machine learning and signal processing. Outside of college and research, He is a big basketball fan and enjoys playing tennis.</td>
+Abhishek is a 2nd year Masters's student in the ECE department at Ohio State University. His research interest lies in the area of machine learning and signal processing. Outside of college and research, He is a big basketball fan and enjoys playing tennis.</td>
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width ="400"/></td>
