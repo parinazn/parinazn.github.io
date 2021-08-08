@@ -44,22 +44,23 @@ Xue is 2nd year MSc student in Electrical and Computer Engineering at Ohio State
 <table>
   <tbody>
     <tr>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width ="400"/></td>
+      <td> <b>Yiqiao Liao</b> <br><br> Yiqiao is a rising senior in Computer Science at The Ohio State University. </td>
+    </tr> 
+    <tr>
       <td><img src="{{ site.baseurl }}/imgs/abby_nichter.jpg" alt="abby_nichter" width ="2600"/></td>
       <td><b>Abby Nichter</b> <a href="https://blf.osu.edu/people/abby-nichter/">[Homepage]</a><a href="https://www.linkedin.com/in/abby-nichter/">[LinkedIn]</a><br><br>
 Abby is a third-year Computer Engineering undergraduate student at The Ohio State University. She hopes to use her degree to work in industry for a few years post-graduation, then hopes to return to university to study for her Master’s Degree. She also serves as the Society of Women Engineering Education Co-Director at OSU. Outside of academic and research interests, Abby enjoys stand-up paddle boarding, trying new recipes, and expanding her yoga practice.</td>
     </tr>
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width ="400"/></td>
-      <td> <b>Yiqiao Liao</b> <br><br> Yiqiao is a rising senior in Computer Science at The Ohio State University. </td>
+      <td><img src="{{ site.baseurl }}/imgs/russell_zhu.jpeg" alt="russell_zhu" width ="2600"/></td>
+      <td><b>Russell Zhu</b> <a href="https://github.com/zhur123">[GitHub]</a><a href="https://www.linkedin.com/in/russell-zhu/">[LinkedIn]</a><br><br>
+Russell is a rising sophomore majoring in CSE planning on graduating with both a MS and BS by 2024 specializing in AI or software engineering. His broad goal is to use technology to solve problems and make our lives easier. He is the vice president of the Competitive Programming Club and the treasurer for AI Club. In his free time, he likes to cook, spend time in his garden, and play video games.</td>
     </tr> 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width ="400"/></td>
       <td> <b>Mingwei Qiu</b> <br><br> Mingwei is a rising junior in Computer Science at The Ohio State University. </td>
     </tr> 
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width ="400"/></td>
-      <td> <b>Russell Zhu</b> <br><br> Russell is a second year student in Computer Science at The Ohio State University. </td>
-    </tr> 
 
   </tbody>
 </table>
