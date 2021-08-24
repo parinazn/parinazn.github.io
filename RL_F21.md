@@ -9,7 +9,7 @@ permalink: /RL_F21/
 <br>
 <h3>Lecture notes</h3>
 
-__Lecture 1: Introduction__ <a href="{{ site.baseurl }}/teaching/RL_F21/1_Introduction.pdf">(PDF)</a><br> 
+__Lecture 1: Introduction__ <a href="{{ site.baseurl }}/teaching/RL_F21/1_ Introduction.pdf">(PDF)</a><br> 
 
 <br>
 <h3>Homework</h3>
