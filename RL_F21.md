@@ -4,7 +4,7 @@ title: ISE/ECE 7202: Reinforcement Learning
 permalink: /RL_F21/
 ---
 
-<h3>Syllabus</h3> <a href="{{ site.baseurl }}/teaching/RL_F21/syllabus.pdf">PDF</a><br> 
+<h3>Syllabus</h3> <a href="{{ site.baseurl }}/teaching/RL_F21/ISE-ECE-7202-AU21-syllabus.pdf">PDF</a><br> 
 
 <br>
 <h3>Lecture notes</h3>
