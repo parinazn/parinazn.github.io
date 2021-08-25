@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ISE\\ECE 7202: Reinforcement Learning
+title: ISE-ECE 7202: Reinforcement Learning -- Fall 2021
 permalink: /RL_F21/
 ---
 
