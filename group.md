@@ -21,7 +21,7 @@ Yifan is a 2nd year Ph.D. student in Integrated System Engineering at The Ohio S
 <table>
   <tbody>
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/jessica_griffin.JPG" alt="jessica_griffin" width = "1000"/></td>
+      <td><img src="{{ site.baseurl }}/imgs/jessica_griffin.JPG" alt="jessica_griffin" width = "800"/></td>
       <td> <b>Jessica Griffin</b> <a href="https://www.linkedin.com/in/jessica-griffin-165864162/">[LinkedIn]</a> <br><br>
 Jessica received her bachelor’s summa cum laude at Ohio State in industrial and systems engineering with a minor in humanitarian engineering. She is pursuing her master’s in industrial and systems engineering with a specialization in supply chain and logistics. Her internships include NCT Ventures, Eaton Co., Engie N.A., and General Mills. Jessica volunteers with Buckeye Food Alliance and planned mental health events for the College of Engineering. Her previous research focused on designing an anti-racist technology course.</td>
     </tr>
@@ -32,7 +32,7 @@ Jessica received her bachelor’s summa cum laude at Ohio State in industrial an
 Abhishek is a 2nd year Master's student in the ECE department at Ohio State University. His research interest lies in the area of machine learning and signal processing. Outside of college and research, he is a big basketball fan and enjoys playing tennis.</td>
     </tr>
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/xue_zheng.png" alt="xue_zheng" width ="1000"/></td>
+      <td><img src="{{ site.baseurl }}/imgs/xue_zheng.png" alt="xue_zheng" width ="2000"/></td>
       <td> <b>Xue Zheng</b><a href="https://xuezheng96.github.io/XueZheng.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/xue-zheng-a138611b3/">[LinkedIn]</a> <br><br> 
 Xue is a 2nd year MS student in Electrical and Computer Engineering at the Ohio State University. Her research interests are in federated learning, distributed learning, and optimization. </td>
     </tr> 
