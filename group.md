@@ -33,7 +33,7 @@ Abhishek is a 2nd year Master's student in the ECE department at Ohio State Univ
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/xue_zheng.png" alt="xue_zheng" width ="2000"/></td>
-      <td> <b>Xue Zheng</b><a href="https://xuezheng96.github.io/XueZheng.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/xue-zheng-a138611b3/">[LinkedIn]</a> <br><br> 
+      <td> <b>Xue Zheng</b> <a href="https://xuezheng96.github.io/XueZheng.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/xue-zheng-a138611b3/">[LinkedIn]</a> <br><br> 
 Xue is a 2nd year MS student in Electrical and Computer Engineering at the Ohio State University. Her research interests are in federated learning, distributed learning, and optimization. </td>
     </tr> 
   </tbody>
