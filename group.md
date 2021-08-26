@@ -32,9 +32,9 @@ Jessica received her bachelor’s summa cum laude at Ohio State in industrial an
 Abhishek is a 2nd year Master's student in the ECE department at Ohio State University. His research interest lies in the area of machine learning and signal processing. Outside of college and research, he is a big basketball fan and enjoys playing tennis.</td>
     </tr>
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon" width ="400"/></td>
-      <td> <b>Xue Zheng</b> <br><br> 
-Xue is 2nd year MSc student in Electrical and Computer Engineering at Ohio State. </td>
+      <td><img src="{{ site.baseurl }}/imgs/xue_zheng.png" alt="xue_zheng" width ="1000"/></td>
+      <td> <b>Xue Zheng</b><a href="https://xuezheng96.github.io/XueZheng.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/xue-zheng-a138611b3/">[LinkedIn]</a> <br><br> 
+Xue is a 2nd year MS student in Electrical and Computer Engineering at the Ohio State University. Her research interests are in federated learning, distributed learning, and optimization. </td>
     </tr> 
   </tbody>
 </table>
