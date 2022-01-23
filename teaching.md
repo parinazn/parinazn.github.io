@@ -4,9 +4,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
-- ISE 7200: Advanced Nonlinear Optimization. Spring 2020, 2021. 
+- __ISE 7200: Advanced Nonlinear Optimization__. Spring 2020, 2021, 2022. 
 
-- ISE 6194: Reinforcement Learning. Autumn 2020. 
+- __ECE/ISE 7202: Reinforcement Learning__. Autumn 2020, 2021. 
 
-- ISE 4100: Stochastic Modeling and Simulation. Autumn 2020.
+- __ISE 4100: Stochastic Modeling and Simulation__. Autumn 2020.
 
