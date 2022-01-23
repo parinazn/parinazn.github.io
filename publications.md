@@ -8,15 +8,16 @@ Here is my <a href="https://scholar.google.com/citations?user=rbleSIcAAAAJ&hl=en
 
 <h2>Submitted and working papers</h2>
 
-__Data Debiasing through Exploration and Fairness.__<br> 
+__Adaptive Data Debiasing through Bounded Exploration and Fairness.__<br> 
 with Yifan Yang and Yang Liu.<br>
+<a href="https://arxiv.org/pdf/2110.13054.pdf" class="button">pdf<a>
+  
+__Fairness Interventions as (Dis)incentives for Strategic Manipulation.__<br>
+with Xueru Zhang, Mahdi Khalili, Kun Jin, and Mingyan Liu.<br>
+<a href="https://xueruzhang.github.io/publication/manipulation.pdf" class="button">pdf<a>
 
-__Structured Network Games: Leveraging Community Information in Equilibrium Analysis.__<br> 
+__Structured Network Games: Leveraging Relational Information in Equilibrium Analysis.__<br> 
 with Kun Jin and Mingyan Liu.<br>
-_submitted to the IEEE Transactions on Automatic Control._
-
-__The Impact of Network Design Interventions on CPS Security.__<br> 
-with Pradeep Orugunti and Qadeer Ahmed.<br>
 _submitted._
 
 __The Impacts of Prediction Technologies on Relational Contracts.__<br>
@@ -77,16 +78,20 @@ In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 
 <h2>Refereed conference and workshop papers</h2>
 
+__[C22] The Impact of Network Design Interventions on CPS Security.__<br>
+P. S. Oruganti, P. Naghizadeh, Q. Ahmed. <br>
+In _the Control and Decision Conference (CDC'21)_, Dec 2021.<br>
+<a href="https://arxiv.org/pdf/2109.14555" class="button">pdf<a> 
+  
 __[C21] Morshed: Guiding Behavioral Decision-Makers towards Better Security Investment in Interdependent Systems.__<br>
 M. Abdallah, D. Woods, P. Naghizadeh, I. Khalil, T. Cason, S. Sundaram, S. Bagchi.<br>
-To appear in _the 16th ACM Asia Conference on Computer and Communications Security (ASIACCS '21)_, Jun 2021.<br>
+In _the 16th ACM Asia Conference on Computer and Communications Security (ASIACCS '21)_, Jun 2021.<br>
 <a href="https://arxiv.org/pdf/2004.01958.pdf" class="button">pdf<a> 
 
 __[C20] Protecting Assets with
 Heterogeneous Valuations under Behavioral Probability Weighting.__<br>
 M. Abdallah, P. Naghizadeh, T. Cason, S. Bagchi, S. Sundaram. <br>
-In _the Control and Decision
-Conference (CDC'19)_, Dec 2019.
+In _the Control and Decision Conference (CDC'19)_, Dec 2019.
 
 __[C19] Adversarial Contract Design for Private Data Commercialization.__<br>
 P. Naghizadeh, A. Sinha.<br>
@@ -203,7 +208,7 @@ In _the 3rd International Conference on Game Theory for Networks (GameNets)_, 20
 
 __[P5] Paid Prioritization with Content Competition__<br>
 P. Naghizadeh, C. Joe-Wong, M. Chiang.<br>
-_In _arXiv preprint arXiv:2007.14574_, 2020._<br>
+In _arXiv preprint arXiv:2007.14574_, 2020.<br>
 <a href="https://arxiv.org/pdf/2007.14574.pdf" class="button">pdf<a> 
 
 __[P4] Resilient Cyberphysical Systems and their Application Drivers: A Technology Roadmap__<br>
