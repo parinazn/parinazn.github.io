@@ -62,9 +62,14 @@ Our research in this area analyzes the incentives of such strategic agents and t
 
 <h3>Selected Publications</h3>
 
-__The Impacts of Prediction Technologies on Relational Contracts.__<br>
+__Adaptive Data Debiasing through Bounded Exploration and Fairness.__ <a href="https://arxiv.org/pdf/2110.13054.pdf" class="button">(PDF)</a> <br> 
+with Yifan Yang and Yang Liu.<br>
+  
+__Fairness Interventions as (Dis)incentives for Strategic Manipulation.__ <a href="https://xueruzhang.github.io/publication/manipulation.pdf" class="button">(PDF)</a><br>
+with Xueru Zhang, Mahdi Khalili, Kun Jin, and Mingyan Liu.<br>
+
+__The Impacts of Prediction Technologies on Relational Contracts.__ <a href="https://web.ics.purdue.edu/~nguye161/prediction.pdf" class="button">(PDF)</a><br>
 with Thanh Nguyen and Shai Vardi.<br>
-_working paper._
 
 __Adversarial Contract Design for Private Data Commercialization.__
 <a href="{{ site.baseurl }}/papers/conferences/ec19.pdf">(PDF)</a><br>
@@ -118,6 +123,10 @@ Our approach combines theoretical models and data analytics to propose such tool
 Specifically, we have explored the design of cyber insurance contracts so as to incentivize improved security investments by organizations, as well as using data analytics for quantifying and predicting cyber security risks.
 
 <h3>Selected Publications: Incentive Design</h3>
+
+__The Impact of Network Design Interventions on CPS Security.__ <a href="https://arxiv.org/pdf/2109.14555" class="button">(PDF)</a> <br>
+P. S. Oruganti, P. Naghizadeh, Q. Ahmed. <br>
+In _the Control and Decision Conference (CDC'21)_, Dec 2021.<br>
 
 __Using Private and Public Assessments in Security Information Sharing
 Agreements.__
