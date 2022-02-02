@@ -102,7 +102,7 @@ Abby is a Computer Engineering student OSU (class of 2023). She also serves as t
     </tr> 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/mckenna_hollinger.jpg" alt="mckenna_hollinger"></td>
-      <td><b>McKenna Hollinger (CSE BS, Spring 2022 - ) <a href="https://www.linkedin.com/in/mckennahollinger/">[LinkedIn]</a></b> <br><br> McKenna is a Computer Science student at OSU (class of 2023). She is exploring ethical issues in algorithmic decision making, with a focus on privacy.</td>
+      <td><b>McKenna Hollinger (CSE BS, Spring 2022 - )</b> <a href="https://www.linkedin.com/in/mckennahollinger/">[LinkedIn]</a> <br><br> McKenna is a Computer Science student at OSU (class of 2023). Her research in our group is on exploring ethical issues in algorithmic decision making, with a focus on privacy.</td>
     </tr>
   </tbody>
 </table>
