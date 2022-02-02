@@ -48,7 +48,7 @@ Kevin is a PhD student in Electrical and Computer Engineering, co-advised by Pro
 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="amirreza_talebi"></td>
-      <td> <b>Amirreza Talebijamlabad (ISE PhD, Spring 2022 - )</b><br><br>
+      <td> <b>Amirreza Talebijamalabad (ISE PhD, Spring 2022 - )</b><br><br>
 Amirreza is a PhD student in Integrated Systems Engineering. He received his MSc in Operations Research from Grenoble Institute of Technology in 2021, and BSc in Industrial Engineering from University of Tehran in 2019.  
 </td>
     </tr> 
