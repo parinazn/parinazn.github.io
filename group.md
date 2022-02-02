@@ -17,35 +17,30 @@ permalink: /group/
       <td> <b>Yifan Yang (ISE PhD, Spring 2020 - )</b> <a href="https://sites.google.com/view/yangyifan/yifan_yang">[Homepage]</a> <br><br> 
 Yifan is a PhD student in Integrated System Engineering. He obtained his MSc in Statistics from Georgia Tech, and dual BSc degrees in Mathematics and Economics from University of Washington, Seattle. His main research interests lie in decision making under uncertainty, data analytics, and optimization, with a focus on statistical data debiasing algorithms for fair algorithmic decision making.</td>
     </tr> 
-
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="sura_alhanouti"></td>
       <td> <b>Sura Alhanouti (ISE PhD, Autumn 2021 - )</b><br><br> 
 Sura is a PhD student in Integrated Systems Engineering. She received her BSc in Industrial Engineering from Jordan University of Science and Technology. Her research is at the intersection of data analytics, algorithmic decision making, and game theory. 
 </td>
     </tr> 
-
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/pradeep_oruganti.jpg" alt="pradeep_oruganti"></td>
       <td> <b>Pradeep Sharma Oruganti (MAE PhD, Autumn 2021 - )</b> <a href="tbd">[Homepage]</a><a href="www.linkedin.com/in/pradeep-sharma-oruganti">[LinkedIn]</a> <br><br> 
 Pradeep is a 5th year PhD student in Mechanical and Aerospace Engineering. He is advised by Dr. Qadeer Ahmed, and co-advised by Dr. Naghizadeh since Autumn 2021. His research in our group is on game theoretical modeling and analysis of security decision making in cyber physical systems, with applications in automative cyber security. 
 </td>
     </tr> 
-
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="joon_moon"></td>
       <td> <b>Joon Moon (ISE PhD, Autumn 2021 - )</b><br><br> 
 Joon is a PhD student in Integrated System Engineering. He received his BSc and MSc degrees in Industrial Management Engineering from Korea University, in 2018 and 2020, respectively. He joined our group in Autumn 2021, where he is exploring the use of reinforcement learning algorithms in the sharing economy, with a focus on optimal pricing, rebalancing, and hybrid employment decisions for these platforms. 
 </td>
     </tr> 
-
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/kevin_chen.jpg" alt="kevin_chen"></td>
       <td> <b>Kevin Chen (ECE PhD, Spring 2022 - )</b> <a href="https://aciculachen.github.io">[Homepage]</a><br><br> 
 Kevin is a PhD student in Electrical and Computer Engineering, co-advised by Prof. Yener and Prof. Naghizadeh. Prior to joining OSU, he was a full-time research assistant in the  Research Center for Information Technology Innovation (CITI), Academia Sinica, Taiwan. He received his MSc degree in Electrical Engineering from the National Taiwan University in 2017, and BSc in Photonics from National Cheng Kung University, Taiwan in 2015. 
 </td>
     </tr> 
-
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/amirreza_talebi.jpg" alt="amirreza_talebi"></td>
       <td> <b>Amirreza Talebi (ISE PhD, Spring 2022 - )</b> <a href="https://www.linkedin.com/in/amirreza-talebi-915a89130/">[LinkedIn]</a><br><br>
@@ -133,7 +128,6 @@ Jessica was an undergraduate student researcher in our group during Summer 2021,
         <br><br>
 Russell was an undergraduate student researcher in our group during Summer 2021, where he completed a summer independent research course on  algorithmic bias. Next: BSc in CSE, planning on graduating with both a MS and BS by 2024 specializing in AI or software engineering. </td>
     </tr> 
-
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
       <td><b>Mingwei Qiu (CSE BS, Summer 2021)</b> <br><br> Mingwei is a Computer Science student at OSU (class of 2023). She conducted independent research on algorithmic decision making and ethical AI in our group during Summer 2021. Next: CSE BSc at OSU.</td>
