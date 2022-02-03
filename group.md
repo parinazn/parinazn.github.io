@@ -92,7 +92,7 @@ Altan is working on his MSc thesis on multi-agent reinforcement learning, with a
 Abby is a Computer Engineering student OSU (class of 2023). She also serves as the Society of Women Engineering Education Co-Director at OSU. Her research in our group is on studying algorithmic fairness incentives in competitive markets.</td>
     </tr> 
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/adam_wang.jpg" alt="adam_wang"></td>
+      <td><img src="{{ site.baseurl }}/imgs/adam_wang.jpeg" alt="adam_wang"></td>
       <td><b>Adam Wang (ISE BS, Autumn 2021 - )</b> <a href="https://www.linkedin.com/in/adam-wang-9a2573226">[LinkedIn]</a> <br><br> Adam is pursuing a dual degree in Integrated Systems Engineering (specialization in Data Analytics) and Computer Science (specialization in AI) at OSU (class of 2022). His research in our group is on the use of agent-based simulation to study opinion dynamics on multi-layer networks.</td>
     </tr> 
     <tr>
