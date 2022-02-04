@@ -30,7 +30,7 @@ Pradeep is a 5th year PhD student in Mechanical and Aerospace Engineering. He is
 </td>
     </tr> 
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="joon_moon"></td>
+      <td><img src="{{ site.baseurl }}/imgs/joon_moon.jpg" alt="joon_moon"></td>
       <td> <b>Joon Moon (ISE PhD, Autumn 2021 - )</b><br><br> 
 Joon is a PhD student in Integrated System Engineering. He received his BSc and MSc degrees in Industrial Management Engineering from Korea University, in 2018 and 2020, respectively. He joined our group in Autumn 2021, where he is exploring the use of reinforcement learning algorithms in the sharing economy, with a focus on optimal pricing, rebalancing, and hybrid employment decisions for these platforms. 
 </td>
