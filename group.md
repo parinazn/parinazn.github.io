@@ -18,8 +18,8 @@ permalink: /group/
 Yifan is a PhD student in Integrated System Engineering. He obtained his MSc in Statistics from Georgia Tech, and dual BSc degrees in Mathematics and Economics from University of Washington, Seattle. His main research interests lie in decision making under uncertainty, data analytics, and optimization, with a focus on statistical data debiasing algorithms for fair algorithmic decision making.</td>
     </tr> 
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="sura_alhanouti"></td>
-      <td> <b>Sura Alhanouti (ISE PhD, Autumn 2021 - )</b><br><br> 
+      <td><img src="{{ site.baseurl }}/imgs/sura_alhanouti.jpg" alt="sura_alhanouti"></td>
+      <td> <b>Sura Alhanouti (ISE PhD, Autumn 2021 - )</b> <a href="https://www.linkedin.com/in/sura-alhanouti">[LinkedIn]</a> <br><br> 
 Sura is a PhD student in Integrated Systems Engineering. She received her BSc in Industrial Engineering from Jordan University of Science and Technology. Her research is at the intersection of data analytics, algorithmic decision making, and game theory. 
 </td>
     </tr> 
