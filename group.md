@@ -62,12 +62,12 @@ Amirreza is a PhD student in Integrated Systems Engineering. He received his MSc
       <td><img src="{{ site.baseurl }}/imgs/abhishek_vijaykumar.png" alt="abhishek_vijaykumar"></td>
       <td> <b>Abhishek Vijaykumar (ECE MSc, Spring 2021 - )</b> <a href="https://sites.google.com/view/abhishekvijaykumar/home">[Homepage]</a><a href="https://www.linkedin.com/in/abhishek-vijaykumar-944797152/">[LinkedIn]</a>
 <br><br>
-Abhishek is a 2nd year Master's student in the ECE department. His research interest are at the intersection of machine learning and signal processing. His independent MSc research in our group is on automated feature selection for algorithmic fairness. </td>
+Abhishek is a Master's student in the ECE department. His research interest are at the intersection of machine learning and signal processing. His MSc research project in our group is on automated feature selection for algorithmic fairness. </td>
     </tr>
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="altan_torkoglu"></td>
-      <td> <b>Altan Torkoglu (ECE MSc, Spring 2022 - )</b><br><br> 
-Altan is working on his MSc thesis on multi-agent reinforcement learning, with a focus on information sharing and information design in MARL.</td>
+      <td><img src="{{ site.baseurl }}/imgs/altan_turkoglu.jpg" alt="altan_turkoglu"></td>
+      <td> <b>Altan Turkoglu (ECE MSc, Spring 2022 - ) <a href="https://scholar.google.com/citations?user=u-id6-MAAAAJ&hl=en">[Google Scholar]</a></b><br><br> 
+Altan is a master's student working on his MSc thesis on multi-agent reinforcement learning (MARL), with a focus on information sharing and information design in MARL. Altan's other research interests are in computational biology and bioinformatics. He plans to leverage data analytic methods at medical school in the future.</td>
     </tr> 
   </tbody>
 </table>
