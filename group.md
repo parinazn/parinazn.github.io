@@ -83,22 +83,13 @@ Altan is a master's student working on his MSc thesis on multi-agent reinforceme
     </colgroup>
   <tbody>
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
+      <td><img src="{{ site.baseurl }}/imgs/yiqiao_liao.jpg" alt="yiqiao_liao"></td>
       <td> <b>Yiqiao Liao (CSE BSc, Summer 2021 - )</b> <br><br> Yiqiao is a Computer Science student at OSU (class of 2022). He is studying the robustness of different fairness measures introduced in the literature against statistical data biases. </td>
-    </tr> 
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/abby_nichter.jpg" alt="abby_nichter"></td>
-      <td><b>Abby Nichter (CE BSc, Summer 2021 - )</b> <a href="https://blf.osu.edu/people/abby-nichter/">[Homepage]</a><a href="https://www.linkedin.com/in/abby-nichter/">[LinkedIn]</a><br><br>
-Abby is a Computer Engineering student OSU (class of 2023). She also serves as the Society of Women Engineering Education Co-Director at OSU. Her research in our group is on studying algorithmic fairness incentives in competitive markets.</td>
     </tr> 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/adam_wang.jpeg" alt="adam_wang"></td>
       <td><b>Adam Wang (ISE BS, Autumn 2021 - )</b> <a href="https://www.linkedin.com/in/adam-wang-9a2573226">[LinkedIn]</a> <br><br> Adam is pursuing a dual degree in Integrated Systems Engineering (specialization in Data Analytics) and Computer Science (specialization in AI) at OSU (class of 2022). His research in our group is on the use of agent-based simulation to study opinion dynamics on multi-layer networks.</td>
     </tr> 
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/mckenna_hollinger.jpg" alt="mckenna_hollinger"></td>
-      <td><b>McKenna Hollinger (CSE BS, Spring 2022 - )</b> <a href="https://www.linkedin.com/in/mckennahollinger/">[LinkedIn]</a> <br><br> McKenna is a Computer Science student at OSU (class of 2023). Her research in our group is on exploring ethical issues in algorithmic decision making, with a focus on privacy.</td>
-    </tr>
   </tbody>
 </table>
 
@@ -117,6 +108,16 @@ Abby is a Computer Engineering student OSU (class of 2023). She also serves as t
       <td> <b>Xue Zheng (ECE MSc, Spring 2021 - Autumn 2021)</b> <a href="https://xuezheng96.github.io/XueZheng.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/xue-zheng-a138611b3/">[LinkedIn]</a> <br><br> 
 Xue was an MSc student in our group from Spring 2021 through Autumn 2021, where she completed her M.Sc. thesis on "Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning". Her research interests are in federated learning, distributed learning, and optimization. Next: ECE PhD student at OSU. </td>
     </tr> 
+    <tr>
+      <td><img src="{{ site.baseurl }}/imgs/abby_nichter.jpg" alt="abby_nichter"></td>
+      <td><b>Abby Nichter (CE BSc, Summer 2021 - Spring 2022)</b> <a href="https://blf.osu.edu/people/abby-nichter/">[Homepage]</a><a href="https://www.linkedin.com/in/abby-nichter/">[LinkedIn]</a><br><br>
+Abby was an undergraduate researcher in our group during her junior year as a Computer Engineering student OSU. She also serves as the Society of Women Engineering Education Co-Director at OSU. Her research in our group was on studying algorithmic fairness incentives in competitive markets. Next: CE BSc student at OSU (class of 2023).</td>
+    </tr> 
+    <tr>
+      <td><img src="{{ site.baseurl }}/imgs/mckenna_hollinger.jpg" alt="mckenna_hollinger"></td>
+      <td><b>McKenna Hollinger (CSE BSc, Spring 2022)</b> <a href="https://www.linkedin.com/in/mckennahollinger/">[LinkedIn]</a> <br><br> 
+McKenna was an undergraduate researcher in our group during her junior year as a Computer Science student at OSU. McKenna explored ethical issues in algorithmic decision making, with a focus on privacy. Next: CSE BSc student at OSU (class of 2023).</td>
+    </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/jessica_griffin.JPG" alt="jessica_griffin"></td>
       <td> <b>Jessica Griffin (ISE BSc/MSc, Summer 2021)</b> <a href="https://www.linkedin.com/in/jessica-griffin-165864162/">[LinkedIn]</a> <br><br>
