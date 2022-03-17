@@ -4,9 +4,9 @@ title: News
 permalink: /news/
 ---
 
-<b>January 2022.</b> Parinaz received an <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2144283&HistoricalAwards=false">NSF CAREER award</a> for the study of decision making, learning, and incentive design in multilayer networks. 
+<b>January 2022.</b> Parinaz received an <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2144283&HistoricalAwards=false">NSF CAREER award</a> for the study of decision making, learning, and incentive design in multilayer networks. <a href="https://engineering.osu.edu/news/2022/03/naghizadeh-earns-nsf-career-award-multilayer-network-research">[OSU Engineering News]</a>
 
-<b>January 2022.</b> New grant from <a href="https://research.cisco.com/">Cisco research</a> to study fair algorithmic decision making through statistical data biasing.
+<b>January 2022.</b> New grant from <a href="https://research.cisco.com/">Cisco research</a> to study fair algorithmic decision making through statistical data biasing. <a href="https://oied.osu.edu/cisco-and-ohio-state-launch-research-collaboration">[OSU OIED News]</a>
 
 <b>December 2021.</b> Xue successfully defended her MSc thesis on "Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning". Congratulations, Xue!
 
