@@ -111,7 +111,7 @@ Xue was an MSc student in our group from Spring 2021 through Autumn 2021, where 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/abby_nichter.jpg" alt="abby_nichter"></td>
       <td><b>Abby Nichter (CE BSc, Summer 2021 - Spring 2022)</b> <a href="https://blf.osu.edu/people/abby-nichter/">[Homepage]</a><a href="https://www.linkedin.com/in/abby-nichter/">[LinkedIn]</a><br><br>
-Abby was an undergraduate researcher in our group during her junior year as a Computer Engineering student OSU. She also serves as the Society of Women Engineering Education Co-Director at OSU. Her research in our group was on studying algorithmic fairness incentives in competitive markets. Next: CE BSc student at OSU (class of 2023).</td>
+Abby was an undergraduate researcher in our group during her junior year as a Computer Engineering student at OSU. She also serves as the Society of Women Engineering Education Co-Director at OSU. Her research in our group was on studying algorithmic fairness incentives in competitive markets. Next: CE BSc student at OSU (class of 2023).</td>
     </tr> 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/mckenna_hollinger.jpg" alt="mckenna_hollinger"></td>
