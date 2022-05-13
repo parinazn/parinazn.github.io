@@ -4,6 +4,14 @@ title: News
 permalink: /news/
 ---
 
+<b>May 2022.</b> Our paper "Incentive Mechanisms for Strategic Classification and Regression Problems" got accpeted in <a href="https://ec22.sigecom.org">EC 2022</a> (~27% acceptance rate)!
+
+<b>April 2022.</b> Parinaz gave a (virtual) talk at the Institute for Foundations of Data Science (IFDS) <a href="https://sites.google.com/ucsc.edu/ifds-ethics-and-algorithms/home?authuser=0">Ethics and Algorithms SIG</a>. 
+
+<b>April 2022.</b> Two papers accpeted in the <a href="https://iclrsrml.github.io">ICLR 2022 workshop on Socially Responsible Machine Learning</a>! The paper <a href="https://download.huan-zhang.com/events/srml2022/accepted/jin22incentive.pdf">"Incentive Mechanisms in Strategic Learning"</a> led by Kun will be presented as a contributed talk and the paper <a href="https://download.huan-zhang.com/events/srml2022/accepted/liao22impacts.pdf">"The impacts of labeling biases on fairness criteria"</a> by Yiqiao will be presented as a poster.
+
+<b>March 2022.</b> Our paper "TASHAROK: Using Mechanism Design for Enhancing Security Resource Allocation in Interdependent Systems" got accpeted in <a href="https://www.ieee-security.org/TC/SP2022/">IEEE S&P (Oakland)</a> (~14% acceptance rate)!
+
 <b>January 2022.</b> Parinaz received an <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2144283&HistoricalAwards=false">NSF CAREER award</a> for the study of decision making, learning, and incentive design in multilayer networks. <a href="https://engineering.osu.edu/news/2022/03/naghizadeh-earns-nsf-career-award-multilayer-network-research">[OSU Engineering News]</a>
 
 <b>January 2022.</b> New grant from <a href="https://research.cisco.com/">Cisco research</a> to study fair algorithmic decision making through statistical data biasing. <a href="https://oied.osu.edu/cisco-and-ohio-state-launch-research-collaboration">[OSU OIED News]</a>
