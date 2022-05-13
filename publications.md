@@ -78,23 +78,19 @@ In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 
 <h2>Refereed conference and workshop papers</h2>
 
-__[C26] Subsidy Mechanisms for Strategic Classification and Regression Problems.__<br>
+__[C25] Subsidy Mechanisms for Strategic Classification and Regression Problems.__<br>
 K. Jin, X. Zhang, M. Khalili, P. Naghizadeh, and M. Liu <br>
 In _ACM conference on Economics and Computation (EC '22)_, Jul 2022.<br>
+Perliminary version in _ICLR 2022 Workshop on Socially Responsible Machine Learning_, Apr 2022. <a href="https://download.huan-zhang.com/events/srml2022/accepted/jin22incentive.pdf" class="button">pdf<a> 
   
-__[C25] TASHAROK: Using Mechanism Design for Enhancing Security Resource Allocation in Interdependent Systems.__<br>
+__[C24] TASHAROK: Using Mechanism Design for Enhancing Security Resource Allocation in Interdependent Systems.__<br>
 M. Abdallah, D. Woods, P. Naghizadeh, I. Khalil, T. Cason, S. Bagchi, S. Sundaram. <br>
 In _IEEE Symposium on Security and Privacy (IEEE S&P)_, May 2022.<br>  
 
-__[C24] The Impacts of Labeling Biases on Fairness Criteria.__<br>
+__[C23] The Impacts of Labeling Biases on Fairness Criteria.__<br>
 Y. Liao, P. Naghizadeh. <br>
 In _ICLR 2022 Workshop on Socially Responsible Machine Learning_, Apr 2022.<br>
 <a href="https://download.huan-zhang.com/events/srml2022/accepted/liao22impacts.pdf" class="button">pdf<a> 
-  
-__[C23] Incentive Mechanisms in Strategic Learning.__<br>
-K. Jin, X. Zhang, M. Khalili, P. Naghizadeh, and M. Liu <br>
-In _ICLR 2022 Workshop on Socially Responsible Machine Learning_, Apr 2022.<br>
-<a href="https://download.huan-zhang.com/events/srml2022/accepted/jin22incentive.pdf" class="button">pdf<a> 
 
 __[C22] The Impact of Network Design Interventions on CPS Security.__<br>
 P. S. Oruganti, P. Naghizadeh, Q. Ahmed. <br>
