@@ -44,7 +44,7 @@ Kevin is a PhD student in Electrical and Computer Engineering, co-advised by Pro
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/amirreza_talebi.jpg" alt="amirreza_talebi"></td>
       <td> <b>Amirreza Talebi (ISE PhD, Spring 2022 - )</b> <a href="https://www.linkedin.com/in/amirreza-talebi-915a89130/">[LinkedIn]</a><br><br>
-Amirreza is a PhD student in Integrated Systems Engineering. He received his MSc in Operations Research from Grenoble Institute of Technology in 2021, and BSc in Industrial Engineering from University of Tehran in 2019.  
+Amirreza is a PhD student in Integrated Systems Engineering. He received his MSc in Operations Research from Grenoble Institute of Technology in 2021, and BSc in Industrial Engineering from University of Tehran in 2019. His research is on the study of opinion dynamics and learning on multilayer networks. 
 </td>
     </tr> 
 </tbody>
@@ -58,12 +58,6 @@ Amirreza is a PhD student in Integrated Systems Engineering. He received his MSc
        <col span="1" style="width: 80%;">
     </colgroup>
   <tbody>
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/abhishek_vijaykumar.png" alt="abhishek_vijaykumar"></td>
-      <td> <b>Abhishek Vijaykumar (ECE MSc, Spring 2021 - )</b> <a href="https://sites.google.com/view/abhishekvijaykumar/home">[Homepage]</a><a href="https://www.linkedin.com/in/abhishek-vijaykumar-944797152/">[LinkedIn]</a>
-<br><br>
-Abhishek is a Master's student in the ECE department. His research interest are at the intersection of machine learning and signal processing. His MSc research project in our group is on automated feature selection for algorithmic fairness. </td>
-    </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/altan_turkoglu.jpg" alt="altan_turkoglu"></td>
       <td> <b>Altan Turkoglu (ECE MSc, Spring 2022 - ) <a href="https://scholar.google.com/citations?user=u-id6-MAAAAJ&hl=en">[Google Scholar]</a></b><br><br> 
@@ -86,16 +80,12 @@ Altan is a master's student working on his MSc thesis on multi-agent reinforceme
       <td><img src="{{ site.baseurl }}/imgs/yiqiao_liao.jpg" alt="yiqiao_liao"></td>
       <td> <b>Yiqiao Liao (CSE BSc, Summer 2021 - )</b> <br><br> Yiqiao is a Computer Science student at OSU (class of 2022). He is studying the robustness of different fairness measures introduced in the literature against statistical data biases. </td>
     </tr> 
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/adam_wang.jpeg" alt="adam_wang"></td>
-      <td><b>Adam Wang (ISE BS, Autumn 2021 - )</b> <a href="https://www.linkedin.com/in/adam-wang-9a2573226">[LinkedIn]</a> <br><br> Adam is pursuing a dual degree in Integrated Systems Engineering (specialization in Data Analytics) and Computer Science (specialization in AI) at OSU (class of 2022). His research in our group is on the use of agent-based simulation to study opinion dynamics on multi-layer networks.</td>
-    </tr> 
   </tbody>
 </table>
 
 <br>
 
-<h2> Past MSc and BSc Students </h2>
+<h2> Past MSc Students </h2>
 
 <table>
     <colgroup>
@@ -103,11 +93,28 @@ Altan is a master's student working on his MSc thesis on multi-agent reinforceme
        <col span="1" style="width: 80%;">
     </colgroup>
   <tbody>
+ <tr>
+      <td><img src="{{ site.baseurl }}/imgs/abhishek_vijaykumar.png" alt="abhishek_vijaykumar"></td>
+      <td> <b>Abhishek Vijaykumar (ECE MSc, Spring 2021 - Spring 2022)</b> <a href="https://sites.google.com/view/abhishekvijaykumar/home">[Homepage]</a><a href="https://www.linkedin.com/in/abhishek-vijaykumar-944797152/">[LinkedIn]</a>
+<br><br>
+Abhishek was a Master's student in the ECE department. His research interest are at the intersection of machine learning and signal processing. He completed the MSc project "Recursive A-Scores: A Framework for Algorithmically Fair Feature Selection" on automated feature selection for algorithmic fairness. </td>
+    </tr>
 <tr>
       <td><img src="{{ site.baseurl }}/imgs/xue_zheng.png" alt="xue_zheng"></td>
       <td> <b>Xue Zheng (ECE MSc, Spring 2021 - Autumn 2021)</b> <a href="https://xuezheng96.github.io/XueZheng.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/xue-zheng-a138611b3/">[LinkedIn]</a> <br><br> 
 Xue was an MSc student in our group from Spring 2021 through Autumn 2021, where she completed her M.Sc. thesis on "Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning". Her research interests are in federated learning, distributed learning, and optimization. Next: ECE PhD student at OSU. </td>
     </tr> 
+  </tbody>
+</table>
+      
+<h2> Past BSc Students </h2>
+
+<table>
+    <colgroup>
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 80%;">
+    </colgroup>
+  <tbody>
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/abby_nichter.jpg" alt="abby_nichter"></td>
       <td><b>Abby Nichter (CE BSc, Summer 2021 - Spring 2022)</b> <a href="https://blf.osu.edu/people/abby-nichter/">[Homepage]</a><a href="https://www.linkedin.com/in/abby-nichter/">[LinkedIn]</a><br><br>
@@ -118,6 +125,11 @@ Abby was an undergraduate researcher in our group during her junior year as a Co
       <td><b>McKenna Hollinger (CSE BSc, Spring 2022)</b> <a href="https://www.linkedin.com/in/mckennahollinger/">[LinkedIn]</a> <br><br> 
 McKenna was an undergraduate researcher in our group during her junior year as a Computer Science student at OSU. McKenna explored ethical issues in algorithmic decision making, with a focus on privacy. Next: CSE BSc student at OSU (class of 2023).</td>
     </tr>
+    <tr>
+      <td><img src="{{ site.baseurl }}/imgs/adam_wang.jpeg" alt="adam_wang"></td>
+      <td><b>Adam Wang (ISE BS, Autumn 2021)</b> <a href="https://www.linkedin.com/in/adam-wang-9a2573226">[LinkedIn]</a> <br><br> 
+          Adam completed a dual degree in Integrated Systems Engineering (specialization in Data Analytics) and Computer Science (specialization in AI) at OSU (class of 2022). His research in our group was on the use of agent-based simulation to study opinion dynamics on multilayer networks. Next: MSc at GaTech. </td>
+    </tr> 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/jessica_griffin.JPG" alt="jessica_griffin"></td>
       <td> <b>Jessica Griffin (ISE BSc/MSc, Summer 2021)</b> <a href="https://www.linkedin.com/in/jessica-griffin-165864162/">[LinkedIn]</a> <br><br>
