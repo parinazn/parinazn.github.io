@@ -12,9 +12,6 @@ __Adaptive Data Debiasing through Bounded Exploration and Fairness.__<br>
 with Yifan Yang and Yang Liu.<br>
 <a href="https://arxiv.org/pdf/2110.13054.pdf" class="button">pdf<a>
   
-__Fairness Interventions as (Dis)incentives for Strategic Manipulation.__<br>
-with Xueru Zhang, Mahdi Khalili, Kun Jin, and Mingyan Liu.<br>
-<a href="https://xueruzhang.github.io/publication/manipulation.pdf" class="button">pdf<a>
 
 __Structured Network Games: Leveraging Relational Information in Equilibrium Analysis.__<br> 
 with Kun Jin and Mingyan Liu.<br>
@@ -77,10 +74,15 @@ In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 
 
 <h2>Refereed conference and workshop papers</h2>
+  
+__[C26] Fairness Interventions as (Dis)incentives for Strategic Manipulation.__<br>
+X. Zhang, M. Khalili, K. Jin, P. Naghizadeh, M. Liu.<br>
+In _International Conference on Machine Learning (ICML'22)_, Jul 2022.<br>
+<a href="https://xueruzhang.github.io/publication/manipulation.pdf" class="button">pdf<a>
 
 __[C25] Subsidy Mechanisms for Strategic Classification and Regression Problems.__<br>
-K. Jin, X. Zhang, M. Khalili, P. Naghizadeh, and M. Liu <br>
-In _ACM conference on Economics and Computation (EC '22)_, Jul 2022.<br>
+K. Jin, X. Zhang, M. Khalili, P. Naghizadeh, M. Liu. <br>
+In _ACM conference on Economics and Computation (EC'22)_, Jul 2022.<br>
 Perliminary version in _ICLR 2022 Workshop on Socially Responsible Machine Learning_, Apr 2022. <a href="https://download.huan-zhang.com/events/srml2022/accepted/jin22incentive.pdf" class="button">pdf<a> 
   
 __[C24] TASHAROK: Using Mechanism Design for Enhancing Security Resource Allocation in Interdependent Systems.__<br>
@@ -89,7 +91,7 @@ In _IEEE Symposium on Security and Privacy (IEEE S&P)_, May 2022.<br>
 
 __[C23] The Impacts of Labeling Biases on Fairness Criteria.__<br>
 Y. Liao, P. Naghizadeh. <br>
-In _ICLR 2022 Workshop on Socially Responsible Machine Learning_, Apr 2022.<br>
+In _ICLR 2022 Workshop on Socially Responsible Machine Learning_., Apr 2022.<br>
 <a href="https://download.huan-zhang.com/events/srml2022/accepted/liao22impacts.pdf" class="button">pdf<a> 
 
 __[C22] The Impact of Network Design Interventions on CPS Security.__<br>
