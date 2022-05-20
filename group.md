@@ -97,7 +97,7 @@ Altan is a master's student working on his MSc thesis on multi-agent reinforceme
       <td><img src="{{ site.baseurl }}/imgs/abhishek_vijaykumar.png" alt="abhishek_vijaykumar"></td>
       <td> <b>Abhishek Vijaykumar (ECE MSc, Spring 2021 - Spring 2022)</b> <a href="https://sites.google.com/view/abhishekvijaykumar/home">[Homepage]</a><a href="https://www.linkedin.com/in/abhishek-vijaykumar-944797152/">[LinkedIn]</a>
 <br><br>
-Abhishek was a Master's student in the ECE department. His research interest are at the intersection of machine learning and signal processing. He completed the MSc project "Recursive A-Scores: A Framework for Algorithmically Fair Feature Selection" on automated feature selection for algorithmic fairness. </td>
+Abhishek was a Master's student in the ECE department. His research interest are at the intersection of machine learning and signal processing. He completed the MSc project "Recursive A-Scores: A Framework for Algorithmically Fair Feature Selection" on automated feature selection for algorithmic fairness. Next: Micron Technology.</td>
     </tr>
 <tr>
       <td><img src="{{ site.baseurl }}/imgs/xue_zheng.png" alt="xue_zheng"></td>
