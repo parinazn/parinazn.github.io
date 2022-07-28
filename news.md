@@ -4,7 +4,8 @@ title: News
 permalink: /news/
 ---
 
-<b>July 2022.</b> Our paper <a href="https://responsibledecisionmaking.github.io/assets/pdf/papers/25.pdf">"Adaptive Data Debiasing Through Bounded Exploration"</a> got accpeted in the <a href="https://responsibledecisionmaking.github.io">ICML 2022 Responsible Decision Making in Dynamic Environments Workshop</a>!
+<b>July 2022.</b> Our work <a href="https://responsibledecisionmaking.github.io/assets/pdf/papers/25.pdf">"Adaptive Data Debiasing Through Bounded Exploration"</a> was presented by Yifan in the <a href="https://responsibledecisionmaking.github.io">ICML 2022 Responsible Decision Making in Dynamic Environments
+Workshop</a>!
 
 <b>May 2022.</b> Our paper <a href="https://xueruzhang.github.io/publication/manipulation.pdf">"Fairness Interventions as (Dis)Incentives for Strategic Manipulation"</a> got accpeted in <a href="https://icml.cc">ICML 2022</a> (~21.9% acceptance rate)!
 
@@ -12,7 +13,7 @@ permalink: /news/
 
 <b>April 2022.</b> Parinaz gave a (virtual) talk at the Institute for Foundations of Data Science (IFDS) <a href="https://sites.google.com/ucsc.edu/ifds-ethics-and-algorithms/home?authuser=0">Ethics and Algorithms SIG</a>. 
 
-<b>April 2022.</b> Two papers accpeted in the <a href="https://iclrsrml.github.io">ICLR 2022 workshop on Socially Responsible Machine Learning</a>! The paper <a href="https://download.huan-zhang.com/events/srml2022/accepted/jin22incentive.pdf">"Incentive Mechanisms in Strategic Learning"</a> led by Kun will be presented as a contributed talk and the paper <a href="https://download.huan-zhang.com/events/srml2022/accepted/liao22impacts.pdf">"The impacts of labeling biases on fairness criteria"</a> by Yiqiao will be presented as a poster.
+<b>April 2022.</b> Two recent works were presented in the <a href="https://iclrsrml.github.io">ICLR 2022 workshop on Socially Responsible Machine Learning</a>! <a href="https://download.huan-zhang.com/events/srml2022/accepted/jin22incentive.pdf">"Incentive Mechanisms in Strategic Learning"</a> led by Kun was presented as a contributed talk and <a href="https://download.huan-zhang.com/events/srml2022/accepted/liao22impacts.pdf">"The Impacts of Labeling Biases on Fairness Criteria"</a> by Yiqiao was presented as a poster.
 
 <b>March 2022.</b> Our paper "TASHAROK: Using Mechanism Design for Enhancing Security Resource Allocation in Interdependent Systems" got accpeted in <a href="https://www.ieee-security.org/TC/SP2022/">IEEE S&P (Oakland)</a> (~14% acceptance rate)!
 
