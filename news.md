@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 ---
 
+<b>July 2022.</b> Our paper <a href="https://responsibledecisionmaking.github.io/assets/pdf/papers/25.pdf">"Adaptive Data Debiasing Through Bounded Exploration"</a> got accpeted in the <a href="https://responsibledecisionmaking.github.io">ICML 2022 Responsible Decision Making in Dynamic Environments Workshop</a>!
+
 <b>May 2022.</b> Our paper <a href="https://xueruzhang.github.io/publication/manipulation.pdf">"Fairness Interventions as (Dis)Incentives for Strategic Manipulation"</a> got accpeted in <a href="https://icml.cc">ICML 2022</a> (~21.9% acceptance rate)!
 
 <b>May 2022.</b> Our paper "Incentive Mechanisms for Strategic Classification and Regression Problems" got accpeted in <a href="https://ec22.sigecom.org">EC 2022</a> (~27% acceptance rate)!
