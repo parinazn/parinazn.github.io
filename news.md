@@ -6,7 +6,7 @@ permalink: /news/
 
 <b>September 2022.</b> Our paper <a href="tbd">"Adaptive Data Debiasing Through Bounded Exploration"</a> got accpeted in <a href="https://neurips.cc">NeurIPS 2022</a> (~25.6% acceptance rate). Congratulations, Yifan!
 
-<b>September 2022.</b> We received an award from the NSF FW-HTF program for our project "Future of Construction Workplace Health Monitoring", in collaboration with Penn State (lead) and U. Delaware. <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2222654&HistoricalAwards=false">[Link]</a>
+<b>September 2022.</b> We received an award from the NSF FW-HTF program for our project "Future of Construction Workplace Health Monitoring", in collaboration with Penn State (lead) and U. Delaware. <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2222620&HistoricalAwards=false">[Link]</a>
 
 <b>July 2022.</b> Our work <a href="https://responsibledecisionmaking.github.io/assets/pdf/papers/25.pdf">"Adaptive Data Debiasing Through Bounded Exploration"</a> was presented by Yifan in the <a href="https://responsibledecisionmaking.github.io">ICML 2022 Responsible Decision Making in Dynamic Environments
 Workshop</a>.
