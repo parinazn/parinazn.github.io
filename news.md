@@ -4,9 +4,17 @@ title: News
 permalink: /news/
 ---
 
-<b>September 2022.</b> Our paper <a href="tbd">"Adaptive Data Debiasing Through Bounded Exploration"</a> got accpeted in <a href="https://neurips.cc">NeurIPS 2022</a> (~25.6% acceptance rate). Congratulations, Yifan!
+<b>November 2022.</b> Our paper <a href="https://arxiv.org/pdf/2206.00137.pdf">"Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria"</a> got accpeted in <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a> (~19.6% acceptance rate). Congratulations, Yiqiao!
+
+<b>November 2022.</b> Yifan has received a "NeurIPS 2022 Scholar Award" to attend the conference. He will also be a group leader for NeurIPS 2022 High School Outreach Program. Congratulations, Yifan!
+
+<b>September 2022.</b> Our paper <a href="https://openreview.net/pdf?id=Fm7Dt3lC_s2">"Adaptive Data Debiasing Through Bounded Exploration"</a> got accpeted in <a href="https://neurips.cc">NeurIPS 2022</a> (~25.6% acceptance rate). Congratulations, Yifan!
+
+<b>September 2022.</b> We received an award from the NSF FW-HTF program for our project "Future of Construction Workplace Health Monitoring", in collaboration with Penn State (lead) and U. Delaware! <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2222620&HistoricalAwards=false">[Link]</a>
 
 <b>September 2022.</b> We received an award from the NSF FW-HTF program for our project "Future of Construction Workplace Health Monitoring", in collaboration with Penn State (lead) and U. Delaware. <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2222620&HistoricalAwards=false">[Link]</a>
+
+<b>August 2022.</b> Our paper "DiPLe: Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning"</a> got accpeted in <a href="https://itw2022.in">ITW 2022</a>. Congratulations, Xue!
 
 <b>July 2022.</b> Our work <a href="https://responsibledecisionmaking.github.io/assets/pdf/papers/25.pdf">"Adaptive Data Debiasing Through Bounded Exploration"</a> was presented by Yifan in the <a href="https://responsibledecisionmaking.github.io">ICML 2022 Responsible Decision Making in Dynamic Environments
 Workshop</a>.
