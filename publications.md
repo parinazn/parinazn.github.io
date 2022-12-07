@@ -8,28 +8,24 @@ Here is my <a href="https://scholar.google.com/citations?user=rbleSIcAAAAJ&hl=en
 
 <h2>Submitted and working papers</h2>
 
-__Adaptive Data Debiasing through Bounded Exploration and Fairness.__<br> 
-with Yifan Yang and Yang Liu.<br>
-<a href="https://arxiv.org/pdf/2110.13054.pdf" class="button">pdf<a>
-
-__Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria.__<br> 
-with Yiqiao Liao.<br>
-<a href="https://arxiv.org/pdf/2206.00137.pdf" class="button">pdf<a>
-
 __Structured Network Games: Leveraging Relational Information in Equilibrium Analysis.__<br> 
 with Kun Jin and Mingyan Liu.<br>
-_submitted._
+under review in the _ACM Transactions on Economics and Computation_, 2022
 
-__The Impacts of Prediction Technologies on Relational Contracts.__<br>
-with Thanh Nguyen and Shai Vardi.<br>
-_submitted._<br>
-<a href="https://web.ics.purdue.edu/~nguye161/prediction.pdf" class="button">pdf<a> 
+__The Impact of Network Design Interventions on the Security of Interdependent Systems.__<br> 
+with Pradeep Sharma Oruganti and Qadeer Ahmed.<br>
+under review in the _IEEE Transactions on Control of Network Systems_, 2022.
+
+__A Hybrid Employment Model for a Freight Sharing Economy.__<br> 
+with Joon Moon, Guangwen Kong, and Nicholas G. Hall.<br>
+_working paper_, 2022.
 
 __The Role of Managers Revisited.__<br>
 with Thanh Nguyen.<br>
 _working paper._<br>
 <a href="https://web.ics.purdue.edu/~nguye161/manager.pdf" class="button">pdf<a> 
 
+  <br>
 
 <h2>Journal papers</h2>
 
@@ -75,42 +71,52 @@ P. Naghizadeh, M. Liu. <br>
 In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 <a href="{{ site.baseurl }}/papers/journals/ton16.pdf" class="button">pdf<a>
 
+  <br>
 
 <h2>Refereed conference and workshop papers</h2>
+
+__[C29] Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria.__<br> 
+Y Liao, P. Naghizadeh.<br>
+In _Advanced in Neural Informration Processing Systems (AAAI'23)_, Feb 2023.<br>
+<a href="https://arxiv.org/pdf/2206.00137.pdf" class="button">pdf<a>
   
-__[C27] Fairness Interventions as (Dis)incentives for Strategic Manipulation.__<br>
+__[C28] Adaptive Data Debiasing through Bounded Exploration.__<br> 
+Y. Yang, Y. Liu, P. Naghizadeh.<br>
+In _Advanced in Neural Informration Processing Systems (NeurIPS'22)_, Dec 2022.<br>
+<a href="https://openreview.net/pdf?id=Fm7Dt3lC_s2" class="button">pdf<a>
+
+__[C27] DiPLe: Learning Directed Collaboration Graphs for Peer-to- Peer Personalized Learning.__<br> 
+X. Zheng, P. Naghizadeh, A. Yener.<br>
+In _The IEEE Information Theory Workshop (ITW’22)_, Nov 2022.<br>
+  
+__[C26] Fairness Interventions as (Dis)incentives for Strategic Manipulation.__<br>
 X. Zhang, M. Khalili, K. Jin, P. Naghizadeh, M. Liu.<br>
 In _International Conference on Machine Learning (ICML'22)_, Jul 2022.<br>
 <a href="https://xueruzhang.github.io/publication/manipulation.pdf" class="button">pdf<a>
-  
-__[C26] Adaptive Data Debiasing Through Bounded Exploration.__<br>
-  Y. Yang, Y. Liu, P. Naghizadeh. <br>
-  In the _ICML 2022 Responsible Decision Making in Dynamic Environments Workshop_, Jul 2022.<br>
-  <a href="https://responsibledecisionmaking.github.io/assets/pdf/papers/25.pdf" class="button">pdf<a>
 
 __[C25] Subsidy Mechanisms for Strategic Classification and Regression Problems.__<br>
 K. Jin, X. Zhang, M. Khalili, P. Naghizadeh, M. Liu. <br>
-In _ACM conference on Economics and Computation (EC'22)_, Jul 2022. <a href="https://xueruzhang.github.io/publication/ec2022.pdf" class="button">pdf<a><br>
-Perliminary version in _ICLR 2022 Workshop on Socially Responsible Machine Learning_, Apr 2022. <a href="https://download.huan-zhang.com/events/srml2022/accepted/jin22incentive.pdf" class="button">pdf<a> 
+In _ACM conference on Economics and Computation (EC'22)_, Jul 2022.<br> 
+<a href="https://xueruzhang.github.io/publication/ec2022.pdf" class="button">pdf<a>
   
 __[C24] TASHAROK: Using Mechanism Design for Enhancing Security Resource Allocation in Interdependent Systems.__<br>
 M. Abdallah, D. Woods, P. Naghizadeh, I. Khalil, T. Cason, S. Bagchi, S. Sundaram. <br>
 In _IEEE Symposium on Security and Privacy (IEEE S&P)_, May 2022.<br>  
 
-__[C23] The Impacts of Labeling Biases on Fairness Criteria.__<br>
-Y. Liao, P. Naghizadeh. <br>
-In _ICLR 2022 Workshop on Socially Responsible Machine Learning_., Apr 2022.<br>
-<a href="https://download.huan-zhang.com/events/srml2022/accepted/liao22impacts.pdf" class="button">pdf<a> 
-
-__[C22] The Impact of Network Design Interventions on CPS Security.__<br>
+__[C23] The Impact of Network Design Interventions on CPS Security.__<br>
 P. S. Oruganti, P. Naghizadeh, Q. Ahmed. <br>
 In _the Control and Decision Conference (CDC'21)_, Dec 2021.<br>
 <a href="https://arxiv.org/pdf/2109.14555" class="button">pdf<a> 
   
-__[C21] Morshed: Guiding Behavioral Decision-Makers towards Better Security Investment in Interdependent Systems.__<br>
+__[C22] Morshed: Guiding Behavioral Decision-Makers towards Better Security Investment in Interdependent Systems.__<br>
 M. Abdallah, D. Woods, P. Naghizadeh, I. Khalil, T. Cason, S. Sundaram, S. Bagchi.<br>
 In _the 16th ACM Asia Conference on Computer and Communications Security (ASIACCS '21)_, Jun 2021.<br>
 <a href="https://arxiv.org/pdf/2004.01958.pdf" class="button">pdf<a> 
+
+__[C21] The Impacts of Prediction Technologies on Relational Contracts.__<br>
+P. Naghizadeh, T. Nguyen, S. Vardi.<br>
+In _the 30th Workshop on Information Systems and Economics (WISE’19)_, Dec. 2019.<br>
+<a href="https://web.ics.purdue.edu/~nguye161/prediction.pdf" class="button">pdf<a> 
 
 __[C20] Protecting Assets with
 Heterogeneous Valuations under Behavioral Probability Weighting.__<br>
@@ -138,8 +144,7 @@ In _IEEE INFOCOM_, 2019. <br>
 <a href="{{ site.baseurl }}/papers/conferences/infocom19_marl.pdf" class="button">pdf<a>
 
 
-__[C15] Adaptive Fog-Based Output
-Security for Augmented Reality.__<br>
+__[C15] Adaptive Fog-Based Output Security for Augmented Reality.__<br>
 S. Ahn, M. Gorlatova, P. Naghizadeh, M. Chiang, P. Mittal.<br>
 In _ACM SIGCOMM VR/AR Network Workshop_, Aug 2018.<br>
 <a href="{{ site.baseurl }}/papers/conferences/sigcommarvr19.pdf" class="button">pdf<a> 
@@ -226,8 +231,29 @@ on the Economics of Information Security (WEIS)_, Jun 2014.<br>
 __[C1] Establishing Network Reputation via Mechanism Design.__<br>
 P. Naghizadeh, M. Liu.<br>
 In _the 3rd International Conference on Game Theory for Networks (GameNets)_, 2012.
+  
+<br><br>  
 
+<h3>Lightly refereed workshop papers</h3>
 
+__[W3] Adaptive Data Debiasing Through Bounded Exploration.__<br>
+  Y. Yang, Y. Liu, P. Naghizadeh. <br>
+  In the _ICML 2022 Responsible Decision Making in Dynamic Environments Workshop_, Jul 2022.<br>
+  <a href="https://responsibledecisionmaking.github.io/assets/pdf/papers/25.pdf" class="button">pdf<a>
+    
+__[W2] The Impacts of Labeling Biases on Fairness Criteria.__<br>
+Y. Liao, P. Naghizadeh. <br>
+In _ICLR 2022 Workshop on Socially Responsible Machine Learning_., Apr 2022.<br>
+<a href="https://download.huan-zhang.com/events/srml2022/accepted/liao22impacts.pdf" class="button">pdf<a> 
+  
+__[W1] Subsidy Mechanisms for Strategic Classification and Regression Problems.__<br>
+K. Jin, X. Zhang, M. Khalili, P. Naghizadeh, M. Liu. <br>
+In _ICLR 2022 Workshop on Socially Responsible Machine Learning_, Apr 2022.<br>
+  <a href="https://download.huan-zhang.com/events/srml2022/accepted/jin22incentive.pdf" class="button">pdf<a> 
+  
+    
+<br><br> 
+    
 <h3>Non-refereed publications/pre-prints</h3>
 
 __[P5] Paid Prioritization with Content Competition__<br>
