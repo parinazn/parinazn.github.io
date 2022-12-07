@@ -103,7 +103,7 @@ Abhishek was a Master's student in the ECE department. His research interest are
       <td><img src="{{ site.baseurl }}/imgs/xue_zheng.png" alt="xue_zheng"></td>
       <td> <b>Xue Zheng (ECE MSc, Spring 2021 - Autumn 2021)</b> <a href="https://xuezheng96.github.io/XueZheng.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/xue-zheng-a138611b3/">[LinkedIn]</a> <br><br> 
 Xue was an MSc student in our group from Spring 2021 through Autumn 2021, where she completed her M.Sc. thesis on "Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning". Her research interests are in federated learning, distributed learning, and optimization. Next: ECE PhD student at OSU. 
-    </br>
+    <br/>
     Publications: 
           <ul>
           <li>X. Zheng, P. Naghizadeh, A. Yener. "DiPLe: Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning", in <a href="https://itw2022.in">ITW 2022</a>.</li>
@@ -134,7 +134,7 @@ Xue was an MSc student in our group from Spring 2021 through Autumn 2021, where 
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
-      <td><b>Katherine Lovelace (Math and AAAS BS, Summer 2022)</b> <br><br> Katherine was a junior majoring in Math and African American and African Studies at OSU. She conducted independent research on the intersection of algorithmic fairness criteria and US legal anti-dicrimination laws during Summer 2022. Next: Math and AAAS BSc at OSU.</td>
+      <td><b>Katherine Lovelace (Math and AAAS BS, Summer 2022)</b> <br><br> Katherine was a junior majoring in Math and African American and African Studies at OSU. She conducted independent research on the relation between existing algorithmic fairness criteria and US anti-dicrimination laws during Summer 2022. Next: Math and AAAS BSc at OSU.</td>
     </tr> 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/abby_nichter.jpg" alt="abby_nichter"></td>
