@@ -41,12 +41,12 @@ Joon is a PhD student in Integrated System Engineering. He received his BSc and 
 Kevin is a PhD student in Electrical and Computer Engineering, co-advised by Prof. Yener and Prof. Naghizadeh. Prior to joining OSU, he was a full-time research assistant in the  Research Center for Information Technology Innovation (CITI), Academia Sinica, Taiwan. He received his MSc degree in Electrical Engineering from the National Taiwan University in 2017, and BSc in Photonics from National Cheng Kung University, Taiwan in 2015. 
 </td>
     </tr> 
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/amirreza_talebi.jpg" alt="amirreza_talebi"></td>
-      <td> <b>Amirreza Talebi (ISE PhD, Spring 2022 - )</b> <a href="https://www.linkedin.com/in/amirreza-talebi-915a89130/">[LinkedIn]</a><br><br>
-Amirreza is a PhD student in Integrated Systems Engineering. He received his MSc in Operations Research from Grenoble Institute of Technology in 2021, and BSc in Industrial Engineering from University of Tehran in 2019. His research is on the study of opinion dynamics and learning on multilayer networks. 
+  <tr>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
+      <td> <b>Raman Ebrahimi (ECE PhD, Autumn 2022 - )</b> <br><br> 
+Raman is a PhD student in Electrical and Computer Engineering. Prior to joining OSU, he received his BSc degree in Industrial Engineering from the Sharif University of Technology in 2022. His research is on decision making and learning on multilayer networks. 
 </td>
-    </tr> 
+    </tr>
 </tbody>
 </table>
 
@@ -77,8 +77,8 @@ Altan is a master's student working on his MSc thesis on multi-agent reinforceme
     </colgroup>
   <tbody>
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/yiqiao_liao.jpg" alt="yiqiao_liao"></td>
-      <td> <b>Yiqiao Liao (CSE BSc, Summer 2021 - )</b> <br><br> Yiqiao is a Computer Science student at OSU (class of 2022). He is studying the robustness of different fairness measures introduced in the literature against statistical data biases. </td>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
+      <td> <b>Jiaqi Xu (CSE BSc, Summer 2022 - )</b> <br><br> Jiaqi is a Computer Science student at OSU (class of 2023). He is studying the effects of strategic information sharing in multiagent reinforcement learning.</td>
     </tr> 
   </tbody>
 </table>
@@ -102,7 +102,13 @@ Abhishek was a Master's student in the ECE department. His research interest are
 <tr>
       <td><img src="{{ site.baseurl }}/imgs/xue_zheng.png" alt="xue_zheng"></td>
       <td> <b>Xue Zheng (ECE MSc, Spring 2021 - Autumn 2021)</b> <a href="https://xuezheng96.github.io/XueZheng.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/xue-zheng-a138611b3/">[LinkedIn]</a> <br><br> 
-Xue was an MSc student in our group from Spring 2021 through Autumn 2021, where she completed her M.Sc. thesis on "Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning". Her research interests are in federated learning, distributed learning, and optimization. Next: ECE PhD student at OSU. </td>
+Xue was an MSc student in our group from Spring 2021 through Autumn 2021, where she completed her M.Sc. thesis on "Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning". Her research interests are in federated learning, distributed learning, and optimization. Next: ECE PhD student at OSU. 
+    </br>
+    Publications: 
+          <ul>
+          <li>X. Zheng, P. Naghizadeh, A. Yener. "DiPLe: Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning", in <a href="https://itw2022.in">ITW 2022</a>.</li>
+              </ul>
+    </td>
     </tr> 
   </tbody>
 </table>
@@ -114,7 +120,22 @@ Xue was an MSc student in our group from Spring 2021 through Autumn 2021, where 
        <col span="1" style="width: 20%;">
        <col span="1" style="width: 80%;">
     </colgroup>
-  <tbody>
+  <tbody> 
+    <tr>
+      <td><img src="{{ site.baseurl }}/imgs/yiqiao_liao.jpg" alt="yiqiao_liao"></td>
+      <td> <b>Yiqiao Liao (CSE BSc, Summer 2021 - Summer 2022)</b> <br><br> Yiqiao was a Computer Science student at OSU (class of 2022). He investigated the robustness of different fairness measures introduced in the literature against statistical data biases. Next: CSE MSc at UPenn.
+          <br/>
+          Publications: 
+          <ul>
+          <li>Y. Liao and P. Naghizadeh. <a href="https://download.huan-zhang.com/events/srml2022/accepted/liao22impacts.pdf">"The Impacts of Labeling Biases on Fairness Criteria"</a>, (poster) at the ICLR 2022 workshop on Socially Responsible Machine Learning.</li>
+<li>          Y. Liao and P. Naghizadeh. <a href="https://arxiv.org/pdf/2206.00137.pdf">"Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria"</a>, in AAAI 2023 (~19.6% acceptance rate). </li>
+              </ul>
+        </td>
+    </tr>
+    <tr>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
+      <td><b>Katherine Lovelace (Math and AAAS BS, Summer 2022)</b> <br><br> Katherine was a junior majoring in Math and African American and African Studies at OSU. She conducted independent research on the intersection of algorithmic fairness criteria and US legal anti-dicrimination laws during Summer 2022. Next: Math and AAAS BSc at OSU.</td>
+    </tr> 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/abby_nichter.jpg" alt="abby_nichter"></td>
       <td><b>Abby Nichter (CE BSc, Summer 2021 - Spring 2022)</b> <a href="https://blf.osu.edu/people/abby-nichter/">[Homepage]</a><a href="https://www.linkedin.com/in/abby-nichter/">[LinkedIn]</a><br><br>
@@ -143,9 +164,8 @@ Russell was an undergraduate student researcher in our group during Summer 2021,
     </tr> 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
-      <td><b>Mingwei Qiu (CSE BS, Summer 2021)</b> <br><br> Mingwei is a Computer Science student at OSU (class of 2023). She conducted independent research on algorithmic decision making and ethical AI in our group during Summer 2021. Next: CSE BSc at OSU.</td>
+      <td><b>Mingwei Qiu (CSE BS, Summer 2021)</b> <br><br> Mingwei was a Computer Science student at OSU (class of 2023). She conducted independent research on algorithmic decision making and ethical AI in our group during Summer 2021. Next: CSE BSc at OSU.</td>
     </tr> 
-
   </tbody>
 </table>
 
