@@ -77,12 +77,12 @@ In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 
 __[C29] Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria.__<br> 
 Y Liao, P. Naghizadeh.<br>
-In _Advanced in Neural Informration Processing Systems (AAAI'23)_, Feb 2023.<br>
+In _The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI'23)_, Feb 2023.<br>
 <a href="https://arxiv.org/pdf/2206.00137.pdf" class="button">pdf<a>
   
 __[C28] Adaptive Data Debiasing through Bounded Exploration.__<br> 
 Y. Yang, Y. Liu, P. Naghizadeh.<br>
-In _Advanced in Neural Informration Processing Systems (NeurIPS'22)_, Dec 2022.<br>
+In _Advances in Neural Informration Processing Systems (NeurIPS'22)_, Dec 2022.<br>
 <a href="https://openreview.net/pdf?id=Fm7Dt3lC_s2" class="button">pdf<a>
 
 __[C27] DiPLe: Learning Directed Collaboration Graphs for Peer-to- Peer Personalized Learning.__<br> 
