@@ -8,11 +8,11 @@ permalink: /news/
 
 <b>November 2022.</b> Yifan has received a "NeurIPS 2022 Scholar Award" to attend the conference. He will also be a group leader for the NeurIPS 2022 High School Outreach Program. Congratulations, Yifan!
 
+<b>October 2021.</b> Parinaz will serve as a Workshop co-chair for <a href="https://www.sigmobile.org/mobihoc/2023/">MobiHoc 2023</a>. 
+
 <b>September 2022.</b> Our paper <a href="https://openreview.net/pdf?id=Fm7Dt3lC_s2">"Adaptive Data Debiasing Through Bounded Exploration"</a> got accpeted in <a href="https://neurips.cc">NeurIPS 2022</a> (~25.6% acceptance rate). Congratulations, Yifan!
 
 <b>September 2022.</b> We received an award from the NSF FW-HTF program for our project "Future of Construction Workplace Health Monitoring", in collaboration with Penn State (lead) and U. Delaware! <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2222620&HistoricalAwards=false">[Link]</a>
-
-<b>September 2022.</b> We received an award from the NSF FW-HTF program for our project "Future of Construction Workplace Health Monitoring", in collaboration with Penn State (lead) and U. Delaware. <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2222620&HistoricalAwards=false">[Link]</a>
 
 <b>August 2022.</b> Our paper "DiPLe: Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning"</a> got accpeted in <a href="https://itw2022.in">ITW 2022</a>. Congratulations, Xue!
 
