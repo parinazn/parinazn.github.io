@@ -63,17 +63,17 @@ Our research in this area analyzes the incentives of such strategic agents and t
 <h3>Selected Publications</h3>
 
 __Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria.__
-<a href="https://arxiv.org/pdf/2206.00137.pdf">(PDF)<a><br> 
+<a href="https://arxiv.org/pdf/2206.00137.pdf">(PDF)</a><br> 
 Y Liao, P. Naghizadeh.<br>
 In _The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI'23)_, Feb 2023.<br>
   
 __Adaptive Data Debiasing through Bounded Exploration.__
-<a href="https://openreview.net/pdf?id=Fm7Dt3lC_s2">(PDF)<a><br> 
+<a href="https://openreview.net/pdf?id=Fm7Dt3lC_s2">(PDF)</a><br> 
 Y. Yang, Y. Liu, P. Naghizadeh.<br>
 In _Advances in Neural Informration Processing Systems (NeurIPS'22)_, Dec 2022.<br>
   
 __Fairness Interventions as (Dis)incentives for Strategic Manipulation.__
-  <a href="https://xueruzhang.github.io/publication/manipulation.pdf">(PDF)<a><br>
+  <a href="https://xueruzhang.github.io/publication/manipulation.pdf">(PDF)</a><br>
 X. Zhang, M. Khalili, K. Jin, P. Naghizadeh, M. Liu.<br>
 In _International Conference on Machine Learning (ICML'22)_, Jul 2022.<br>
 
