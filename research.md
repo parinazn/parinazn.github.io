@@ -125,7 +125,7 @@ Specifically, we have explored the design of cyber insurance contracts so as to 
 
 <h3>Selected Publications: Incentive Design</h3>
 
-__The Impact of Network Design Interventions on CPS Security.__ <a href="https://arxiv.org/pdf/2109.14555" class="button">(PDF)</a> <br>
+__The Impact of Network Design Interventions on CPS Security.__ <a href="https://arxiv.org/pdf/2109.14555">(PDF)</a> <br>
 P. S. Oruganti, P. Naghizadeh, Q. Ahmed. <br>
 In _the Control and Decision Conference (CDC'21)_, Dec 2021.<br>
 
