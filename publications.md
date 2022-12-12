@@ -20,7 +20,7 @@ __A Hybrid Employment Model for a Freight Sharing Economy.__<br>
 with Joon Moon, Guangwen Kong, and Nicholas G. Hall.<br>
 _working paper_, 2022.
 
-__The Role of Managers Revisited__<br>
+__The Role of Managers Revisited.__<br>
 with Thanh Nguyen.<br>
 _working paper._<br>
 <a href="https://web.ics.purdue.edu/~nguye161/manager.pdf" class="button">pdf</a> 
@@ -59,7 +59,7 @@ In _IEEE Transactions on Information Forensics and Security, 13 (9): 2226-2239_,
 __[J3] Opting out of Incentive Mechanisms: A Study of Security as a Non-Excludable Public Good.__<br>
 P. Naghizadeh, M. Liu.<br>
 In _IEEE Transactions on Information Forensics and Security, 11 (12): 2790-2803_, 2016.<br>
-<a href="{{ site.baseurl }}/papers/journals/tifs16.pdf" class="button">pdf</a>, <a href="https://drive.google.com/file/d/1reEPOLW0gEPVNan66zr_yj-RRmmE1JcX/view" class="button">online appendix</a>.
+<a href="{{ site.baseurl }}/papers/journals/tifs16.pdf" class="button">pdf</a>, <a href="https://drive.google.com/file/d/1reEPOLW0gEPVNan66zr_yj-RRmmE1JcX/view" class="button">online appendix</a>
 
 __[J2] Risky Business: Fine-grained Data Breach Prediction Using Business Profiles.__<br>
 A. Sarabi, P. Naghizadeh, Y. Liu, M. Liu.<br>
