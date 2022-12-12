@@ -243,12 +243,12 @@ __[W3] Adaptive Data Debiasing Through Bounded Exploration.__<br>
     
 __[W2] The Impacts of Labeling Biases on Fairness Criteria.__<br>
 Y. Liao, P. Naghizadeh. <br>
-In _ICLR 2022 Workshop on Socially Responsible Machine Learning_., Apr 2022.<br>
+In the _ICLR 2022 Workshop on Socially Responsible Machine Learning_., Apr 2022.<br>
 <a href="https://download.huan-zhang.com/events/srml2022/accepted/liao22impacts.pdf" class="button">pdf</a> 
   
 __[W1] Subsidy Mechanisms for Strategic Classification and Regression Problems.__<br>
 K. Jin, X. Zhang, M. Khalili, P. Naghizadeh, M. Liu. <br>
-In _ICLR 2022 Workshop on Socially Responsible Machine Learning_, Apr 2022.<br>
+In the _ICLR 2022 Workshop on Socially Responsible Machine Learning_, Apr 2022.<br>
   <a href="https://download.huan-zhang.com/events/srml2022/accepted/jin22incentive.pdf" class="button">pdf</a> 
   
     
