@@ -20,7 +20,7 @@ __A Hybrid Employment Model for a Freight Sharing Economy.__<br>
 with Joon Moon, Guangwen Kong, and Nicholas G. Hall.<br>
 _working paper_, 2022.
 
-__The Role of Managers Revisited.__<br>
+__The Role of Managers Revisited..__<br>
 with Thanh Nguyen.<br>
 _working paper._<br>
 <a href="https://web.ics.purdue.edu/~nguye161/manager.pdf" class="button">pdf</a> 
