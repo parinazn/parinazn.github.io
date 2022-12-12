@@ -16,7 +16,7 @@ Some of the current research projects of our group include:
 </li>
 
 <li>
-<a href="#MLecon">Economics of AI-Driven Decision Making</a>
+<a href="#MLecon">Economics and Ethics of AI-Driven Decision Making</a>
 </li>
 
 <li>
@@ -53,38 +53,39 @@ In _The 55th Annual Allerton Conference on Communication, Control and Computing_
 
 
 
-<h2 id="MLecon">Economics of AI-Driven Decision Making</h2>
+<h2 id="MLecon">Economics and Ethics of AI-Driven Decision Making</h2>
 
 The wide-spread adoption of AI and ML tools for decision making raises questions about the fundamental performance, privacy, and fairness guarantees of algorithmic decision making,
 particularly in the presence of strategic participants. These may include the agents providing the data used in the learning algorithms (e.g., in crowdsourcing),
 as well as the strategic agents who are governed by such decision rules. 
-Our research in this area analyzes the incentives of such strategic agents and their interactions with AI/ML algorithms. 
+Our research in this area analyzes the incentives of such strategic agents and their interactions with AI/ML algorithms, as well as the impacts of data biases on the performance and fairness guarantees of these algorithms. 
 
 <h3>Selected Publications</h3>
 
-__Adaptive Data Debiasing through Bounded Exploration and Fairness.__ <a href="https://arxiv.org/pdf/2110.13054.pdf" class="button">(PDF)</a> <br> 
-with Yifan Yang and Yang Liu.<br>
+__Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria.__
+<a href="https://arxiv.org/pdf/2206.00137.pdf">(PDF)<a><br> 
+Y Liao, P. Naghizadeh.<br>
+In _The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI'23)_, Feb 2023.<br>
   
-__Fairness Interventions as (Dis)incentives for Strategic Manipulation.__ <a href="https://xueruzhang.github.io/publication/manipulation.pdf" class="button">(PDF)</a><br>
-with Xueru Zhang, Mahdi Khalili, Kun Jin, and Mingyan Liu.<br>
+__Adaptive Data Debiasing through Bounded Exploration.__
+<a href="https://openreview.net/pdf?id=Fm7Dt3lC_s2">(PDF)<a><br> 
+Y. Yang, Y. Liu, P. Naghizadeh.<br>
+In _Advances in Neural Informration Processing Systems (NeurIPS'22)_, Dec 2022.<br>
+  
+__Fairness Interventions as (Dis)incentives for Strategic Manipulation.__
+  <a href="https://xueruzhang.github.io/publication/manipulation.pdf">(PDF)<a><br>
+X. Zhang, M. Khalili, K. Jin, P. Naghizadeh, M. Liu.<br>
+In _International Conference on Machine Learning (ICML'22)_, Jul 2022.<br>
 
-__The Impacts of Prediction Technologies on Relational Contracts.__ <a href="https://web.ics.purdue.edu/~nguye161/prediction.pdf" class="button">(PDF)</a><br>
-with Thanh Nguyen and Shai Vardi.<br>
+__Subsidy Mechanisms for Strategic Classification and Regression Problems.__
+<a href="https://xueruzhang.github.io/publication/ec2022.pdf">(PDF)</a><br>
+K. Jin, X. Zhang, M. Khalili, P. Naghizadeh, M. Liu. <br>
+In _ACM conference on Economics and Computation (EC'22)_, Jul 2022.<br> 
 
 __Adversarial Contract Design for Private Data Commercialization.__
 <a href="{{ site.baseurl }}/papers/conferences/ec19.pdf">(PDF)</a><br>
 P. Naghizadeh, A. Sinha.<br>
 In _ACM conference on Economics and Computation (EC '19)_, Jun 2019.<br>
-
-__A Reputation-Based Contract for Repeated Crowdsensing with Costly Verification.__
-<a href="https://arxiv.org/abs/1611.09763">(PDF)</a><br>
-D. Ghavidel, P. Naghizadeh, M. Liu, V. Gupta. <br>
-In _IEEE Transactions on Signal Processing_, vol. 67, no. 23, pp. 6092-6104, 2019.<br>
-
-__Perceptions and Truth: A Mechanism Design Approach to Crowd-Sourcing Reputation.__
-<a href="{{ site.baseurl }}/papers/journals/ton16.pdf">(PDF)</a><br>
-P. Naghizadeh, M. Liu. <br>
-In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 
 
 
@@ -137,7 +138,7 @@ In _IEEE Transactions on Information Forensics and Security_, vol. 15, no. 1, pp
 __Behavioral and Game-Theoretic Security Investments in Interdependent Systems Modeled by Attack Graphs.__
 <a href="https://arxiv.org/pdf/2001.03213.pdf">(PDF)</a><br>
 M. Abdallah, P. Naghizadeh, A. Hota, T. Cason, S. Bagchi, S. Sundaram.<br>
-In _IEEE Transactions on Control of Network Systems_, accepted, 2020.<br>
+In _IEEE Transactions on Control of Network Systems, 7 (4): 1585-1596_, 2020.<br>
 
 __Designing Cyber Insurance Policies: The Role of Pre-Screening and Security Interdependence.__
 <a href="{{ site.baseurl }}/papers/journals/tifs18.pdf">(PDF)</a><br>
