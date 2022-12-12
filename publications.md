@@ -20,11 +20,6 @@ __A Hybrid Employment Model for a Freight Sharing Economy.__<br>
 with Joon Moon, Guangwen Kong, and Nicholas G. Hall.<br>
 _working paper_, 2022.
 
-__The Role of Managers Revisited__
-<a href="https://web.ics.purdue.edu/~nguye161/manager.pdf" class="button">pdf</a>
-<br> 
-with Thanh Nguyen.<br>
-_working paper._<br>
 
   <br>
 
@@ -284,11 +279,17 @@ In the _ICLR 2022 Workshop on Socially Responsible Machine Learning_, Apr 2022.<
     
 <h3>Non-refereed publications/pre-prints</h3>
 
-__[P5] Paid Prioritization with Content Competition.__
+
+__[P6] Paid Prioritization with Content Competition.__
 <a href="https://arxiv.org/pdf/2007.14574.pdf" class="button">pdf</a> 
 <br>
 P. Naghizadeh, C. Joe-Wong, M. Chiang.<br>
 In _arXiv preprint arXiv:2007.14574_, 2020.<br>
+
+__[P5] The Role of Managers Revisited.__
+<a href="https://web.ics.purdue.edu/~nguye161/manager.pdf" class="button">pdf</a>
+<br> 
+P. Naghizadeh, T. Nguyen. 2020.<br>
 
 __[P4] Resilient Cyberphysical Systems and their Application Drivers: A Technology Roadmap.__
 <a href="https://arxiv.org/pdf/2001.00090.pdf" class="button">pdf</a>
