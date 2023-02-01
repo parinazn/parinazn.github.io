@@ -60,7 +60,7 @@ Raman is a PhD student in Electrical and Computer Engineering. Prior to joining 
   <tbody>
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/altan_turkoglu.jpg" alt="altan_turkoglu"></td>
-      <td> <b>Altan Turkoglu (ECE MSc, Spring 2022 - ) <a href="https://scholar.google.com/citations?user=u-id6-MAAAAJ&hl=en">[Google Scholar]</a></b><br><br> 
+      <td> <b>Altan Turkoglu (ECE MSc, Spring 2022 - )</b> <a href="https://scholar.google.com/citations?user=u-id6-MAAAAJ&hl=en">[Google Scholar]</a><br><br> 
 Altan is a master's student working on his MSc thesis on multi-agent reinforcement learning (MARL), with a focus on information sharing and information design in MARL. Altan's other research interests are in computational biology and bioinformatics. He plans to leverage data analytic methods at medical school in the future.</td>
     </tr> 
   </tbody>
@@ -77,11 +77,11 @@ Altan is a master's student working on his MSc thesis on multi-agent reinforceme
     </colgroup>
   <tbody>
  <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
-      <td> <b>Ian Thompson (CSE BSc, Summer 2022 - )</b> <br><br> Ian is a Computer Science and Philosophy major at OSU (class of 2023), where he is an Eminence Fellow and an Honors Student. He is working on his Undergraduate Honors Thesis on investigating the impacts of statistical data biases on algorithmic fairness.</td>
+      <td><img src="{{ site.baseurl }}/imgs/ian_thompson.jpeg" alt="ian_thompson"></td>
+      <td> <b>Ian Thompson (CSE BSc, Summer 2022 - )</b><a href="https://www.linkedin.com/in/ian-p-thompson">[LinkedIn]</a><br><br> Ian is a Computer Science and Philosophy major at OSU (class of 2023), where he is an Eminence Fellow and an Honors Student. He is working on his Undergraduate Honors Thesis on investigating the impacts of statistical data biases on algorithmic fairness.</td>
     </tr>
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
+      <td><img src="{{ site.baseurl }}/imgs/jiqai_xu.jpg" alt="jiaqi_xu"></td>
       <td> <b>Jiaqi Xu (CSE BSc, Summer 2022 - )</b> <br><br> Jiaqi is a Computer Science student at OSU (class of 2023). He is studying the effects of strategic information sharing in multiagent reinforcement learning.</td>
     </tr>  
   </tbody>
