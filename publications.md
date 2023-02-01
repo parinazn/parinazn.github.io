@@ -75,6 +75,12 @@ In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 
 <h2>Refereed conference and workshop papers</h2>
 
+__[C30] Safe Control Using High-Order Measurement Robust Control Barrier Functions.__
+<a href="tbd" class="button">pdf</a>
+<br> 
+P. S. Oruganti, P. Naghizadeh, Q. Ahmed.<br>
+In _The American Control Conference (ACC'23)_, (to appear) May 2023.<br>
+
 __[C29] Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria.__
 <a href="https://arxiv.org/pdf/2206.00137.pdf" class="button">pdf</a>
 <br> 
