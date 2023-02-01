@@ -26,7 +26,7 @@ Sura is a PhD student in Integrated Systems Engineering. She received her BSc in
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/pradeep_oruganti.jpg" alt="pradeep_oruganti"></td>
       <td> <b>Pradeep Sharma Oruganti (MAE PhD, Autumn 2021 - )</b> <a href="tbd">[Homepage]</a><a href="www.linkedin.com/in/pradeep-sharma-oruganti">[LinkedIn]</a> <br><br> 
-Pradeep is a 5th year PhD student in Mechanical and Aerospace Engineering. He is advised by Dr. Qadeer Ahmed, and co-advised by Dr. Naghizadeh since Autumn 2021. His research in our group is on game theoretical modeling and analysis of security decision making in cyber physical systems, with applications in automative cyber security. 
+Pradeep is a 5th year PhD student in Mechanical and Aerospace Engineering. He is advised by Dr. Qadeer Ahmed, and co-advised by Dr. Naghizadeh since Autumn 2021. His research in our group is on game theoretical modeling and analysis of security decision making in cyber physical systems, with applications in automotive cyber security. 
 </td>
     </tr> 
     <tr>
@@ -76,9 +76,33 @@ Altan is a master's student working on his MSc thesis on multi-agent reinforceme
        <col span="1" style="width: 80%;">
     </colgroup>
   <tbody>
+ <tr>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
+      <td> <b>Ian Thompson (CSE BSc, Summer 2022 - )</b> <br><br> Ian is a Computer Science and Philosophy major at OSU (class of 2023), where he is an Eminence Fellow and an Honors Student. He is working on his Undergraduate Honors Thesis on investigating the impacts of statistical data biases on algorithmic fairness.</td>
+    </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
       <td> <b>Jiaqi Xu (CSE BSc, Summer 2022 - )</b> <br><br> Jiaqi is a Computer Science student at OSU (class of 2023). He is studying the effects of strategic information sharing in multiagent reinforcement learning.</td>
+    </tr>  
+  </tbody>
+</table>
+
+<br>
+
+<h2 id="highschool"> High School Students </h2>
+<table>
+    <colgroup>
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 80%;">
+    </colgroup>
+  <tbody>
+          <tr>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
+      <td> <b>Armela Hasanbelli (Junior, Metro High School, Spring 2023 - )</b> <br><br> Armela is a junior at Metro High School. She is working on her Capstone Project on investigating the impacts of statistical data biases on algorithmic fairness.</td>
+    </tr> 
+ <tr>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
+      <td> <b>Shahid Maniar (Junior, Metro High School, Spring 2023 - )</b> <br><br> Shahid is a junior at Metro High School. He is working on his Capstone Project on investigating the impacts of statistical data biases on algorithmic fairness.</td>
     </tr> 
   </tbody>
 </table>
@@ -134,7 +158,7 @@ Xue was an MSc student in our group from Spring 2021 through Autumn 2021, where 
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
-      <td><b>Katherine Lovelace (Math and AAAS BS, Summer 2022)</b> <br><br> Katherine was a junior majoring in Math and African American and African Studies at OSU. She conducted independent research on the relation between existing algorithmic fairness criteria and US anti-dicrimination laws during Summer 2022. Next: Math and AAAS BSc at OSU.</td>
+      <td><b>Katherine Lovelace (Math and AAAS BS, Summer 2022)</b> <br><br> Katherine was a junior majoring in Math and African American and African Studies at OSU. She conducted independent research on the relation between existing algorithmic fairness criteria and US anti-discrimination laws during Summer 2022. Next: Math and AAAS BSc at OSU.</td>
     </tr> 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/abby_nichter.jpg" alt="abby_nichter"></td>
