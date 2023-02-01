@@ -93,7 +93,9 @@ __[C28] Adaptive Data Debiasing through Bounded Exploration.__
 Y. Yang, Y. Liu, P. Naghizadeh.<br>
 In _Advances in Neural Informration Processing Systems (NeurIPS'22)_, Dec 2022.<br>
 
-__[C27] DiPLe: Learning Directed Collaboration Graphs for Peer-to- Peer Personalized Learning.__<br> 
+__[C27] DiPLe: Learning Directed Collaboration Graphs for Peer-to- Peer Personalized Learning.__
+<a href="{{ site.baseurl }}/papers/conferences/itw22.pdf" class="button">pdf</a>
+<br> 
 X. Zheng, P. Naghizadeh, A. Yener.<br>
 In _The IEEE Information Theory Workshop (ITW’22)_, Nov 2022.<br>
   
