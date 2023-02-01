@@ -25,7 +25,7 @@ Sura is a PhD student in Integrated Systems Engineering. She received her BSc in
     </tr> 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/pradeep_oruganti.jpg" alt="pradeep_oruganti"></td>
-      <td> <b>Pradeep Sharma Oruganti (MAE PhD, Autumn 2021 - )</b> <a href="tbd">[Homepage]</a><a href="www.linkedin.com/in/pradeep-sharma-oruganti">[LinkedIn]</a> <br><br> 
+      <td> <b>Pradeep Sharma Oruganti (MAE PhD, Autumn 2021 - )</b> <a href="www.linkedin.com/in/pradeep-sharma-oruganti">[LinkedIn]</a> <br><br> 
 Pradeep is a 5th year PhD student in Mechanical and Aerospace Engineering. He is advised by Dr. Qadeer Ahmed, and co-advised by Dr. Naghizadeh since Autumn 2021. His research in our group is on game theoretical modeling and analysis of security decision making in cyber physical systems, with applications in automotive cyber security. 
 </td>
     </tr> 
@@ -42,8 +42,8 @@ Kevin is a PhD student in Electrical and Computer Engineering, co-advised by Pro
 </td>
     </tr> 
   <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
-      <td> <b>Raman Ebrahimi (ECE PhD, Autumn 2022 - )</b> <br><br> 
+      <td><img src="{{ site.baseurl }}/imgs/raman_ebrahimi.jpg" alt="raman_ebrahimi"></td>
+      <td> <b>Raman Ebrahimi (ECE PhD, Autumn 2022 - )</b> <a href="https://ramanek.com">[Homepage]</a><a href="https://www.linkedin.com/in/ramanebrahimi/">[LinkedIn]</a> <br><br> 
 Raman is a PhD student in Electrical and Computer Engineering. Prior to joining OSU, he received his BSc degree in Industrial Engineering from the Sharif University of Technology in 2022. His research is on decision making and learning on multilayer networks. 
 </td>
     </tr>
