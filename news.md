@@ -4,6 +4,16 @@ title: News
 permalink: /news/
 ---
 
+<b>January 2023.</b> We have received a new grant from <a href="https://research.cisco.com/">Cisco research</a> to study fair federated learning from biased datasets.
+
+<b>January 2023.</b> Our paper "Safe Control Using High-Order Measurement Robust Control Barrier Functions" got accepted in <a href="https://acc2023.a2c2.org">ACC 2023</a>. Congratulations, Pradeep!
+
+<b>January 2023.</b> Armela and Shahid, juniors at <a href="https://www.themetroschool.org">Metro High School</a>, are joining our group to work on their Capstone project on AI fairness during Spring 2023. Welcome!
+
+<b>January 2023.</b> Parinaz gave a talk on "Social Bias Meets Data Bias: Biased Training Data and Fair AI" at the <a href="https://vanderbiltml.github.io">Vanderbilt Machine Learning Seminar</a>. 
+
+<b>December 2023.</b> Ian is awarded a research grant from the OSU college of engineering to support his Undergraduate Honors Research. Congratulations, Ian!
+
 <b>November 2022.</b> Our paper <a href="https://arxiv.org/pdf/2206.00137.pdf">"Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria"</a> got accepted in <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a> (~19.6% acceptance rate). Congratulations, Yiqiao!
 
 <b>November 2022.</b> Yifan has received a "NeurIPS 2022 Scholar Award" to attend the conference. He will also be a group leader for the NeurIPS 2022 High School Outreach Program. Congratulations, Yifan!
