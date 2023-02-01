@@ -78,10 +78,10 @@ Altan is a master's student working on his MSc thesis on multi-agent reinforceme
   <tbody>
  <tr>
       <td><img src="{{ site.baseurl }}/imgs/ian_thompson.jpeg" alt="ian_thompson"></td>
-      <td> <b>Ian Thompson (CSE BSc, Summer 2022 - )</b><a href="https://www.linkedin.com/in/ian-p-thompson">[LinkedIn]</a><br><br> Ian is a Computer Science and Philosophy major at OSU (class of 2023), where he is an Eminence Fellow and an Honors Student. He is working on his Undergraduate Honors Thesis on investigating the impacts of statistical data biases on algorithmic fairness.</td>
+      <td> <b>Ian Thompson (CSE BSc, Summer 2022 - )</b> <a href="https://www.linkedin.com/in/ian-p-thompson">[LinkedIn]</a><br><br> Ian is a Computer Science and Philosophy major at OSU (class of 2023), where he is an Eminence Fellow and an Honors Student. He is working on his Undergraduate Honors Thesis on investigating the impacts of statistical data biases on algorithmic fairness.</td>
     </tr>
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/jiqai_xu.jpg" alt="jiaqi_xu"></td>
+      <td><img src="{{ site.baseurl }}/imgs/jiaqi_xu.jpg" alt="jiaqi_xu"></td>
       <td> <b>Jiaqi Xu (CSE BSc, Summer 2022 - )</b> <br><br> Jiaqi is a Computer Science student at OSU (class of 2023). He is studying the effects of strategic information sharing in multiagent reinforcement learning.</td>
     </tr>  
   </tbody>
