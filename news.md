@@ -4,6 +4,16 @@ title: News
 permalink: /news/
 ---
 
+<b>April 2023.</b> Congratulations to our group members Pradeep Sharma Oruganti (PhD), Altan Turkoglu (MSc), and Ian Thompson (BSc) for the successful defense of their theses!</a>. 
+
+<b>April 2023.</b> Parinaz gave a talk on "(Fair) ML with Human in the Loop: Strategic Behavior and Incentive Design" at the <a href="https://mwcgt2023.umn.edu">Midwest Workshop on Control and Game Theory</a>. 
+
+<b>April 2023.</b> Our paper "The Impact of Network Design Interventions on the Security of Interdependent Systems" is accepted in the <a href="https://ieeecss.org/publication/transactions-control-network-systems">IEEE Transactions on Control of Network Systems</a>. Congratulations, Pradeep!</a>. 
+
+<b>April 2023.</b> Parinaz is voted "Outstanding ISE Faculty Member" by the ISE class of 2023! 
+
+<b>February 2023.</b> Parinaz gave a talk on "Adaptive Data Debiasing through Bounded Exploration" at <a href="https://ita.ucsd.edu">ITA 2023</a>. 
+
 <b>January 2023.</b> We have received a new grant from <a href="https://research.cisco.com/">Cisco research</a> to study fair federated learning from biased datasets.
 
 <b>January 2023.</b> Our paper "Safe Control Using High-Order Measurement Robust Control Barrier Functions" got accepted in <a href="https://acc2023.a2c2.org">ACC 2023</a>. Congratulations, Pradeep!
