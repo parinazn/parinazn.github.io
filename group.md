@@ -84,7 +84,7 @@ Ishika is a BSc student in the ECE department. She is developing agent-based sim
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/pradeep_oruganti.jpg" alt="pradeep_oruganti"></td>
       <td> <b>Pradeep Sharma Oruganti (MAE PhD, Autumn 2021 - Spring 2023)</b> <a href="www.linkedin.com/in/pradeep-sharma-oruganti">[LinkedIn]</a> <br><br> 
-Pradeep was a PhD student in Mechanical and Aerospace Engineering. He was advised by Dr. Qadeer Ahmed, and co-advised by Dr. Naghizadeh since Autumn 2021. His research in our group is on game theoretical modeling and analysis of security decision making in cyber physical systems, with applications in automotive cyber security. He completed a PhD thesis on "Safety and Security Assurance for Automotive Systems". Next: Postdoctoral Researcher at OSU.
+Pradeep was a PhD student in Mechanical and Aerospace Engineering. He was advised by Dr. Qadeer Ahmed, and co-advised by Dr. Naghizadeh since Autumn 2021. His research in our group was on game theoretical modeling and analysis of security decision making in cyber physical systems, with applications in automotive cyber security. He completed a PhD thesis on "Safety and Security Assurance for Automotive Systems". Next: Postdoctoral Researcher at OSU.
 </td>
      </tr>
   </tbody>
@@ -103,7 +103,7 @@ Pradeep was a PhD student in Mechanical and Aerospace Engineering. He was advise
   <tr>
       <td><img src="{{ site.baseurl }}/imgs/altan_turkoglu.jpg" alt="altan_turkoglu"></td>
       <td> <b>Altan Turkoglu (ECE MSc, Spring 2022 - Spring 2023)</b> <a href="https://scholar.google.com/citations?user=u-id6-MAAAAJ&hl=en">[Google Scholar]</a><br><br> 
-Altan was a master's student in the ECE department. He completed the MSc thesis on "Multi-Agent Reinforcement Learning and Information Sharing". Altan's other research interests are in computational biology and bioinformatics. He plans to leverage data analytic methods at medical school in the future. Next: M.D./Ph.D. at OSU.</td>
+Altan was a master's student in the ECE department. He completed his MSc thesis on "Multi-Agent Reinforcement Learning and Information Sharing". Altan's other research interests are in computational biology and bioinformatics. He plans to leverage data analytic methods at medical school in the future. Next: M.D./Ph.D. at OSU.</td>
     </tr> 
       
  <tr>
@@ -136,7 +136,7 @@ Xue was an MSc student in our group from Spring 2021 through Autumn 2021, where 
   <tbody> 
    <tr>
       <td><img src="{{ site.baseurl }}/imgs/ian_thompson.jpeg" alt="ian_thompson"></td>
-      <td> <b>Ian Thompson (CSE BSc, Summer 2022 - Spring 2023)</b> <a href="https://www.linkedin.com/in/ian-p-thompson">[LinkedIn]</a><br><br> Ian is a Computer Science and Philosophy major at OSU (class of 2023), where he was an Eminence Fellow and an Honors Student. He completed an Undergraduate Honors Thesis on investigating the impacts of statistical data biases on algorithmic fairness.</td>
+      <td> <b>Ian Thompson (CSE BSc, Summer 2022 - Spring 2023)</b> <a href="https://www.linkedin.com/in/ian-p-thompson">[LinkedIn]</a><br><br> Ian was a Computer Science and Philosophy major at OSU (class of 2023), where he was an Eminence Fellow and an Honors Student. He completed an Undergraduate Honors Thesis on investigating the impacts of statistical data biases on algorithmic fairness.</td>
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/jiaqi_xu.jpg" alt="jiaqi_xu"></td>
