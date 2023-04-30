@@ -23,24 +23,6 @@ Yifan is a PhD student in Integrated System Engineering. He obtained his MSc in 
 Sura is a PhD student in Integrated Systems Engineering. She received her BSc in Industrial Engineering from Jordan University of Science and Technology. Her research is at the intersection of data analytics, algorithmic decision making, and game theory. 
 </td>
     </tr> 
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/pradeep_oruganti.jpg" alt="pradeep_oruganti"></td>
-      <td> <b>Pradeep Sharma Oruganti (MAE PhD, Autumn 2021 - )</b> <a href="www.linkedin.com/in/pradeep-sharma-oruganti">[LinkedIn]</a> <br><br> 
-Pradeep is a 5th year PhD student in Mechanical and Aerospace Engineering. He is advised by Dr. Qadeer Ahmed, and co-advised by Dr. Naghizadeh since Autumn 2021. His research in our group is on game theoretical modeling and analysis of security decision making in cyber physical systems, with applications in automotive cyber security. 
-</td>
-    </tr> 
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/joon_moon.jpg" alt="joon_moon"></td>
-      <td> <b>Joon Moon (ISE PhD, Autumn 2021 - )</b><br><br> 
-Joon is a PhD student in Integrated System Engineering. He received his BSc and MSc degrees in Industrial Management Engineering from Korea University, in 2018 and 2020, respectively. He joined our group in Autumn 2021, where he is exploring the use of reinforcement learning algorithms in the sharing economy, with a focus on optimal pricing, rebalancing, and hybrid employment decisions for these platforms. 
-</td>
-    </tr> 
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/kevin_chen.jpg" alt="kevin_chen"></td>
-      <td> <b>Kevin Chen (ECE PhD, Spring 2022 - )</b> <a href="https://aciculachen.github.io">[Homepage]</a><br><br> 
-Kevin is a PhD student in Electrical and Computer Engineering, co-advised by Prof. Yener and Prof. Naghizadeh. Prior to joining OSU, he was a full-time research assistant in the  Research Center for Information Technology Innovation (CITI), Academia Sinica, Taiwan. He received his MSc degree in Electrical Engineering from the National Taiwan University in 2017, and BSc in Photonics from National Cheng Kung University, Taiwan in 2015. 
-</td>
-    </tr> 
   <tr>
       <td><img src="{{ site.baseurl }}/imgs/raman_ebrahimi.jpg" alt="raman_ebrahimi"></td>
       <td> <b>Raman Ebrahimi (ECE PhD, Autumn 2022 - )</b> <a href="https://ramanek.com">[Homepage]</a><a href="https://www.linkedin.com/in/ramanebrahimi/">[LinkedIn]</a> <br><br> 
@@ -48,22 +30,6 @@ Raman is a PhD student in Electrical and Computer Engineering. Prior to joining 
 </td>
     </tr>
 </tbody>
-</table>
-
-<h2 id="masters"> MSc Students </h2>
-
-<table>
-    <colgroup>
-       <col span="1" style="width: 20%;">
-       <col span="1" style="width: 80%;">
-    </colgroup>
-  <tbody>
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/altan_turkoglu.jpg" alt="altan_turkoglu"></td>
-      <td> <b>Altan Turkoglu (ECE MSc, Spring 2022 - )</b> <a href="https://scholar.google.com/citations?user=u-id6-MAAAAJ&hl=en">[Google Scholar]</a><br><br> 
-Altan is a master's student working on his MSc thesis on multi-agent reinforcement learning (MARL), with a focus on information sharing and information design in MARL. Altan's other research interests are in computational biology and bioinformatics. He plans to leverage data analytic methods at medical school in the future.</td>
-    </tr> 
-  </tbody>
 </table>
 
 <br>
@@ -76,14 +42,12 @@ Altan is a master's student working on his MSc thesis on multi-agent reinforceme
        <col span="1" style="width: 80%;">
     </colgroup>
   <tbody>
- <tr>
-      <td><img src="{{ site.baseurl }}/imgs/ian_thompson.jpeg" alt="ian_thompson"></td>
-      <td> <b>Ian Thompson (CSE BSc, Summer 2022 - )</b> <a href="https://www.linkedin.com/in/ian-p-thompson">[LinkedIn]</a><br><br> Ian is a Computer Science and Philosophy major at OSU (class of 2023), where he is an Eminence Fellow and an Honors Student. He is working on his Undergraduate Honors Thesis on investigating the impacts of statistical data biases on algorithmic fairness.</td>
-    </tr>
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/jiaqi_xu.jpg" alt="jiaqi_xu"></td>
-      <td> <b>Jiaqi Xu (CSE BSc, Summer 2022 - )</b> <br><br> Jiaqi is a Computer Science student at OSU (class of 2023). He is studying the effects of strategic information sharing in multiagent reinforcement learning.</td>
-    </tr>  
+          <tr>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
+      <td> <b>Ishika Gupta (ECE BSc, Spring 2023 - )</b><br><br> 
+Ishika is a BSc student in the ECE department. She is developing agent-based simulation tools to invetigate dynamic decision making on multilayer networks. She is part of TEK8 program, and will work on tranlating her research experience into educational modules for local middle school classrooms during Autumn.</td>
+    </tr> 
+      
   </tbody>
 </table>
 
@@ -109,6 +73,25 @@ Altan is a master's student working on his MSc thesis on multi-agent reinforceme
 
 <br>
 
+<h2 id="masters"> Past PhD Students </h2>
+
+<table>
+    <colgroup>
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 80%;">
+    </colgroup>
+  <tbody>
+    <tr>
+      <td><img src="{{ site.baseurl }}/imgs/pradeep_oruganti.jpg" alt="pradeep_oruganti"></td>
+      <td> <b>Pradeep Sharma Oruganti (MAE PhD, Autumn 2021 - Spring 2023)</b> <a href="www.linkedin.com/in/pradeep-sharma-oruganti">[LinkedIn]</a> <br><br> 
+Pradeep was a PhD student in Mechanical and Aerospace Engineering. He was advised by Dr. Qadeer Ahmed, and co-advised by Dr. Naghizadeh since Autumn 2021. His research in our group is on game theoretical modeling and analysis of security decision making in cyber physical systems, with applications in automotive cyber security. He completed a PhD thesis on "Safety and Security Assurance for Automotive Systems". Next: Postdoctoral Researcher at OSU.
+</td>
+     </tr>
+  </tbody>
+</table>
+
+<br>
+
 <h2> Past MSc Students </h2>
 
 <table>
@@ -117,6 +100,12 @@ Altan is a master's student working on his MSc thesis on multi-agent reinforceme
        <col span="1" style="width: 80%;">
     </colgroup>
   <tbody>
+  <tr>
+      <td><img src="{{ site.baseurl }}/imgs/altan_turkoglu.jpg" alt="altan_turkoglu"></td>
+      <td> <b>Altan Turkoglu (ECE MSc, Spring 2022 - Spring 2023)</b> <a href="https://scholar.google.com/citations?user=u-id6-MAAAAJ&hl=en">[Google Scholar]</a><br><br> 
+Altan was a master's student in the ECE department. He completed the MSc thesis on "Multi-Agent Reinforcement Learning and Information Sharing". Altan's other research interests are in computational biology and bioinformatics. He plans to leverage data analytic methods at medical school in the future. Next: M.D./Ph.D. at OSU.</td>
+    </tr> 
+      
  <tr>
       <td><img src="{{ site.baseurl }}/imgs/abhishek_vijaykumar.png" alt="abhishek_vijaykumar"></td>
       <td> <b>Abhishek Vijaykumar (ECE MSc, Spring 2021 - Spring 2022)</b> <a href="https://sites.google.com/view/abhishekvijaykumar/home">[Homepage]</a><a href="https://www.linkedin.com/in/abhishek-vijaykumar-944797152/">[LinkedIn]</a>
@@ -145,6 +134,14 @@ Xue was an MSc student in our group from Spring 2021 through Autumn 2021, where 
        <col span="1" style="width: 80%;">
     </colgroup>
   <tbody> 
+   <tr>
+      <td><img src="{{ site.baseurl }}/imgs/ian_thompson.jpeg" alt="ian_thompson"></td>
+      <td> <b>Ian Thompson (CSE BSc, Summer 2022 - Spring 2023)</b> <a href="https://www.linkedin.com/in/ian-p-thompson">[LinkedIn]</a><br><br> Ian is a Computer Science and Philosophy major at OSU (class of 2023), where he was an Eminence Fellow and an Honors Student. He completed an Undergraduate Honors Thesis on investigating the impacts of statistical data biases on algorithmic fairness.</td>
+    </tr>
+    <tr>
+      <td><img src="{{ site.baseurl }}/imgs/jiaqi_xu.jpg" alt="jiaqi_xu"></td>
+      <td> <b>Jiaqi Xu (CSE BSc, Summer 2022 - Spring 2023)</b> <br><br> Jiaqi was a Computer Science student at OSU (class of 2023). He conducted independent BSc research in our group, investigating the effects of strategic information sharing in multiagent reinforcement learning. Next: CSE MSc at University of Michigan.</td>
+    </tr>      
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/yiqiao_liao.jpg" alt="yiqiao_liao"></td>
       <td> <b>Yiqiao Liao (CSE BSc, Summer 2021 - Summer 2022)</b> <br><br> Yiqiao was a Computer Science student at OSU (class of 2022). He investigated the robustness of different fairness measures introduced in the literature against statistical data biases. Next: CSE MSc at UPenn.
