@@ -136,7 +136,7 @@ Xue was an MSc student in our group from Spring 2021 through Autumn 2021, where 
   <tbody> 
    <tr>
       <td><img src="{{ site.baseurl }}/imgs/ian_thompson.jpeg" alt="ian_thompson"></td>
-      <td> <b>Ian Thompson (CSE BSc, Summer 2022 - Spring 2023)</b> <a href="https://www.linkedin.com/in/ian-p-thompson">[LinkedIn]</a><br><br> Ian was a Computer Science and Philosophy major at OSU (class of 2023), where he was an Eminence Fellow and an Honors Student. He completed an Undergraduate Honors Thesis on investigating the impacts of statistical data biases on algorithmic fairness.</td>
+      <td> <b>Ian Thompson (ECE BSc, Summer 2022 - Spring 2023)</b> <a href="https://www.linkedin.com/in/ian-p-thompson">[LinkedIn]</a><br><br> Ian was a Computer Science and Philosophy major at OSU (class of 2023), where he was an Eminence Fellow and an Honors Student. He completed an Undergraduate Honors Thesis on investigating the impacts of statistical data biases on algorithmic fairness.</td>
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/jiaqi_xu.jpg" alt="jiaqi_xu"></td>
