@@ -10,11 +10,7 @@ Here is my <a href="https://scholar.google.com/citations?user=rbleSIcAAAAJ&hl=en
 
 __Structured Network Games: Leveraging Relational Information in Equilibrium Analysis.__<br> 
 with Kun Jin and Mingyan Liu.<br>
-under review in the _ACM Transactions on Economics and Computation_, 2022
-
-__The Impact of Network Design Interventions on the Security of Interdependent Systems.__<br> 
-with Pradeep Sharma Oruganti and Qadeer Ahmed.<br>
-under review in the _IEEE Transactions on Control of Network Systems_, 2022.
+under review in the _IEEE Transactions on Network Science and Engineering_, 2022
 
 __A Hybrid Employment Model for a Freight Sharing Economy.__<br> 
 with Joon Moon, Guangwen Kong, and Nicholas G. Hall.<br>
@@ -24,6 +20,11 @@ _working paper_, 2022.
   <br>
 
 <h2>Journal papers</h2>
+
+__[J9] The Impact of Network Design Interventions on the Security of Interdependent Systems.__
+<a href="https://arxiv.org/pdf/2302.05411" class="button">pdf</a><br> 
+P. S. Oruganti, P. Naghizadeh, Q. Ahmed.<br>
+(to appear) In _IEEE Transactions on Control of Network Systems_, 2023.
 
 __[J8] Behavioral and Game-Theoretic Security Investments in Interdependent Systems Modeled by Attack Graphs.__
 <a href="https://arxiv.org/pdf/2001.03213.pdf" class="button">pdf</a><br>
