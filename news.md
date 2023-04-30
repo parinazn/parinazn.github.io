@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-<b>April 2023.</b> Congratulations to our group members Pradeep Sharma Oruganti (PhD), Altan Turkoglu (MSc), Ian Thompson (BSc), and Jiaqi Xu (BSc) for the successful defense of their theses!. 
+<b>April 2023.</b> Congratulations to our group members Pradeep Sharma Oruganti (PhD), Altan Turkoglu (MSc), Ian Thompson (BSc), and Jiaqi Xu (BSc) for the successful defense of their theses!
 
 <b>April 2023.</b> Parinaz gave a talk on "(Fair) ML with Human in the Loop: Strategic Behavior and Incentive Design" at the <a href="https://mwcgt2023.umn.edu">Midwest Workshop on Control and Game Theory</a>. 
 
