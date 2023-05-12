@@ -53,26 +53,6 @@ Ishika is a BSc student in the ECE department. She is developing agent-based sim
 
 <br>
 
-<h2 id="highschool"> High School Students </h2>
-<table>
-    <colgroup>
-       <col span="1" style="width: 20%;">
-       <col span="1" style="width: 80%;">
-    </colgroup>
-  <tbody>
-          <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
-      <td> <b>Armela Hasanbelli (Junior, Metro High School, Spring 2023 - )</b> <br><br> Armela is a junior at Metro High School. She is working on her Capstone Project on investigating the impacts of statistical data biases on algorithmic fairness.</td>
-    </tr> 
- <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
-      <td> <b>Shahid Maniar (Junior, Metro High School, Spring 2023 - )</b> <br><br> Shahid is a junior at Metro High School. He is working on his Capstone Project on investigating the impacts of statistical data biases on algorithmic fairness.</td>
-    </tr> 
-  </tbody>
-</table>
-
-<br>
-
 <h2 id="masters"> Past PhD Students </h2>
 
 <table>
@@ -186,6 +166,26 @@ Russell was an undergraduate student researcher in our group during Summer 2021,
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
       <td><b>Mingwei Qiu (CSE BS, Summer 2021)</b> <br><br> Mingwei was a Computer Science student at OSU (class of 2023). She conducted independent research on algorithmic decision making and ethical AI in our group during Summer 2021. Next: CSE BSc at OSU.</td>
+    </tr> 
+  </tbody>
+</table>
+
+<br>
+
+<h2 id="highschool"> Past High School Students </h2>
+<table>
+    <colgroup>
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 80%;">
+    </colgroup>
+  <tbody>
+          <tr>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
+      <td> <b>Armela Hasanbelli (Junior, Metro High School, Spring 2023)</b> <br><br> Armela is a junior at Metro High School. She is working on her Capstone Project on investigating the impacts of statistical data biases on algorithmic fairness.</td>
+    </tr> 
+ <tr>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
+      <td> <b>Shahid Maniar (Junior, Metro High School, Spring 2023)</b> <br><br> Shahid is a junior at Metro High School. He is working on his Capstone Project on investigating the impacts of statistical data biases on algorithmic fairness.</td>
     </tr> 
   </tbody>
 </table>
