@@ -181,11 +181,11 @@ Russell was an undergraduate student researcher in our group during Summer 2021,
   <tbody>
           <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
-      <td> <b>Armela Hasanbelli (Junior, Metro High School, Spring 2023)</b> <br><br> Armela is a junior at Metro High School. She is working on her Capstone Project on investigating the impacts of statistical data biases on algorithmic fairness.</td>
+      <td> <b>Armela Hasanbelli (Junior, Metro High School, Spring 2023)</b> <br><br> Armela was a member of our group during her junior year at Metro High School. She was worked on her Capstone Project on investigating the impacts of statistical data biases on algorithmic fairness.</td>
     </tr> 
  <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
-      <td> <b>Shahid Maniar (Junior, Metro High School, Spring 2023)</b> <br><br> Shahid is a junior at Metro High School. He is working on his Capstone Project on investigating the impacts of statistical data biases on algorithmic fairness.</td>
+      <td> <b>Shahid Maniar (Junior, Metro High School, Spring 2023)</b> <br><br> Shahid was a member of our group during his junior year at Metro High School. He worked on his Capstone Project on investigating the impacts of statistical data biases on algorithmic fairness.</td>
     </tr> 
   </tbody>
 </table>
