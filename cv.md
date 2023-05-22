@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Here is my <a href="/CV_Parinaz_Naghizadeh.pdf">CV</a> (updated Apr 2023). 
+Here is my <a href="/CV_Parinaz_Naghizadeh.pdf">CV</a> (updated May 2023). 
 
  
 
