@@ -12,6 +12,11 @@ __Structured Network Games: Leveraging Relational Information in Equilibrium Ana
 with Kun Jin and Mingyan Liu.<br>
 under review in the _IEEE Transactions on Network Science and Engineering_, 2023.
 
+__Safe Control Using High-Order Measurement Robust Control Barrier Functions.__ <a href="https://arxiv.org/pdf/2309.08050" class="button">pdf</a>
+<br> 
+P. S. Oruganti, P. Naghizadeh, Q. Ahmed.<br>
+under review in _The IEEE Control Systems Letters (L-CSS)_, 2023.<br>
+
 __A Hybrid Employment Model for a Freight Sharing Economy.__<br> 
 with Guangwen Kong and Nicholas G. Hall.<br>
 _working paper_, 2023.
@@ -91,7 +96,6 @@ Z. Huang, P. Naghizadeh, M. Liu.<br>
 In _the 22nd Workshop on the Economics of Information Security (WEIS'23)_, Jul 2023.<br>
 
 __[C30] Safe Control Using High-Order Measurement Robust Control Barrier Functions.__
-<a href="https://arxiv.org/pdf/2309.08050" class="button">pdf</a>
 <br> 
 P. S. Oruganti, P. Naghizadeh, Q. Ahmed.<br>
 In _the American Control Conference (ACC'23)_, May 2023.<br>
