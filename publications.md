@@ -48,30 +48,30 @@ In _IEEE Transactions on Signal Processing, 67 (23): 6092-6104_, 2019.<br>
 
 __[J5] Provision of Public Goods on Networks: On Existence, Uniqueness,
 and Centralities.__
-<a href="{{ site.baseurl }}/papers/journals/tnse18.pdf" class="button">pdf</a><br> 
+<a href="/papers/journals/tnse18.pdf" class="button">pdf</a><br> 
 P. Naghizadeh, M. Liu.<br>
 In _IEEE Transactions on Network Science and Engineering, 5 (3): 225-236_, 2018.<br>
 
 __[J4] Designing Cyber Insurance Policies: The Role of Pre-Screening and Security Interdependence.__
-<a href="{{ site.baseurl }}/papers/journals/tifs18.pdf" class="button">pdf</a>
+<a href="/papers/journals/tifs18.pdf" class="button">pdf</a>
 <br>
 M. Khalili, P. Naghizadeh, M. Liu.<br>
 In _IEEE Transactions on Information Forensics and Security, 13 (9): 2226-2239_, 2018.<br> 
 
 __[J3] Opting out of Incentive Mechanisms: A Study of Security as a Non-Excludable Public Good.__
-<a href="{{ site.baseurl }}/papers/journals/tifs16.pdf" class="button">pdf</a>, <a href="https://drive.google.com/file/d/1reEPOLW0gEPVNan66zr_yj-RRmmE1JcX/view" class="button">online appendix</a>
+<a href="/papers/journals/tifs16.pdf" class="button">pdf</a>, <a href="https://drive.google.com/file/d/1reEPOLW0gEPVNan66zr_yj-RRmmE1JcX/view" class="button">online appendix</a>
 <br>
 P. Naghizadeh, M. Liu.<br>
 In _IEEE Transactions on Information Forensics and Security, 11 (12): 2790-2803_, 2016.<br>
 
 __[J2] Risky Business: Fine-grained Data Breach Prediction Using Business Profiles.__
-<a href="{{ site.baseurl }}/papers/journals/jcyb16.pdf" class="button">pdf</a>
+<a href="/papers/journals/jcyb16.pdf" class="button">pdf</a>
 <br>
 A. Sarabi, P. Naghizadeh, Y. Liu, M. Liu.<br>
 In _Journal of Cybersecurity, 2 (1): 15-28,_ Oxford University Press, 2016.<br>
 
 __[J1] Perceptions and Truth: A Mechanism Design Approach to Crowd-Sourcing Reputation.__
-<a href="{{ site.baseurl }}/papers/journals/ton16.pdf" class="button">pdf</a>
+<a href="/papers/journals/ton16.pdf" class="button">pdf</a>
 <br>
 P. Naghizadeh, M. Liu. <br>
 In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
@@ -109,7 +109,7 @@ Y. Yang, Y. Liu, P. Naghizadeh.<br>
 In _Advances in Neural Informration Processing Systems (NeurIPS'22)_, Dec 2022.<br>
 
 __[C27] DiPLe: Learning Directed Collaboration Graphs for Peer-to- Peer Personalized Learning.__
-<a href="{{ site.baseurl }}/papers/conferences/itw22.pdf" class="button">pdf</a>
+<a href="/papers/conferences/itw22.pdf" class="button">pdf</a>
 <br> 
 X. Zheng, P. Naghizadeh, A. Yener.<br>
 In _The IEEE Information Theory Workshop (ITW’22)_, Nov 2022.<br>
@@ -154,7 +154,7 @@ M. Abdallah, P. Naghizadeh, T. Cason, S. Bagchi, S. Sundaram. <br>
 In _the Control and Decision Conference (CDC'19)_, Dec 2019.
 
 __[C19] Adversarial Contract Design for Private Data Commercialization.__
-<a href="{{ site.baseurl }}/papers/conferences/ec19.pdf" class="button">pdf</a>
+<a href="/papers/conferences/ec19.pdf" class="button">pdf</a>
 <br>
 P. Naghizadeh, A. Sinha.<br>
 In _ACM conference on Economics and Computation (EC '19)_, Jun 2019.<br>
@@ -164,21 +164,21 @@ M. Abdallah, P. Naghizadeh, A. R. Hota, T. Cason, S. Bagchi, S. Sundaram. <br>
 In _the American Control Conference (ACC'19)_, Jul 2019.
 
 __[C17] Personalized Augmented Reality Via Fog-based Imitation Learning.__
-<a href="{{ site.baseurl }}/papers/conferences/fogiot19.pdf" class="button">pdf</a>
+<a href="/papers/conferences/fogiot19.pdf" class="button">pdf</a>
 <br>
 S. Ahn, M. Gorlatova, P. Naghizadeh, M. Chiang.<br>
 In _the IEEE Workshop on Fog Computing and the IoT (co-located
 with IEEE CPS-IoT Week)_, Apr 2019.<br>
 
 __[C16] Hurts to Be Too Early: Benefits and Drawbacks of Communication in Multi-Agent Learning.__
-<a href="{{ site.baseurl }}/papers/conferences/infocom19_marl.pdf" class="button">pdf</a>
+<a href="/papers/conferences/infocom19_marl.pdf" class="button">pdf</a>
 <br>
 P. Naghizadeh, M. Gorlatova, A. Lan, M. Chiang. <br>
 In _IEEE INFOCOM_, 2019. <br>
 
 
 __[C15] Adaptive Fog-Based Output Security for Augmented Reality.__
-<a href="{{ site.baseurl }}/papers/conferences/sigcommarvr19.pdf" class="button">pdf</a> 
+<a href="/papers/conferences/sigcommarvr19.pdf" class="button">pdf</a> 
 <br>
 S. Ahn, M. Gorlatova, P. Naghizadeh, M. Chiang, P. Mittal.<br>
 In _ACM SIGCOMM VR/AR Network Workshop_, Aug 2018.<br>
