@@ -5,14 +5,14 @@ permalink: /contact/
 ---
 
 
-- Email: naghizadeh.1@osu.edu
+- Email: parinaz@ucsd.edu
 
-- Phone: +1 (614) 247-1638
+- Phone: +1 (858) 534-5208
 
 - Address: <br>
-238 Baker Systems<br>
-1971 Neil Ave<br>
-Columbus, OH 43210 
+6403 Jacobs Hall <br>
+Voigt Drive <br>
+La Jolla, CA 92093
 
 <br>
 <br>
