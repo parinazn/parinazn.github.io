@@ -4,11 +4,13 @@ title: News
 permalink: /news/
 ---
 
+<b>July 2023.</b> Our paper "United We Fall: On the Nash Equilibria of Multiplex Network Games" got accepted in <a href="https://allerton.csl.illinois.edu">Allerton</a>. Congratulations, Raman!
+
 <b>April 2023.</b> Congratulations to our group members Pradeep Sharma Oruganti (PhD), Altan Turkoglu (MSc), Ian Thompson (BSc), and Jiaqi Xu (BSc) for the successful defense of their theses!
 
 <b>April 2023.</b> Parinaz gave a talk on "(Fair) ML with Human in the Loop: Strategic Behavior and Incentive Design" at the <a href="https://mwcgt2023.umn.edu">Midwest Workshop on Control and Game Theory</a>. 
 
-<b>April 2023.</b> Our paper "The Impact of Network Design Interventions on the Security of Interdependent Systems" is accepted in the <a href="https://ieeecss.org/publication/transactions-control-network-systems">IEEE Transactions on Control of Network Systems</a>. Congratulations, Pradeep!</a>. 
+<b>April 2023.</b> Our paper "The Impact of Network Design Interventions on the Security of Interdependent Systems" is accepted in the <a href="https://ieeecss.org/publication/transactions-control-network-systems">IEEE Transactions on Control of Network Systems</a>. Congratulations, Pradeep!. 
 
 <b>April 2023.</b> Parinaz is voted "Outstanding ISE Faculty Member" by the ISE class of 2023! 
 
