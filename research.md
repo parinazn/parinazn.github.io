@@ -40,7 +40,7 @@ The findings are of importance to network design and policy interventions.
 
 __Provision of Public Goods on Networks: On Existence, Uniqueness,
 and Centralities.__ 
-<a href="{{ site.baseurl }}/papers/journals/tnse18.pdf">(PDF)</a><br> 
+<a href="/papers/journals/tnse18.pdf">(PDF)</a><br> 
 P. Naghizadeh, M. Liu.<br>
 In _IEEE Transactions on Network Science and Engineering, vol. 5, no. 3, pp.
 225-236_, 2018.<br>
@@ -83,7 +83,7 @@ K. Jin, X. Zhang, M. Khalili, P. Naghizadeh, M. Liu. <br>
 In _ACM conference on Economics and Computation (EC'22)_, Jul 2022.<br> 
 
 __Adversarial Contract Design for Private Data Commercialization.__
-<a href="{{ site.baseurl }}/papers/conferences/ec19.pdf">(PDF)</a><br>
+<a href="/papers/conferences/ec19.pdf">(PDF)</a><br>
 P. Naghizadeh, A. Sinha.<br>
 In _ACM conference on Economics and Computation (EC '19)_, Jun 2019.<br>
 
@@ -99,17 +99,17 @@ In addition, we have explored the use of reinforcement learning in an edge compu
 <h3>Selected Publications</h3>
 
 __Hurts to Be Too Early: Benefits and Drawbacks of Communication in Multi-Agent Learning.__
-<a href="{{ site.baseurl }}/papers/conferences/infocom19_marl.pdf">(PDF)</a><br>
+<a href="/papers/conferences/infocom19_marl.pdf">(PDF)</a><br>
 P. Naghizadeh, M. Gorlatova, A. Lan, M. Chiang. <br>
 In _IEEE INFOCOM_, 2019. <br>
 
 __Adaptive Fog-Based Output Security for Augmented Reality.__
-<a href="{{ site.baseurl }}/papers/conferences/sigcommarvr19.pdf">(PDF)</a><br>
+<a href="/papers/conferences/sigcommarvr19.pdf">(PDF)</a><br>
 S. Ahn, M. Gorlatova, P. Naghizadeh, M. Chiang, P. Mittal.<br>
 In _ACM SIGCOMM VR/AR Network Workshop_, Aug 2018.<br>
 
 __Personalized Augmented Reality Via Fog-based Imitation Learning.__
-<a href="{{ site.baseurl }}/papers/conferences/fogiot19.pdf">(PDF)</a><br>
+<a href="/papers/conferences/fogiot19.pdf">(PDF)</a><br>
 S. Ahn, M. Gorlatova, P. Naghizadeh, M. Chiang.<br>
 In _the IEEE Workshop on Fog Computing and the IoT (co-located
 with IEEE CPS-IoT Week)_, Apr 2019.<br>
@@ -141,13 +141,13 @@ M. Abdallah, P. Naghizadeh, A. Hota, T. Cason, S. Bagchi, S. Sundaram.<br>
 In _IEEE Transactions on Control of Network Systems, 7 (4): 1585-1596_, 2020.<br>
 
 __Designing Cyber Insurance Policies: The Role of Pre-Screening and Security Interdependence.__
-<a href="{{ site.baseurl }}/papers/journals/tifs18.pdf">(PDF)</a><br>
+<a href="/papers/journals/tifs18.pdf">(PDF)</a><br>
 M. Khalili, P. Naghizadeh, M. Liu.<br>
 In _IEEE Transactions on Information Forensics and Security, 13 (9): 2226-2239_, 2018.<br> 
 
 
 __Opting out of Incentive Mechanisms: A Study of Security as a Non-Excludable Public Good.__
-<a href="{{ site.baseurl }}/papers/journals/tifs16.pdf">(PDF)</a>, 
+<a href="/papers/journals/tifs16.pdf">(PDF)</a>, 
 <a href="https://drive.google.com/file/d/1reEPOLW0gEPVNan66zr_yj-RRmmE1JcX/view">(online appendix)</a>.
 <br>
 P. Naghizadeh, M. Liu.<br>
@@ -161,7 +161,7 @@ Y. Liu, A. Sarabi, J. Zhang, P. Naghizadeh, M. Karir, M. Bailey, M. Liu.<br>
 In _the 24th USENIX Security Symposium_, Aug 2015.<br>
 
 __Risky Business: Fine-grained Data Breach Prediction Using Business Profiles.__
-<a href="{{ site.baseurl }}/papers/journals/jcyb16.pdf">(PDF)</a><br>
+<a href="/papers/journals/jcyb16.pdf">(PDF)</a><br>
 A. Sarabi, P. Naghizadeh, Y. Liu, M. Liu.<br>
 In _Journal of Cybersecurity, 2 (1): 15-28,_ Oxford University Press, 2016.<br>
 
