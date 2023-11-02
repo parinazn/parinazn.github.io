@@ -14,21 +14,29 @@ permalink: /group/
   <tbody>
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/yifan_yang.jpg" alt="yifan_yang"></td>
-      <td> <b>Yifan Yang (ISE PhD, Spring 2020 - )</b> <a href="https://sites.google.com/view/yangyifan/yifan_yang">[Homepage]</a> <br><br> 
-Yifan is a PhD student in Integrated System Engineering. He obtained his MSc in Statistics from Georgia Tech, and dual BSc degrees in Mathematics and Economics from University of Washington, Seattle. His main research interests lie in decision making under uncertainty, data analytics, and optimization, with a focus on statistical data debiasing algorithms for fair algorithmic decision making.</td>
+      <td> <b>Yifan Yang (OSU ISE PhD, Spring 2020 - )</b> <a href="https://sites.google.com/view/yangyifan/yifan_yang">[Homepage]</a> <br><br> 
+Yifan is a PhD student in Integrated System Engineering at The Ohio State University. He obtained his MSc in Statistics from Georgia Tech, and dual BSc degrees in Mathematics and Economics from University of Washington, Seattle. His main research interests lie in decision making under uncertainty, data analytics, and optimization, with a focus on statistical data debiasing algorithms for fair algorithmic decision making.</td>
     </tr> 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/sura_alhanouti.jpg" alt="sura_alhanouti"></td>
-      <td> <b>Sura Alhanouti (ISE PhD, Autumn 2021 - )</b> <a href="https://www.linkedin.com/in/sura-alhanouti">[LinkedIn]</a> <br><br> 
-Sura is a PhD student in Integrated Systems Engineering. She received her BSc in Industrial Engineering from Jordan University of Science and Technology. Her research is at the intersection of data analytics, algorithmic decision making, and game theory. 
+      <td> <b>Sura Alhanouti (OSU ISE PhD, Autumn 2021 - )</b> <a href="https://www.linkedin.com/in/sura-alhanouti">[LinkedIn]</a> <br><br> 
+Sura is a PhD student in Integrated Systems Engineering at The Ohio State University. She received her BSc in Industrial Engineering from Jordan University of Science and Technology. Her research is at the intersection of data analytics, algorithmic decision making, and game theory. 
 </td>
     </tr> 
   <tr>
       <td><img src="{{ site.baseurl }}/imgs/raman_ebrahimi.jpg" alt="raman_ebrahimi"></td>
-      <td> <b>Raman Ebrahimi (ECE PhD, Autumn 2022 - )</b> <a href="https://ramanek.com">[Homepage]</a><a href="https://www.linkedin.com/in/ramanebrahimi/">[LinkedIn]</a> <br><br> 
-Raman is a PhD student in Electrical and Computer Engineering. Prior to joining OSU, he received his BSc degree in Industrial Engineering from the Sharif University of Technology in 2022. His research is on decision making and learning on multilayer networks. 
+      <td> <b>Raman Ebrahimi (UCSD ECE PhD, Fall 2022 - )</b> <a href="https://ramanek.com">[Homepage]</a><a href="https://www.linkedin.com/in/ramanebrahimi/">[LinkedIn]</a> <br><br> 
+Raman is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his BSc degree in Industrial Engineering from the Sharif University of Technology in 2022. His research is on decision making and learning on multilayer networks. 
 </td>
     </tr>
+
+  <tr>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="atefeh_mollabagher"></td>
+      <td> <b>Atefeh Mollabagher (UCSD ECE PhD, Fall 2023 - )</b> <br><br> 
+Atefeh is a PhD student in Electrical and Computer Engineering. Prior to joining our group, she received her BSc degree in Electrical Engineering from the University of Tehran in 2023. Her research is on multi-agent reinforcement learning. 
+</td>
+    </tr>
+      
 </tbody>
 </table>
 
@@ -43,10 +51,7 @@ Raman is a PhD student in Electrical and Computer Engineering. Prior to joining 
     </colgroup>
   <tbody>
           <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
-      <td> <b>Ishika Gupta (ECE BSc, Spring 2023 - )</b><br><br> 
-Ishika is a BSc student in the ECE department. She is developing agent-based simulation tools to invetigate dynamic decision making on multilayer networks. She is part of TEK8 program, and will work on tranlating her research experience into educational modules for local middle school classrooms during Autumn.</td>
-    </tr> 
+          </tr>
       
   </tbody>
 </table>
@@ -64,7 +69,7 @@ Ishika is a BSc student in the ECE department. She is developing agent-based sim
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/pradeep_oruganti.jpg" alt="pradeep_oruganti"></td>
       <td> <b>Pradeep Sharma Oruganti (MAE PhD, Autumn 2021 - Spring 2023)</b> <a href="www.linkedin.com/in/pradeep-sharma-oruganti">[LinkedIn]</a> <br><br> 
-Pradeep was a PhD student in Mechanical and Aerospace Engineering. He was advised by Dr. Qadeer Ahmed, and co-advised by Dr. Naghizadeh since Autumn 2021. His research in our group was on game theoretical modeling and analysis of security decision making in cyber physical systems, with applications in automotive cyber security. He completed a PhD thesis on "Safety and Security Assurance for Automotive Systems". Next: Postdoctoral Researcher at OSU.
+Pradeep was a PhD student in Mechanical and Aerospace Engineering at The Ohio State University. He was co-advised by Dr. Qadeer Ahmed and Dr. Naghizadeh. His research in our group was on game theoretical modeling and analysis of security decision making in cyber physical systems, with applications in automotive cyber security. He completed a PhD thesis on "Safety and Security Assurance for Automotive Systems". Next: <a href="https://getcruise.com">Cruise</a>. 
 </td>
      </tr>
   </tbody>
@@ -72,7 +77,7 @@ Pradeep was a PhD student in Mechanical and Aerospace Engineering. He was advise
 
 <br>
 
-<h2> Past MSc Students </h2>
+<h2> Past MSc Students at OSU </h2>
 
 <table>
     <colgroup>
@@ -106,7 +111,7 @@ Xue was an MSc student in our group from Spring 2021 through Autumn 2021, where 
   </tbody>
 </table>
       
-<h2> Past BSc Students </h2>
+<h2> Past BSc Students at OSU </h2>
 
 <table>
     <colgroup>
@@ -114,6 +119,12 @@ Xue was an MSc student in our group from Spring 2021 through Autumn 2021, where 
        <col span="1" style="width: 80%;">
     </colgroup>
   <tbody> 
+<tr>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
+      <td> <b>Ishika Gupta (ECE BSc, Summer 2023)</b><br><br> 
+Ishika was a third-year BSc student in the ECE department at OSU. She worked on developed agent-based simulation tools to invetigate dynamic decision making on multilayer networks. She completed a summer internship in our lab as part of the TEK8 program, and continued working on tranlating her research experience into educational modules for local middle school classrooms during Autumn 2023.</td>
+    </tr> 
+      
    <tr>
       <td><img src="{{ site.baseurl }}/imgs/ian_thompson.jpeg" alt="ian_thompson"></td>
       <td> <b>Ian Thompson (ECE BSc, Summer 2022 - Spring 2023)</b> <a href="https://www.linkedin.com/in/ian-p-thompson">[LinkedIn]</a><br><br> Ian was a Computer Science and Philosophy major at OSU (class of 2023), where he was an Eminence Fellow and an Honors Student. He completed an Undergraduate Honors Thesis on investigating the impacts of statistical data biases on algorithmic fairness.</td>
