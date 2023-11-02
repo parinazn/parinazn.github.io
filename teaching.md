@@ -4,7 +4,10 @@ title: Teaching
 permalink: /teaching/
 ---
 
-- __ECE/ISE 7202: Reinforcement Learning__. Autumn 2020, 2021, 2022. 
+<h2>Ohio State University</h2>
+
+- __ECE/ISE 7202: Reinforcement Learning__. Autumn 2020, 2021, 2022. <br>
+<br>
 
 - __ISE 7200: Advanced Nonlinear Optimization__. Spring 2020, 2021, 2022. 
 
