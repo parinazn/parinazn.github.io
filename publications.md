@@ -10,11 +10,15 @@ Here is my <a href="https://scholar.google.com/citations?user=rbleSIcAAAAJ&hl=en
 
 __Structured Network Games: Leveraging Relational Information in Equilibrium Analysis.__<br> 
 with Kun Jin and Mingyan Liu.<br>
-under review in the _IEEE Transactions on Network Science and Engineering_, 2022
+under review in the _IEEE Transactions on Network Science and Engineering_, 2023.
 
 __A Hybrid Employment Model for a Freight Sharing Economy.__<br> 
-with Joon Moon, Guangwen Kong, and Nicholas G. Hall.<br>
-_working paper_, 2022.
+with Guangwen Kong and Nicholas G. Hall.<br>
+_working paper_, 2023.
+
+__Generalization Error Bounds for Learning under Censored Feedback.__<br> 
+with Yifan Yang and Ali Payani.<br>
+_working paper_, 2023.
 
 
   <br>
@@ -24,7 +28,7 @@ _working paper_, 2022.
 __[J9] The Impact of Network Design Interventions on the Security of Interdependent Systems.__
 <a href="https://arxiv.org/pdf/2302.05411" class="button">pdf</a><br> 
 P. S. Oruganti, P. Naghizadeh, Q. Ahmed.<br>
-(to appear) In _IEEE Transactions on Control of Network Systems_, 2023.
+In _IEEE Transactions on Control of Network Systems_, 2023.
 
 __[J8] Behavioral and Game-Theoretic Security Investments in Interdependent Systems Modeled by Attack Graphs.__
 <a href="https://arxiv.org/pdf/2001.03213.pdf" class="button">pdf</a><br>
@@ -76,11 +80,21 @@ In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 
 <h2>Refereed conference and workshop papers</h2>
 
+__[C32] United We Fall: On The Nash Equilibria of Multiplex Network Games__
+<br>
+R. Ebrahimi, P. Naghizadeh.<br>
+In _the 59th Annual Allerton Conference on Communication, Control and Computing_, Oct 2023.<br>
+
+__[C31] Interdependent Security Games in the Stackelberg Style: How First-Mover Advantage Impacts Free-Riding and Security (Under-)Investment__
+<br>
+Z. Huang, P. Naghizadeh, M. Liu.<br>
+In _the 22nd Workshop on the Economics of Information Security (WEIS'23)_, Jul 2023.<br>
+
 __[C30] Safe Control Using High-Order Measurement Robust Control Barrier Functions.__
 <a href="tbd" class="button">pdf</a>
 <br> 
 P. S. Oruganti, P. Naghizadeh, Q. Ahmed.<br>
-In _The American Control Conference (ACC'23)_, (to appear) May 2023.<br>
+In _the American Control Conference (ACC'23)_, May 2023.<br>
 
 __[C29] Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria.__
 <a href="https://arxiv.org/pdf/2206.00137.pdf" class="button">pdf</a>
