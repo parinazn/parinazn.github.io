@@ -91,7 +91,7 @@ Z. Huang, P. Naghizadeh, M. Liu.<br>
 In _the 22nd Workshop on the Economics of Information Security (WEIS'23)_, Jul 2023.<br>
 
 __[C30] Safe Control Using High-Order Measurement Robust Control Barrier Functions.__
-<a href="tbd" class="button">pdf</a>
+<a href="https://arxiv.org/pdf/2309.08050" class="button">pdf</a>
 <br> 
 P. S. Oruganti, P. Naghizadeh, Q. Ahmed.<br>
 In _the American Control Conference (ACC'23)_, May 2023.<br>
