@@ -80,12 +80,12 @@ In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 
 <h2>Refereed conference and workshop papers</h2>
 
-__[C32] United We Fall: On The Nash Equilibria of Multiplex Network Games__
+__[C32] United We Fall: On The Nash Equilibria of Multiplex Network Games.__
 <br>
 R. Ebrahimi, P. Naghizadeh.<br>
 In _the 59th Annual Allerton Conference on Communication, Control and Computing_, Oct 2023.<br>
 
-__[C31] Interdependent Security Games in the Stackelberg Style: How First-Mover Advantage Impacts Free-Riding and Security (Under-)Investment__
+__[C31] Interdependent Security Games in the Stackelberg Style: How First-Mover Advantage Impacts Free-Riding and Security (Under-)Investment.__
 <br>
 Z. Huang, P. Naghizadeh, M. Liu.<br>
 In _the 22nd Workshop on the Economics of Information Security (WEIS'23)_, Jul 2023.<br>
