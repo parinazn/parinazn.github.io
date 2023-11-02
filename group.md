@@ -95,7 +95,7 @@ Altan was a master's student in the ECE department at The Ohio State University.
       <td><img src="{{ site.baseurl }}/imgs/abhishek_vijaykumar.png" alt="abhishek_vijaykumar"></td>
       <td> <b>Abhishek Vijaykumar (OSU ECE MSc, Spring 2021 - Spring 2022)</b> <a href="https://sites.google.com/view/abhishekvijaykumar/home">[Homepage]</a><a href="https://www.linkedin.com/in/abhishek-vijaykumar-944797152/">[LinkedIn]</a>
 <br><br>
-Abhishek was a Master's student in the ECE department at The Ohio State University. His research interest are at the intersection of machine learning and signal processing. He completed the MSc project "Recursive A-Scores: A Framework for Algorithmically Fair Feature Selection" on automated feature selection for algorithmic fairness. Next: Micron Technology.</td>
+Abhishek was a Master's student in the ECE department at The Ohio State University. His research interests are at the intersection of machine learning and signal processing. He completed the MSc project "Recursive A-Scores: A Framework for Algorithmically Fair Feature Selection" on automated feature selection for algorithmic fairness. Next: Micron Technology.</td>
     </tr>
 <tr>
       <td><img src="{{ site.baseurl }}/imgs/xue_zheng.png" alt="xue_zheng"></td>
@@ -122,7 +122,7 @@ Xue was an MSc student in our group at The Ohio State University from Spring 202
 <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
       <td> <b>Ishika Gupta (OSU ECE BSc, Summer 2023)</b><br><br> 
-Ishika was a third-year BSc student in the ECE department at OSU. She worked on developed agent-based simulation tools to invetigate dynamic decision making on multilayer networks. She completed a summer internship in our lab as part of the TEK8 program, and continued working on tranlating her research experience into educational modules for local middle school classrooms during Autumn 2023.</td>
+Ishika was a third-year BSc student in the ECE department at OSU. She worked on developing agent-based simulation tools to investigate dynamic decision making on multilayer networks. She completed a summer internship in our lab as part of the TEK8 program, and continued working on translating her research experience into educational modules for local middle school classrooms during Autumn 2023.</td>
     </tr> 
       
    <tr>
