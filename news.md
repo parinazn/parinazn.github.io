@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-<b>December 2023.</b> We have recieved a Jacobs School Early Career Faculty Development Award to support our research on Explainable Machine Learning! 
+<b>December 2023.</b> We have recieved a <a href="">Jacobs School Early Career Faculty Development Award</a> to support our research on Explainable Machine Learning! 
 
 <b>December 2023.</b> Our paper <a href="https://arxiv.org/pdf/2309.08050.pdf">Robust Control Barrier Functions for Sampled-Data Systems</a> has been accepted in the <a href="https://ieeexplore.ieee.org/abstract/document/10371360">IEEE Control Systems Letters</a>. Congratulations, Pradeep! 
 
