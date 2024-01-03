@@ -8,7 +8,7 @@ permalink: /news/
 
 <b>December 2023.</b> Our paper <a href="https://arxiv.org/pdf/2309.08050.pdf">Robust Control Barrier Functions for Sampled-Data Systems</a> has been accepted in the <a href="https://ieeexplore.ieee.org/abstract/document/10371360">IEEE Control Systems Letters</a>. Congratulations, Pradeep! 
 
-<b>December 2023.</b> Ishika presented her Design Challenge on "social networks" to student at Metro Middle School as part of the <a href="https://engineering.osu.edu/research-outreach-service-tek-8">Translating Engineering Research to K-8 (TEK8) program</a>. 
+<b>December 2023.</b> Ishika presented her Design Challenge on "social networks" to students at Metro Middle School as part of the <a href="https://engineering.osu.edu/research-outreach-service-tek-8">Translating Engineering Research to K-8 (TEK8) program</a>. 
 
 <b>November 2023.</b> Parinaz is an invited participant at the <a href="https://www.nationalacademies.org/event/01-16-2024/second-us-africa-frontiers-of-science-engineering-and-medicine-symposium">U.S. National Academy of Sciences' 2nd U.S.-Africa Frontiers of Science, Engineering, and Medicine symposium</a>. 
 
