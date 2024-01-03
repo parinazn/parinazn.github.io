@@ -12,10 +12,9 @@ __Structured Network Games: Leveraging Relational Information in Equilibrium Ana
 with Kun Jin and Mingyan Liu.<br>
 under review in the _IEEE Transactions on Network Science and Engineering_, 2023.
 
-__Safe Control Using High-Order Measurement Robust Control Barrier Functions.__ <a href="https://arxiv.org/pdf/2309.08050" class="button">pdf</a>
-<br> 
-P. S. Oruganti, P. Naghizadeh, Q. Ahmed.<br>
-under review in _The IEEE Control Systems Letters (L-CSS)_, 2023.<br>
+__An Advantage Based Policy Transfer for Reinforcement Learning with Metrics of Transferability.__ <a href="https://arxiv.org/pdf/2311.06731.pdf" class="button">pdf</a><br>
+with Ferdous Alam and David Holzle.<br>
+_under review_, 2023.
 
 __A Hybrid Employment Model for a Freight Sharing Economy.__<br> 
 with Guangwen Kong and Nicholas G. Hall.<br>
@@ -29,6 +28,11 @@ _working paper_, 2023.
   <br>
 
 <h2>Journal papers</h2>
+
+__[J10] Robust Control Barrier Functions for Sampled-Data Systems.__ <a href="https://arxiv.org/pdf/2309.08050" class="button">pdf</a>
+<br> 
+P. S. Oruganti, P. Naghizadeh, Q. Ahmed.<br>
+In _IEEE Control Systems Letters (L-CSS)_, 2024.<br>
 
 __[J9] The Impact of Network Design Interventions on the Security of Interdependent Systems.__
 <a href="https://arxiv.org/pdf/2302.05411" class="button">pdf</a><br> 
