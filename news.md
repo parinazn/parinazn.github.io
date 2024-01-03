@@ -10,10 +10,9 @@ permalink: /news/
 
 <b>December 2023.</b> Ishika presented her Design Challenge on "social networks" to student at Metro Middle School as part of the <a href="https://engineering.osu.edu/research-outreach-service-tek-8">Translating Engineering Research to K-8 (TEK8) program</a>. 
 
-<b>November 2023.</b> Parinaz is an invited participant at the <a href="">U.S. National Academy of Sciences' 2nd U.S.-Africa Frontiers of Science, Engineering, and Medicine symposium</a>. 
+<b>November 2023.</b> I am an invited participant at the <a href="https://www.nationalacademies.org/event/01-16-2024/second-us-africa-frontiers-of-science-engineering-and-medicine-symposium">U.S. National Academy of Sciences' 2nd U.S.-Africa Frontiers of Science, Engineering, and Medicine symposium</a>. 
 
-<b>November 2023.</b> Preprint of our work on a <a href="">new transfer algorithm for reinforcement learning</a> available on arXiv. 
-
+<b>November 2023.</b> Preprint of our work on a <a href="https://arxiv.org/pdf/2311.06731.pdf">new transfer algorithm for reinforcement learning</a> available on arXiv. 
 
 <b>July 2023.</b> Our paper "United We Fall: On the Nash Equilibria of Multiplex Network Games" got accepted in <a href="https://allerton.csl.illinois.edu">Allerton</a>. Congratulations, Raman!
 
