@@ -13,7 +13,7 @@ with Kun Jin and Mingyan Liu.<br>
 under review in the _IEEE Transactions on Network Science and Engineering_, 2023.
 
 __An Advantage Based Policy Transfer for Reinforcement Learning with Metrics of Transferability.__ <a href="https://arxiv.org/pdf/2311.06731.pdf" class="button">pdf</a><br>
-with Ferdous Alam and David Holzle.<br>
+with Ferdous Alam and David Hoelzle.<br>
 _under review_, 2023.
 
 __A Hybrid Employment Model for a Freight Sharing Economy.__<br> 
