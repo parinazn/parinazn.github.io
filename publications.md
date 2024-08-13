@@ -99,7 +99,7 @@ In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 
 <h2>Refereed conference and workshop papers</h2>
 
-__[C34] Could Anticipating Gaming Incentivize Improvement in (Fair) Strategic Classification?”.__
+__[C34] Could Anticipating Gaming Incentivize Improvement in (Fair) Strategic Classification?.__
 <br> 
 S. Alhanouti, P. Naghizadeh.<br>
 In _the 63rd IEEE Conference on Decision and Control (CDC’24)_, (to appear) Dec. 2024.<br>
