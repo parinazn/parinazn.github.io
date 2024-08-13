@@ -129,82 +129,38 @@ Xue was an MSc student in our group at The Ohio State University from Spring 202
       
 <h2> Past BSc Students</h2>
 
-<table>
-    <colgroup>
-       <col span="1" style="width: 20%;">
-       <col span="1" style="width: 80%;">
-    </colgroup>
-  <tbody> 
-<tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
-      <td> <b>Ishika Gupta (OSU ECE BSc, Summer 2023)</b><br><br> 
-Ishika was a third-year BSc student in the ECE department at OSU. She worked on developing agent-based simulation tools to investigate dynamic decision making on multilayer networks. She completed a summer internship in our lab as part of the TEK8 program, and continued working on translating her research experience into educational modules for local middle school classrooms during Autumn 2023.</td>
-    </tr> 
-      
-   <tr>
-      <td><img src="{{ site.baseurl }}/imgs/ian_thompson.jpeg" alt="ian_thompson"></td>
-      <td> <b>Ian Thompson (OSU ECE BSc, Summer 2022 - Spring 2023)</b> <a href="https://www.linkedin.com/in/ian-p-thompson">[LinkedIn]</a><br><br> 
-          Ian was a Computer Science and Philosophy major at OSU (class of 2023), where he was an Eminence Fellow and an Honors Student. He completed an Undergraduate Honors Thesis on investigating the impacts of statistical data biases on algorithmic fairness.</td>
-    </tr>
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/jiaqi_xu.jpg" alt="jiaqi_xu"></td>
-      <td> <b>Jiaqi Xu (OSU CSE BSc, Summer 2022 - Spring 2023)</b> <br><br> Jiaqi was a Computer Science student at OSU (class of 2023). He conducted independent BSc research in our group, investigating the effects of strategic information sharing in multiagent reinforcement learning. Next: CSE MSc at University of Michigan.</td>
-    </tr>      
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/yiqiao_liao.jpg" alt="yiqiao_liao"></td>
-      <td> <b>Yiqiao Liao (OSU CSE BSc, Summer 2021 - Summer 2022)</b> <br><br> Yiqiao was a Computer Science student at OSU (class of 2022). He investigated the robustness of different fairness measures introduced in the literature against statistical data biases. Next: CSE MSc at UPenn.
-          <br/>
-          Publications: 
-          <ul>
-          <li>Y. Liao and P. Naghizadeh. <a href="https://download.huan-zhang.com/events/srml2022/accepted/liao22impacts.pdf">"The Impacts of Labeling Biases on Fairness Criteria"</a>, (poster) at the ICLR 2022 workshop on Socially Responsible Machine Learning.</li>
-<li>          Y. Liao and P. Naghizadeh. <a href="https://arxiv.org/pdf/2206.00137.pdf">"Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria"</a>, in AAAI 2023 (~19.6% acceptance rate). </li>
-              </ul>
-        </td>
-    </tr>
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
-      <td><b>Katherine Lovelace (OSU Math and AAAS BS, Summer 2022)</b> <br><br> Katherine was a junior majoring in Math and African American and African Studies at OSU. She conducted independent research on the relation between existing algorithmic fairness criteria and US anti-discrimination laws during Summer 2022. Next: Math and AAAS BSc at OSU.</td>
-    </tr> 
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/abby_nichter.jpg" alt="abby_nichter"></td>
-      <td><b>Abby Nichter (OSU CE BSc, Summer 2021 - Spring 2022)</b> <a href="https://blf.osu.edu/people/abby-nichter/">[Homepage]</a><a href="https://www.linkedin.com/in/abby-nichter/">[LinkedIn]</a><br><br>
-Abby was an undergraduate researcher in our group during her junior year as a Computer Engineering student at OSU. She also serves as the Society of Women Engineering Education Co-Director at OSU. Her research in our group was on studying algorithmic fairness incentives in competitive markets. Next: CE BSc student at OSU (class of 2023).</td>
-    </tr> 
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/mckenna_hollinger.jpg" alt="mckenna_hollinger"></td>
-      <td><b>McKenna Hollinger (OSU CSE BSc, Spring 2022)</b> <a href="https://www.linkedin.com/in/mckennahollinger/">[LinkedIn]</a> <br><br> 
-McKenna was an undergraduate researcher in our group during her junior year as a Computer Science student at OSU. McKenna explored ethical issues in algorithmic decision making, with a focus on privacy. Next: CSE BSc student at OSU (class of 2023).</td>
-    </tr>
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/adam_wang.jpeg" alt="adam_wang"></td>
-      <td><b>Adam Wang (OSU ISE BS, Autumn 2021)</b> <a href="https://www.linkedin.com/in/adam-wang-9a2573226">[LinkedIn]</a> <br><br> 
-          Adam completed a dual degree in Integrated Systems Engineering (specialization in Data Analytics) and Computer Science (specialization in AI) at OSU (class of 2022). His research in our group was on the use of agent-based simulation to study opinion dynamics on multilayer networks. Next: MSc at GaTech. </td>
-    </tr> 
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/jessica_griffin.JPG" alt="jessica_griffin"></td>
-      <td> <b>Jessica Griffin (OSU ISE BSc/MSc, Summer 2021)</b> <a href="https://www.linkedin.com/in/jessica-griffin-165864162/">[LinkedIn]</a> <br><br>
-Jessica was an undergraduate student researcher in our group during Summer 2021, where she studied the impacts of statistical data biases on algorithmic fairness. Next: Master’s in industrial and systems engineering at OSU with a specialization in supply chain and logistics.</td>
-    </tr>
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/russell_zhu.jpeg" alt="russell_zhu"></td>
-      <td><b>Russell Zhu (OSU CSE BSc, Summer 2021)</b> <a href="https://github.com/zhur123">[GitHub]</a><a href="https://www.linkedin.com/in/russell-zhu/">[LinkedIn]</a>
-        <br><br>
-Russell was an undergraduate student researcher in our group during Summer 2021, where he completed a summer independent research course on  algorithmic bias. Next: BSc in CSE, planning on graduating with both a MS and BS by 2024 specializing in AI or software engineering. </td>
-    </tr> 
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
-      <td><b>Mingwei Qiu (OSU CSE BS, Summer 2021)</b> <br><br> Mingwei was a Computer Science student at OSU (class of 2023). She conducted independent research on algorithmic decision making and ethical AI in our group during Summer 2021. Next: CSE BSc at OSU.</td>
-    </tr> 
-  </tbody>
-</table>
+- <b>Ishika Gupta</b>. OSU ECE BSc, Summer 2023. TEK8 program.
+
+- <b>Ian Thompson</b>. OSU ECE BSc, Summer 2022 - Spring 2023. Eminence Fellow. 
+
+- <b>Jiaqi Xu</b>. OSU CSE BSc, Summer 2022 - Spring 2023. 
+
+- <b> Yiqiao Liao</b>. OSU CSE BSc, Summer 2021 - Summer 2022. Publications: 
+    <ul>
+      <li>Y. Liao and P. Naghizadeh. <a href="https://download.huan-zhang.com/events/srml2022/accepted/liao22impacts.pdf">"The Impacts of Labeling Biases on Fairness Criteria"</a>, (poster) at the ICLR 2022 workshop on Socially Responsible Machine Learning.</li>
+      <li>Y. Liao and P. Naghizadeh. <a href="https://arxiv.org/pdf/2206.00137.pdf">"Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria"</a>, in AAAI 2023 (~19.6% acceptance rate). </li>
+    </ul>
+
+- <b>Katherine Lovelace</b>. OSU Math and AAAS BS, Summer 2022. 
+
+- <b>Abby Nichter</b>. OSU CE BSc, Summer 2021 - Spring 2022.
+
+- <b>McKenna Hollinger</b>. OSU CSE BSc, Spring 2022. 
+
+- <b>Adam Wang</b>. OSU ISE BSc, Autumn 2021.  
+
+- <b>Jessica Griffin</b>. OSU ISE BSc/MSc, Summer 2021. 
+
+- <b>Russell Zhu</b>. OSU CSE BSc, Summer 2021.
+
+- <b>Mingwei Qiu</b>. OSU CSE BSc, Summer 2021. 
 
 <br>
 
 <h2 id="highschool"> Past High School Students </h2>
 
-- <b>Armela Hasanbelli (Junior, Metro High School, Spring 2023)</b> <br> Armela was a member of our group during her junior year at Metro High School. She was worked on her Capstone Project on investigating the impacts of statistical data biases on algorithmic fairness.
-
-- <b>Shahid Maniar (Junior, Metro High School, Spring 2023)</b> <br> Shahid was a member of our group during his junior year at Metro High School. He worked on his Capstone Project on investigating the impacts of statistical data biases on algorithmic fairness.
+- <b>Armela Hasanbelli</b>. Junior, Metro High School, Spring 2023. 
+- <b>Shahid Maniar</b>. Junior, Metro High School, Spring 2023. 
 
 <br>
 <br>
