@@ -6,6 +6,8 @@ permalink: /teaching/
 
 <h2>University of California, San Diego</h2>
 
+- __ECE 250: Random Processes__. Fall 2024.
+
 - __ECE 153: Probability and Random Processes for Engineers__. Spring 2024. <a href="/teaching-web/ece153-syllabus.pdf">[Syllabus]</a>
 
 </br>
