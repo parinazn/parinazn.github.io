@@ -36,7 +36,13 @@ Raman is a PhD student in Electrical and Computer Engineering at the University 
 Atefeh is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, she received her BSc degree in Electrical Engineering from the University of Tehran in 2023. Her research is on multi-agent reinforcement learning. 
 </td>
     </tr>
-      
+
+<tr>
+      <td><img src="{{ site.baseurl }}/imgs/yiqiao_liao.jpg" alt="yiqiao_liao"></td>
+      <td> <b>Yiqiao Liao (UCSD ECE PhD, Fall 2024 - )</b> <br><br> Yiqiao is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his MSc degree in Computer Science from UPenn in 2024. 
+        </td>
+</tr>
+
 </tbody>
 </table>
 
@@ -50,8 +56,18 @@ Atefeh is a PhD student in Electrical and Computer Engineering at the University
        <col span="1" style="width: 80%;">
     </colgroup>
   <tbody>
-          <tr>
-          </tr>
+
+<tr>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
+      <td> <b>Taiki Yoshino (UCSD CSE BSc, Winter 2024 - )</b><br><br> 
+Taiki joined our group during his sophomore year in Computer Science and Engineering at UCSD. He is conducting independent research on the impacts of data biases in fair federated learning. </td>
+</tr> 
+
+<tr>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
+      <td> <b>Keng-Lien (Roger) Lin (UCSD ECE BSc, Spring 2024 - )</b><br><br> 
+Roger joined our group during his junior year in Electrical and Computer Engineering at UCSD. He is part of the Spring/Summer Research Internship Program (SRIP). As part of his independent research during this program, he is developing new agent-based simulation tools to study multilayer networks, with a focus on the spread of misinformation on multiplex networks. </td>
+</tr> 
       
   </tbody>
 </table>
@@ -185,22 +201,10 @@ Russell was an undergraduate student researcher in our group during Summer 2021,
 <br>
 
 <h2 id="highschool"> Past High School Students </h2>
-<table>
-    <colgroup>
-       <col span="1" style="width: 20%;">
-       <col span="1" style="width: 80%;">
-    </colgroup>
-  <tbody>
-          <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
-      <td> <b>Armela Hasanbelli (Junior, Metro High School, Spring 2023)</b> <br><br> Armela was a member of our group during her junior year at Metro High School. She was worked on her Capstone Project on investigating the impacts of statistical data biases on algorithmic fairness.</td>
-    </tr> 
- <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
-      <td> <b>Shahid Maniar (Junior, Metro High School, Spring 2023)</b> <br><br> Shahid was a member of our group during his junior year at Metro High School. He worked on his Capstone Project on investigating the impacts of statistical data biases on algorithmic fairness.</td>
-    </tr> 
-  </tbody>
-</table>
+
+- <b>Armela Hasanbelli (Junior, Metro High School, Spring 2023)</b> <br> Armela was a member of our group during her junior year at Metro High School. She was worked on her Capstone Project on investigating the impacts of statistical data biases on algorithmic fairness.
+
+- <b>Shahid Maniar (Junior, Metro High School, Spring 2023)</b> <br> Shahid was a member of our group during his junior year at Metro High School. He worked on his Capstone Project on investigating the impacts of statistical data biases on algorithmic fairness.
 
 <br>
 <br>
