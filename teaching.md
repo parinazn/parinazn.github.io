@@ -10,7 +10,7 @@ permalink: /teaching/
 
 - __ECE 153: Probability and Random Processes for Engineers__. Spring 2024. <a href="/teaching-web/ece153-syllabus.pdf">[Syllabus]</a>
 
-</br>
+<br>
 
 <h2>Ohio State University</h2>
 
