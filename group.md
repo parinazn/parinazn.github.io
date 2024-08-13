@@ -14,7 +14,7 @@ permalink: /group/
   <tbody>
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/yifan_yang.jpg" alt="yifan_yang"></td>
-      <td> <b>Yifan Yang (OSU ISE PhD, Spring 2020 - )</b> <a href="https://sites.google.com/view/yangyifan/yifan_yang">[Homepage]</a> <br><br> 
+      <td> <b>Yifan Yang (OSU ISE PhD, Spring 2020 - )</b> <a href="https://sites.google.com/view/yangyifan/home?authuser=0">[Homepage]</a> <br><br> 
 Yifan is a PhD student in Integrated System Engineering at The Ohio State University. He obtained his MSc in Statistics from Georgia Tech, and dual BSc degrees in Mathematics and Economics from University of Washington, Seattle. His main research interests lie in decision making under uncertainty, data analytics, and optimization, with a focus on statistical data debiasing algorithms for fair algorithmic decision making.</td>
     </tr> 
     <tr>
@@ -26,7 +26,7 @@ Sura is a PhD student in Integrated Systems Engineering at The Ohio State Univer
   <tr>
       <td><img src="{{ site.baseurl }}/imgs/raman_ebrahimi.jpg" alt="raman_ebrahimi"></td>
       <td> <b>Raman Ebrahimi (UCSD ECE PhD, Fall 2022 - )</b> <a href="https://ramanek.com">[Homepage]</a><a href="https://www.linkedin.com/in/ramanebrahimi/">[LinkedIn]</a> <br><br> 
-Raman is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his BSc degree in Industrial Engineering from the Sharif University of Technology in 2022. His research is on decision making and learning on multilayer networks. 
+Raman is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his BSc degrees in Industrial Engineering and Physics from the Sharif University of Technology in 2022. He joined our group at OSU in Fall 2022, and moved to UCSD in Summer 2023. His research interests are at the intersection of network economics, game theory, network science, and computational social science. 
 </td>
     </tr>
 
