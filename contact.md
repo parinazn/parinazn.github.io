@@ -11,7 +11,7 @@ permalink: /contact/
 
 - Address: <br>
 6403 Jacobs Hall <br>
-Voigt Drive <br>
+9736 Engineers Ln <br>
 La Jolla, CA 92093
 
 <br>
