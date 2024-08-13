@@ -4,7 +4,15 @@ title: News
 permalink: /news/
 ---
 
-<b>December 2023.</b> We have recieved a <a href="">Jacobs School Early Career Faculty Development Award</a> to support our research on Explainable Machine Learning! 
+<b>August 2024.</b> New conference papers: Sura's work on incentivizing improvements in strategic machine learning will appear in <a href="https://cdc2024.ieeecss.org">CDC'24</a>, and Raman's work on multi-hop network games will appear in <a href="https://www.gamesec-conf.org">GameSec'24</a>. Congratulations, Sura and Raman!
+
+<b>July 2024.</b> We have received a <a href="https://today.ucsd.edu/story/chancellor-unveils-new-award-program-to-boost-team-based-research">Chancellor’s Interdisciplinary Team Catalyst Award</a>, together with <a href="https://eds.ucsd.edu/people/faculty/daly.html">Alan J. Daly</a> and his team (UCSD Department of Education Studies) to support our research on Catalyzing AI & ML for Equity, Education, and Knowledge Mobilization. 
+
+<b>July 2024.</b> New journal papers: <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10499725&tag=1">"Structured Network Games"</a> has been accepted in the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902">IEEE Transactions on Network Science and Engineering</a>, and <a href="https://academic.oup.com/cybersecurity/article-pdf/10/1/tyae009/58358215/tyae009.pdf">"Interdependent Security Games in the Stackelberg Style"</a> has been accepted in the <a href="https://academic.oup.com/cybersecurity">Journal of Cybersecurity</a>.
+
+<b>June 2024.</b> Our boardgame <a href="https://design.osu.edu/green-acres">Green Acres</a> which communicates land management practices and environmental policy making through the lens of a collaborative multiplayer game, was showcased at the <a href="https://www.originsgamefair.com">Origins Game Fair</a>. 
+
+<b>January 2024.</b> We have received a <a href="https://today.ucsd.edu/story/uc-san-diego-jacobs-school-of-engineering-doubles-size-of-early-career-faculty-acceleration-program">Jacobs School Early Career Faculty Development Award</a>, in collaboration with Kristen Vaccaro (UCSD CSE), to support our research on Explainable Machine Learning! 
 
 <b>December 2023.</b> Our paper <a href="https://arxiv.org/pdf/2309.08050.pdf">Robust Control Barrier Functions for Sampled-Data Systems</a> has been accepted in the <a href="https://ieeexplore.ieee.org/abstract/document/10371360">IEEE Control Systems Letters</a>. Congratulations, Pradeep! 
 
