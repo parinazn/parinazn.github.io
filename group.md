@@ -25,7 +25,7 @@ Sura is a PhD student in Integrated Systems Engineering at The Ohio State Univer
     </tr> 
   <tr>
       <td><img src="{{ site.baseurl }}/imgs/raman_ebrahimi.jpg" alt="raman_ebrahimi"></td>
-      <td> <b>Raman Ebrahimi (UCSD ECE PhD, Fall 2022 - )</b> <a href="https://ramanek.com">[Homepage]</a><a href="https://www.linkedin.com/in/ramanebrahimi/">[LinkedIn]</a> <br><br> 
+      <td> <b>Raman Ebrahimi (UCSD ECE PhD, Fall 2022 - )</b> <a href="https://ramanebrahimi.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/ramanebrahimi/">[LinkedIn]</a> <br><br> 
 Raman is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his BSc degrees in Industrial Engineering and Physics from the Sharif University of Technology in 2022. He joined our group at OSU in Fall 2022, and moved to UCSD in Summer 2023. His research interests are at the intersection of network economics, game theory, network science, and computational social science. 
 </td>
     </tr>
