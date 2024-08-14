@@ -129,8 +129,11 @@ Xue was an MSc student in our group at The Ohio State University from Spring 202
       
 <h2> Past BSc Students</h2>
 
-- <b>Ishika Gupta</b>. OSU ECE BSc, Summer 2023. TEK8 program.
-
+- <b>Ishika Gupta</b>. OSU ECE BSc, Summer 2023. Translating Engineering Research to K-8 (TEK8) program.
+  <ul>
+      <li> Student handouts and facilitator guides for the design challenge on "Social Networks", developed by Ishika as a middle school after-school activity, are available <a href="https://u.osu.edu/tek8/2023-design-challenges/social-networks/">here</a>.</li>
+  </ul>
+  
 - <b>Ian Thompson</b>. OSU ECE BSc, Summer 2022 - Spring 2023. Eminence Fellow. 
 
 - <b>Jiaqi Xu</b>. OSU CSE BSc, Summer 2022 - Spring 2023. 
@@ -141,7 +144,7 @@ Xue was an MSc student in our group at The Ohio State University from Spring 202
       <li>Y. Liao and P. Naghizadeh. <a href="https://arxiv.org/pdf/2206.00137.pdf">"Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria"</a>, in AAAI 2023 (~19.6% acceptance rate). </li>
     </ul>
 
-- <b>Katherine Lovelace</b>. OSU Math and AAAS BS, Summer 2022. 
+- <b>Katherine Lovelace</b>. OSU Math and African American and African Studies BSc, Summer 2022. 
 
 - <b>Abby Nichter</b>. OSU CE BSc, Summer 2021 - Spring 2022.
 
