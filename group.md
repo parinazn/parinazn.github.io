@@ -58,8 +58,8 @@ Atefeh is a PhD student in Electrical and Computer Engineering at the University
   <tbody>
 
 <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
-      <td> <b>Taiki Yoshino (UCSD CSE BSc, Winter 2024 - )</b><br><br> 
+      <td><img src="{{ site.baseurl }}/imgs/taiki_yoshino.jpeg" alt="taiki_yoshino"></td>
+      <td> <b>Taiki Yoshino (UCSD CSE BSc, Winter 2024 - )</b> <a href="www.linkedin.com/in/taiki-yoshino-167a60266">[LinkedIn]</a> <br><br> 
 Taiki joined our group during his sophomore year in Computer Science and Engineering at UCSD. He is conducting independent research on the impacts of data biases in fair federated learning. </td>
 </tr> 
 
