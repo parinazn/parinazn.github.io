@@ -37,7 +37,7 @@ __[J11] Structured Network Games: Leveraging Relational Information in Equilibri
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10499725" class="button">pdf</a>
 <br> 
 K. Jin, P. Naghizadeh, M. Liu.<br>
-In _IEEE Transactions on Network Science and Engineering_, 2024.<br>
+In _IEEE Transactions on Network Science and Engineering, 11 (5): 4836-4849_, 2024.<br>
 
 __[J10] Robust Control Barrier Functions for Sampled-Data Systems.__ <a href="https://arxiv.org/pdf/2309.08050" class="button">pdf</a>
 <br> 
