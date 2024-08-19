@@ -4,9 +4,9 @@ title: MINDS Lab
 permalink: /group/
 ---
 
-<p style="text-align:center;"><img src="{{ site.baseurl }}/imgs/lab_logo.png" alt="lab-logo" width="400"/></p>
+<p style="text-align:center;"><img src="{{ site.baseurl }}/imgs/lab_logo.png" alt="lab-logo" width="40"/></p>
 
-  Welcome to the <b>Multi-agent Intelligence and Decision Systems (MINDS)</b> lab. Our goal is to incorporate analytical models of human decision making in the design of socio-technical networks and AI systems, to understand how the interactions of humans and/or AI agents with misaligned (economic) incentives and diverse reasoning capabilities can impact the performance, fairness, robustness, and security of these systems. We contribute to, and draw from, tools and methods in several disciplines, including network economics, game theory, machine learning, optimization, and control theory. Our work is generously supported by the <i>National Science Foundation (NSF)</i>, <i>Amazon</i>, and <i>Cisco</i>. 
+  Welcome to the <b>Multi-agent Intelligence and Decision Systems (MINDS)</b> lab. Our goal is to incorporate analytical models of human decision making in the design of socio-technical networks and AI systems, to understand how the interactions of humans and/or AI agents with misaligned (economic) incentives and diverse reasoning capabilities can impact the performance, fairness, robustness, and security of these systems. We are particularly interested in the balance between "economic" goals (performance, robustness) and "ethical" considerations (fairness, explainability, and safety) in the design and use of AI systems. We contribute to, and draw from, tools and methods in several disciplines, including network economics, game theory, machine learning, optimization, and control theory. Our work is generously supported by the <i>National Science Foundation (NSF)</i>, <i>Amazon</i>, and <i>Cisco</i>. 
   <br><br> 
   If you are a student interested in joining our group, please see <a href="/group/#prospective" color="$white">this note</a>.  
 
