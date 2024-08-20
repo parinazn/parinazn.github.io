@@ -42,7 +42,7 @@ Raman is a PhD student in Electrical and Computer Engineering at the University 
 
   <tr>
       <td><img src="{{ site.baseurl }}/imgs/atefeh_mollabagher.jpg" alt="atefeh_mollabagher"></td>
-      <td> <b>Atefeh Mollabagher (UCSD ECE PhD, Fall 2023 - )</b><a href="https://www.linkedin.com/in/atefehmollabagher/">[LinkedIn]</a> <br><br> 
+      <td> <b>Atefeh Mollabagher (UCSD ECE PhD, Fall 2023 - )</b> <a href="https://www.linkedin.com/in/atefehmollabagher/">[LinkedIn]</a> <br><br> 
 Atefeh is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, she received her BSc degree in Electrical Engineering from the University of Tehran in 2023. Her research is on multi-agent reinforcement learning. 
 </td>
     </tr>
