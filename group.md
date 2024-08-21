@@ -144,7 +144,7 @@ Xue was an MSc student in our group at The Ohio State University from Spring 202
       <li> Student handouts and facilitator guides for the design challenge on "Social Networks", developed by Ishika as a middle school after-school activity, are available <a href="https://u.osu.edu/tek8/2023-design-challenges/social-networks/">here</a>.</li>
   </ul>
   
-- <b>Ian Thompson</b>. OSU ECE BSc, Summer 2022 - Spring 2023. Eminence Fellow. 
+- <b>Ian Thompson</b>. OSU ECE BSc, Summer 2022 - Spring 2023. Eminence Fellow; Spring 2023 CoE Undergraduate Honors Research Scholarship.
 
 - <b>Jiaqi Xu</b>. OSU CSE BSc, Summer 2022 - Spring 2023. 
 
