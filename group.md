@@ -74,7 +74,7 @@ Taiki joined our group during his sophomore year in Computer Science and Enginee
 </tr> 
 
 <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="avatar_icon"></td>
+      <td><img src="{{ site.baseurl }}/imgs/roger_lin.jpg" alt="roger_lin"></td>
       <td> <b>Keng-Lien (Roger) Lin (UCSD ECE BSc, Spring 2024 - )</b><br><br> 
 Roger joined our group during his junior year in Electrical and Computer Engineering at UCSD. He is part of the Spring/Summer Research Internship Program (SRIP). As part of his independent research during this program, he is developing new agent-based simulation tools to study multilayer networks, with a focus on the spread of misinformation on multiplex networks. </td>
 </tr> 
