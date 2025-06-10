@@ -63,8 +63,8 @@ Atefeh is a PhD student in Electrical and Computer Engineering at the University
   <tbody>
 
 <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="shravi_jain"></td>
-      <td> <b>Shravi Jain (UCSD CSE BSc, Summer 2024 - )</b> <br><br> 
+      <td><img src="{{ site.baseurl }}/imgs/shravi_jain.png" alt="shravi_jain"></td>
+      <td> <b>Shravi Jain (UCSD CSE BSc, Summer 2024 - )</b> <a href="https://www.linkedin.com/in/shjucsd/">[LinkedIn]</a> <br><br> 
 Shravi joined our group during her sophomore year in Computer Science and Engineering at UCSD. She is conducting independent research on the impacts of data biases and algorithmic choices on using AI to predict education outcomes. Her research received a SP'25 TRELS Award from UCSD. </td>
 </tr> 
 
