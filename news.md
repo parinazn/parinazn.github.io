@@ -4,6 +4,24 @@ title: News
 permalink: /news/
 ---
 
+<b>May 2025.</b> Parinaz has received a <a href="https://ugresearch.ucsd.edu/research-mentors/outstanding-mentor-awards/urh-mentor-award/index.html">2025 Outstanding Mentor Award</a> from the Undergraduate Research Hub at UCSD. 
+
+<b>April 2025.</b> Yifan successfully defended his PhD thesis "Accurate and Fair Decision Making from Biased and Distributed Datasets". Congratulations, Dr. Yang! 
+
+<b>April 2025.</b> Our paper <a href="https://arxiv.org/pdf/2410.18066">"The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies"</a> has been accepted to FAccT 2025 (~26.8% acceptance rate). Congratulations, Raman! 
+
+<b>March 2025.</b> Roger's paper <a href="https://openreview.net/pdf?id=rUxc9Pif3G">"MultiRepast4py: A Framework for Agent Based Simulations on Multilayer Networks"</a>, based on his undergraduate research as part of the <a href="https://ece.ucsd.edu/undergraduate/ece-springsummer-research-internship-program-0">SRIP program</a>, has been accepted to the 26th International Workshop on Multi-Agent-Based Simulation (at AAMAS'25). Congratulations, Roger!
+
+<b>March 2025.</b> Yifan's paper <a href="https://arxiv.org/pdf/2504.08151">"Adaptive Bounded Exploration and Intermediate Actions for Data Debiasing"</a> has been accepted to the INFORMS Journal on Computing. Congratulations, Yifan!
+
+<b>March 2025.</b> Shravi has been selected as a <a href="https://ugresearch.ucsd.edu/programs/all-urh-programs/trels/index.html">TRELS Scholar</a> for Spring 2025, for her research on using AI to predict education outcomes. Congratulations, Shravi!
+
+<b>January 2025.</b> Atefeh's paper <a href="https://arxiv.org/pdf/2504.07105">"The Feedback Loop Between Recommendation Systems and Reactive Users"</a> in the American Control Conference (ACC'25). Congratulations, Atefeh!
+
+<b>January 2025.</b> Raman's paper <a href="https://arxiv.org/pdf/2402.06108">"United We Fall: On The Nash Equilibria of Multilayer and Multiplex Network Games"</a> in the IEEE Transactions on Control of Network Systems. Congratulations, Raman!
+
+<b>October 2024</b>. Our paper <a href="https://arxiv.org/pdf/2410.18066">The Double-Edged Sword of Behavioral Responses in Strategic Classification</a>, led by Raman, has been accepted as a spotlight talk at the <a href="https://sites.google.com/view/behavioralml/">NeurIPS 2024 Workshop on Behavioral Machine Learning</a>. Congratulations, Raman!
+
 <b>August 2024.</b> New conference papers: Sura's work on incentivizing improvements in strategic machine learning will appear in <a href="https://cdc2024.ieeecss.org">CDC'24</a>, and Raman's work on multi-hop network games will appear in <a href="https://www.gamesec-conf.org">GameSec'24</a>. Congratulations, Sura and Raman!
 
 <b>July 2024.</b> We have received a <a href="https://today.ucsd.edu/story/chancellor-unveils-new-award-program-to-boost-team-based-research">Chancellor’s Interdisciplinary Team Catalyst Award</a>, together with <a href="https://eds.ucsd.edu/people/faculty/daly.html">Alan J. Daly</a> and his team (UCSD Department of Education Studies) to support our research on Catalyzing AI & ML for Equity, Education, and Knowledge Mobilization. <a href="https://adminrecords.ucsd.edu/Notices/2024/2024-8-22-2.html">[Campus Notice]</a>
