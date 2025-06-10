@@ -65,13 +65,13 @@ Atefeh is a PhD student in Electrical and Computer Engineering at the University
 <tr>
       <td><img src="{{ site.baseurl }}/imgs/shravi_jain.png" alt="shravi_jain"></td>
       <td> <b>Shravi Jain (UCSD CSE BSc, Summer 2024 - )</b> <a href="https://www.linkedin.com/in/shjucsd/">[LinkedIn]</a> <br><br> 
-Shravi joined our group during her sophomore year in Computer Science and Engineering at UCSD. She is conducting independent research on the impacts of data biases and algorithmic choices on using AI to predict education outcomes. Her research received a SP'25 TRELS Award from UCSD. </td>
+Shravi joined our group during her sophomore year in Computer Science and Engineering at UCSD. She is conducting independent research on the impacts of data biases and algorithmic choices on using AI to predict education outcomes. Her research received a SP'25 TRELS Scholar Award from UCSD. </td>
 </tr> 
 
 <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="maitrayee_keskar"></td>
       <td> <b>Maitrayee Keskar (UCSD ECE MSc, Winter 2025 - )</b> <br><br> 
-Maitrayee joined our group during her the first year of her MSc studies in Electrical and Computer Engineering at UCSD. She is conducting independent research on the impacts of information sharing in multi-agent reinforcement learning in partially observable environments. She is part of the 2025 ECE SRIP program. </td>
+Maitrayee joined our group during the first year of her MSc studies in Electrical and Computer Engineering at UCSD. She is conducting independent research on the impacts of information sharing in multi-agent reinforcement learning in partially observable environments. She is part of the 2025 ECE SRIP program. </td>
 </tr> 
       
   </tbody>
