@@ -115,7 +115,13 @@ Pradeep was a PhD student in Mechanical and Aerospace Engineering at The Ohio St
   <tr>
       <td><img src="{{ site.baseurl }}/imgs/raman_ebrahimi.jpg" alt="raman_ebrahimi"></td>
       <td> <b>Raman Ebrahimi (UCSD ECE MSc, Fall 2022 - Spring 2025)</b> <a href="https://ramanebrahimi.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/ramanebrahimi/">[LinkedIn]</a> <br><br> 
-Raman completed his MSc in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his BSc degrees in Industrial Engineering and Physics from the Sharif University of Technology in 2022. In our group, he conducted research on the modeling and analysis of strategic behavior in multilayer networks and classification problems. 
+Raman completed his MSc in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his BSc degrees in Industrial Engineering and Physics from the Sharif University of Technology in 2022. He joined our group at OSU in Fall 2022, and moved to UCSD in Summer 2023. He conducted research on the modeling and analysis of strategic behavior in multilayer networks and classification problems. Publications: 
+    <ul>
+      <li> R. Ebrahimi, P. Naghizadeh. <a href="/papers/conferences/allerton23.pdf">United We Fall: On The Nash Equilibria of Multiplex Network Games</a>. In Allerton 2023.</li>
+      <li> R. Ebrahimi, P. Naghizadeh. <a href="/papers/conferences/gamesec24.pdf">Extended Horizons: Multi-hop Awareness in Network Games</a>. In GameSec 2024.</li>
+      <li> R. Ebrahimi, P. Naghizadeh. <a href="https://arxiv.org/pdf/2402.06108">United We Fall: On The Nash Equilibria of Multilayer and Multiplex Network Games</a>. In IEEE Transactions on Control of Network Systems, 2025.</li>
+      <li> R. Ebrahimi, K. Vaccaro, P. Naghizadeh. <a href="https://arxiv.org/pdf/2410.18066">The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies</a>. In FAccT 2025.</li>
+    </ul>   
 </td>
     </tr>
     
@@ -134,7 +140,11 @@ Abhishek was a Master's student in the ECE department at The Ohio State Universi
 <tr>
       <td><img src="{{ site.baseurl }}/imgs/xue_zheng.png" alt="xue_zheng"></td>
       <td> <b>Xue Zheng (OSU ECE MSc, Spring 2021 - Autumn 2021)</b> <a href="https://xuezheng96.github.io/XueZheng.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/xue-zheng-a138611b3/">[LinkedIn]</a> <br><br> 
-Xue was an MSc student in our group at The Ohio State University from Spring 2021 through Autumn 2021, where she completed her M.Sc. thesis on "Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning". Her research interests are in federated learning, distributed learning, and optimization. Next: ECE PhD student at OSU.</td>
+Xue was an MSc student in our group at The Ohio State University from Spring 2021 through Autumn 2021, where she completed her M.Sc. thesis on "Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning". Her research interests are in federated learning, distributed learning, and optimization. Next: ECE PhD student at OSU. Publications: 
+    <ul>
+      <li>X. Zheng, P. Naghizadeh, A. Yener. <a href="/papers/conferences/itw22.pdf">DiPLe: Learning Directed Collaboration Graphs for Peer-to- Peer Personalized Learning</a>. In the IEEE Information Theory Workshop (ITW’22), 2022.</li>
+    </ul>  
+      </td>
     </tr> 
   </tbody>
 </table>
