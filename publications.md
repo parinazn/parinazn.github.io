@@ -135,8 +135,7 @@ __[C33] Extended Horizons: Multi-hop Awareness in Network Games.__ <a href="/pap
 R. Ebrahimi, P. Naghizadeh.<br>
 In _the 15th Conference on Game Theory and AI for Security (GameSec’24)_, Oct. 2024.<br>
 
-__[C32] Robust Control Barrier Functions for Sampled-Data Systems.__ <a href="/papers/conferences/acc24.pdf" class="button">pdf</a>
-<br> 
+__[C32] Robust Control Barrier Functions for Sampled-Data Systems.__ <br> 
 P. S. Oruganti, P. Naghizadeh, Q. Ahmed.<br>
 In _the American Control Conference (ACC'24)_, Jul. 2024.<br>
 
@@ -196,7 +195,7 @@ P. S. Oruganti, P. Naghizadeh, Q. Ahmed. <br>
 In _the 60th IEEE Conference on Decision and Control (CDC’21)_, Dec 2021.<br>
   
 __[C21] Morshed: Guiding Behavioral Decision-Makers towards Better Security Investment in Interdependent Systems.__
-<a href="https://arxiv.org/pdf/2004.01958.pdf" class="button">pdf</a> 
+<a href="https://engineering.purdue.edu/dcsl/publications/papers/2020/morshed_asiaccs21.pdf" class="button">pdf</a> 
 <br>
 M. Abdallah, D. Woods, P. Naghizadeh, I. Khalil, T. Cason, S. Sundaram, S. Bagchi.<br>
 In _the 16th ACM Asia Conference on Computer and Communications Security (ASIACCS'21)_, Jun 2021.<br>
