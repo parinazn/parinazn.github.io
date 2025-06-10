@@ -120,7 +120,7 @@ __[C36] The Feedback Loop in Recommendation Systems with Reactive Agents.__ <a h
 A. Mollabagher, P. Naghizadeh.<br>
 In _the American Control Conference (ACC'25)_, Jul. 2025.<br>
 
-__[C36] The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies.__ <a href="https://arxiv.org/pdf/2410.18066" class="button">pdf</a>
+__[C35] The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies.__ <a href="https://arxiv.org/pdf/2410.18066" class="button">pdf</a>
 <br>
 R. Ebrahimi, K. Vaccaro, P. Naghizadeh.<br>
 In _the ACM Conference on Fairness, Accountability, and Transparency (FAccT’25)_, Jun. 2025.<br>
