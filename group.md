@@ -149,14 +149,16 @@ Xue was an MSc student in our group at The Ohio State University from Spring 202
   </tbody>
 </table>
       
-<h2> Past BSc Students</h2>
+<h2> Past BSc and BSc/MSc Students</h2>
 
 - <b>Keng-Lien (Roger) Lin</b>. UCSD ECE BSc, Spring 2024 - Spring 2025. SRIP program. Publications:
   <ul>
       <li> K. Lin, P. Naghizadeh. <a href="https://openreview.net/pdf?id=rUxc9Pif3G">MultiRepast4py: A Framework for Agent Based Simulations on Multilayer Networks</a>. In the 26th International Workshop on Multi-Agent-Based Simulation (at AAMAS'25), May 2025.</li>
   </ul>
 
-- <b>Ruey-An Shiu</b>, exchange program UCSD CSE B.Sc., Fall 2024. 
+- <b>Ruey-An Shiu</b>, exchange program UCSD CSE B.Sc., Fall 2024.
+
+- <b>Jean Gorby Calicdan</b>, UCSD ECE BSc/MSc, Summer 2024 - Winter 2025.
 
 - <b>Taiki Yoshino</b>. UCSD CSE BSc, Winter 2024 - Winter 2025. 
 
