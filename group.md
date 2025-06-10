@@ -14,7 +14,7 @@ permalink: /group/
 
 <h1 id="group-members"> Group Members </h1>
 
-<h2 id="phd"> PhD Students </h2>
+<h2 id="phd"> Current PhD Students </h2>
 
 <table>
     <colgroup>
@@ -23,20 +23,9 @@ permalink: /group/
     </colgroup>
   <tbody>
     <tr>
-      <td><img src="{{ site.baseurl }}/imgs/yifan_yang.jpg" alt="yifan_yang"></td>
-      <td> <b>Yifan Yang (OSU ISE PhD, Spring 2020 - )</b> <a href="https://sites.google.com/view/yangyifan/home?authuser=0">[Homepage]</a> <br><br> 
-Yifan is a PhD student in Integrated System Engineering at The Ohio State University. He obtained his MSc in Statistics from Georgia Tech, and dual BSc degrees in Mathematics and Economics from University of Washington, Seattle. His main research interests lie in decision making under uncertainty, data analytics, and optimization, with a focus on statistical data debiasing algorithms for fair algorithmic decision making.</td>
-    </tr> 
-    <tr>
       <td><img src="{{ site.baseurl }}/imgs/sura_alhanouti.jpg" alt="sura_alhanouti"></td>
       <td> <b>Sura Alhanouti (OSU ISE PhD, Autumn 2021 - )</b> <a href="https://www.linkedin.com/in/sura-alhanouti">[LinkedIn]</a> <br><br> 
-Sura is a PhD student in Integrated Systems Engineering at The Ohio State University. She received her BSc in Industrial Engineering from Jordan University of Science and Technology. Her research is at the intersection of data analytics, algorithmic decision making, and game theory. 
-</td>
-    </tr> 
-  <tr>
-      <td><img src="{{ site.baseurl }}/imgs/raman_ebrahimi.jpg" alt="raman_ebrahimi"></td>
-      <td> <b>Raman Ebrahimi (UCSD ECE PhD, Fall 2022 - )</b> <a href="https://ramanebrahimi.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/ramanebrahimi/">[LinkedIn]</a> <br><br> 
-Raman is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his BSc degrees in Industrial Engineering and Physics from the Sharif University of Technology in 2022. He joined our group at OSU in Fall 2022, and moved to UCSD in Summer 2023. His research interests are at the intersection of network economics, game theory, network science, and computational social science. 
+Sura is a PhD student in Integrated Systems Engineering at The Ohio State University. She received her BSc in Industrial Engineering from Jordan University of Science and Technology. Her research is at the intersection of data analytics, algorithmic decision making, robust optimization, and game theory. 
 </td>
     </tr>
 
@@ -53,12 +42,18 @@ Atefeh is a PhD student in Electrical and Computer Engineering at the University
         </td>
 </tr>
 
+<tr>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="luca_hartmann"></td>
+      <td> <b>Luca Hartmann (UCSD ECE PhD, Spring 2025 - )</b> <br><br> Luca is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his MSc degree in Electrical Engineering and Information Technology from ETH Zurich. 
+        </td>
+</tr>
+
 </tbody>
 </table>
 
 <br>
 
-<h2 id="undergrad"> Undergraduate Students </h2>
+<h2 id="undergrad"> Current MSc and Bsc Students </h2>
 
 <table>
     <colgroup>
@@ -68,15 +63,15 @@ Atefeh is a PhD student in Electrical and Computer Engineering at the University
   <tbody>
 
 <tr>
-      <td><img src="{{ site.baseurl }}/imgs/taiki_yoshino.jpeg" alt="taiki_yoshino"></td>
-      <td> <b>Taiki Yoshino (UCSD CSE BSc, Winter 2024 - )</b> <a href="www.linkedin.com/in/taiki-yoshino-167a60266">[LinkedIn]</a> <br><br> 
-Taiki joined our group during his sophomore year in Computer Science and Engineering at UCSD. He is conducting independent research on the impacts of data biases in fair federated learning. </td>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="shravi_jain"></td>
+      <td> <b>Shravi Jain (UCSD CSE BSc, Summer 2024 - )</b> <br><br> 
+Shravi joined our group during her sophomore year in Computer Science and Engineering at UCSD. She is conducting independent research on the impacts of data biases and algorithmic choices on using AI to predict education outcomes. Her research received a SP'25 TRELS Award from UCSD. </td>
 </tr> 
 
 <tr>
-      <td><img src="{{ site.baseurl }}/imgs/roger_lin.jpg" alt="roger_lin"></td>
-      <td> <b>Keng-Lien (Roger) Lin (UCSD ECE BSc, Spring 2024 - )</b><br><br> 
-Roger joined our group during his junior year in Electrical and Computer Engineering at UCSD. He is part of the Spring/Summer Research Internship Program (SRIP). As part of his independent research during this program, he is developing new agent-based simulation tools to study multilayer networks, with a focus on the spread of misinformation on multiplex networks. </td>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="maitrayee_keskar"></td>
+      <td> <b>Maitrayee Keskar (UCSD ECE MSc, Winter 2025 - )</b> <br><br> 
+Maitrayee joined our group during her the first year of her MSc studies in Electrical and Computer Engineering at UCSD. She is conducting independent research on the impacts of information sharing in multi-agent reinforcement learning in partially observable environments. She is part of the 2025 ECE SRIP program. </td>
 </tr> 
       
   </tbody>
@@ -92,6 +87,12 @@ Roger joined our group during his junior year in Electrical and Computer Enginee
        <col span="1" style="width: 80%;">
     </colgroup>
   <tbody>
+    <tr>
+      <td><img src="{{ site.baseurl }}/imgs/yifan_yang.jpg" alt="yifan_yang"></td>
+      <td> <b>Yifan Yang (OSU ISE PhD, Spring 2020 - Spring 2025)</b> <a href="https://sites.google.com/view/yangyifan/home?authuser=0">[Homepage]</a> <br><br> 
+Yifan was a PhD student in Integrated System Engineering at The Ohio State University. He obtained his MSc in Statistics from Georgia Tech, and dual BSc degrees in Mathematics and Economics from University of Washington, Seattle. His research in our group was focused on statistical data debiasing and machine learning algorithms for fair algorithmic decision making in both centralized and distributed settings. He completed a PhD thesis on "Accurate and Fair Decision Making from Biased and Distributed Datasets". Next: Research & Development Analyst III at GEICO. 
+      </td>
+    </tr> 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/pradeep_oruganti.jpg" alt="pradeep_oruganti"></td>
       <td> <b>Pradeep Sharma Oruganti (OSU MAE PhD, Autumn 2021 - Spring 2023)</b> <a href="www.linkedin.com/in/pradeep-sharma-oruganti">[LinkedIn]</a> <br><br> 
@@ -112,6 +113,13 @@ Pradeep was a PhD student in Mechanical and Aerospace Engineering at The Ohio St
     </colgroup>
   <tbody>
   <tr>
+      <td><img src="{{ site.baseurl }}/imgs/raman_ebrahimi.jpg" alt="raman_ebrahimi"></td>
+      <td> <b>Raman Ebrahimi (UCSD ECE MSc, Fall 2022 - Spring 2025)</b> <a href="https://ramanebrahimi.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/ramanebrahimi/">[LinkedIn]</a> <br><br> 
+Raman completed his MSc in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his BSc degrees in Industrial Engineering and Physics from the Sharif University of Technology in 2022. In our group, he conducted research on the modeling and analysis of strategic behavior in multilayer networks and classification problems. 
+</td>
+    </tr>
+    
+  <tr>
       <td><img src="{{ site.baseurl }}/imgs/altan_turkoglu.jpg" alt="altan_turkoglu"></td>
       <td> <b>Altan Turkoglu (OSU ECE MSc, Spring 2022 - Spring 2023)</b> <a href="https://scholar.google.com/citations?user=u-id6-MAAAAJ&hl=en">[Google Scholar]</a><br><br> 
 Altan was a master's student in the ECE department at The Ohio State University. He completed his MSc thesis on "Multi-Agent Reinforcement Learning and Information Sharing". Altan's other research interests are in computational biology and bioinformatics. He plans to leverage data analytic methods at medical school in the future. Next: M.D./Ph.D. at OSU.</td>
@@ -126,18 +134,21 @@ Abhishek was a Master's student in the ECE department at The Ohio State Universi
 <tr>
       <td><img src="{{ site.baseurl }}/imgs/xue_zheng.png" alt="xue_zheng"></td>
       <td> <b>Xue Zheng (OSU ECE MSc, Spring 2021 - Autumn 2021)</b> <a href="https://xuezheng96.github.io/XueZheng.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/xue-zheng-a138611b3/">[LinkedIn]</a> <br><br> 
-Xue was an MSc student in our group at The Ohio State University from Spring 2021 through Autumn 2021, where she completed her M.Sc. thesis on "Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning". Her research interests are in federated learning, distributed learning, and optimization. Next: ECE PhD student at OSU. 
-    <br/>
-    Publications: 
-          <ul>
-          <li>X. Zheng, P. Naghizadeh, A. Yener. "DiPLe: Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning", in <a href="https://itw2022.in">ITW 2022</a>.</li>
-              </ul>
-    </td>
+Xue was an MSc student in our group at The Ohio State University from Spring 2021 through Autumn 2021, where she completed her M.Sc. thesis on "Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning". Her research interests are in federated learning, distributed learning, and optimization. Next: ECE PhD student at OSU.</td>
     </tr> 
   </tbody>
 </table>
       
 <h2> Past BSc Students</h2>
+
+- <b>Keng-Lien (Roger) Lin</b>. UCSD ECE BSc, Spring 2024 - Spring 2025. SRIP program. Publications:
+  <ul>
+      <li> K. Lin, P. Naghizadeh. <a href="https://openreview.net/pdf?id=rUxc9Pif3G" class="button">MultiRepast4py: A Framework for Agent Based Simulations on Multilayer Networks</a>. In the 26th International Workshop on Multi-Agent-Based Simulation (at AAMAS'25), May 2025.</li>
+  </ul>
+
+- <b>Ruey-An Shiu</b>, exchange program UCSD CSE B.Sc., Fall 2024. 
+
+- <b>Taiki Yoshino</b>. UCSD CSE BSc, Winter 2024 - Winter 2025. 
 
 - <b>Ishika Gupta</b>. OSU ECE BSc, Summer 2023. Translating Engineering Research to K-8 (TEK8) program.
   <ul>
@@ -151,7 +162,7 @@ Xue was an MSc student in our group at The Ohio State University from Spring 202
 - <b> Yiqiao Liao</b>. OSU CSE BSc, Summer 2021 - Summer 2022. Publications: 
     <ul>
       <li>Y. Liao and P. Naghizadeh. <a href="https://download.huan-zhang.com/events/srml2022/accepted/liao22impacts.pdf">"The Impacts of Labeling Biases on Fairness Criteria"</a>, (poster) at the ICLR 2022 workshop on Socially Responsible Machine Learning.</li>
-      <li>Y. Liao and P. Naghizadeh. <a href="https://arxiv.org/pdf/2206.00137.pdf">"Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria"</a>, in AAAI 2023 (~19.6% acceptance rate). </li>
+      <li>Y. Liao and P. Naghizadeh. <a href="https://arxiv.org/pdf/2206.00137.pdf">"Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria"</a>, (oral presentation) in AAAI 2023.</li>
     </ul>
 
 - <b>Katherine Lovelace</b>. OSU Math and African American and African Studies BSc, Summer 2022. 
