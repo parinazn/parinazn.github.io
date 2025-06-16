@@ -43,8 +43,8 @@ Atefeh is a PhD student in Electrical and Computer Engineering at the University
 </tr>
 
 <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="luca_hartmann"></td>
-      <td> <b>Luca Hartmann (UCSD ECE PhD, Spring 2025 - )</b> <br><br> Luca is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his MSc degree in Electrical Engineering and Information Technology from ETH Zurich. 
+      <td><img src="{{ site.baseurl }}/imgs/luca_hartmann.jpg" alt="luca_hartmann"></td>
+      <td> <b>Luca Hartmann (UCSD ECE PhD, Spring 2025 - )</b> <a href="https://www.linkedin.com/in/luca-hartmann-3682811b4/">[LinkedIn]</a> <a href="https://scholar.google.com/citations?user=X8-xWY8AAAAJ&hl=en">[Google Scholar]</a> <br><br> Luca is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his MSc degree in Electrical Engineering and Information Technology from ETH Zurich. 
         </td>
 </tr>
 
