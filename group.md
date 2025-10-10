@@ -69,10 +69,15 @@ Shravi joined our group during her sophomore year in Computer Science and Engine
 </tr> 
 
 <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="maitrayee_keskar"></td>
-      <td> <b>Maitrayee Keskar (UCSD ECE MSc, Winter 2025 - )</b> <br><br> 
+      <td><img src="{{ site.baseurl }}/imgs/maitrayee_keskar.jpeg" alt="maitrayee_keskar"></td>
+      <td> <b>Maitrayee Keskar (UCSD ECE MSc, Winter 2025 - )</b> <a href="https://www.linkedin.com/in/maitrayee-keskar-0a426a19a/">[LinkedIn]</a> <br><br> 
 Maitrayee joined our group during the first year of her MSc studies in Electrical and Computer Engineering at UCSD. She is conducting independent research on the impacts of information sharing in multi-agent reinforcement learning in partially observable environments. She is part of the 2025 ECE SRIP program. </td>
 </tr> 
+
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="sebastian_sugiyama"></td>
+      <td> <b>Maitrayee Keskar (UCSD ECE BSc, Summer 2025 - )</b> <br><br> 
+Maitrayee joined our group during the summer of his junior year as an Electrical and Computer Engineering at UCSD. He is conducting independent research on influence maximization on single- and multi-layer networks, and the use of different centrality measures to guide node selection. </td>
+</tr>
       
   </tbody>
 </table>
