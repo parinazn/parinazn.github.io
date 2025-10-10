@@ -74,9 +74,10 @@ Shravi joined our group during her sophomore year in Computer Science and Engine
 Maitrayee joined our group during the first year of her MSc studies in Electrical and Computer Engineering at UCSD. She is conducting independent research on the impacts of information sharing in multi-agent reinforcement learning in partially observable environments. She is part of the 2025 ECE SRIP program. </td>
 </tr> 
 
+<tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="sebastian_sugiyama"></td>
       <td> <b>Sebastian Willis Sugiyama (UCSD ECE BSc, Summer 2025 - )</b> <br><br> 
-Maitrayee joined our group during the summer of his junior year as an Electrical and Computer Engineering at UCSD. He is conducting independent research on influence maximization on single- and multi-layer networks, and the use of different centrality measures to guide node selection. </td>
+Sebastian joined our group in the summer of the sohpomore year of his BSc studies in Electrical and Computer Engineering at UCSD. He is conducting independent research on influence maximization on single- and multi-layer networks, and the use of different centrality measures to guide seed node selection. </td>
 </tr>
       
   </tbody>
