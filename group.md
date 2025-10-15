@@ -76,7 +76,7 @@ Maitrayee joined our group during the first year of her MSc studies in Electrica
 
 <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="sebastian_sugiyama"></td>
-      <td> <b>Sebastian Willis Sugiyama (UCSD ECE BSc, Summer 2025 - )</b> <br><br> 
+      <td> <b>Sebastian Willis Sugiyama (UCSD ECE BSc, Summer 2025 - )</b> <a href="https://www.linkedin.com/in/sebastian-willis-sugiyama">[LinkedIn]</a> <br><br> 
 Sebastian joined our group in the summer of the sohpomore year of his BSc studies in Electrical and Computer Engineering at UCSD. He is conducting independent research on influence maximization on single- and multi-layer networks, and the use of different centrality measures to guide seed node selection. </td>
 </tr>
       
