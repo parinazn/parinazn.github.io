@@ -162,10 +162,11 @@ Xue was an MSc student in our group at The Ohio State University from Spring 202
   <ul>
       <li> K. Lin, P. Naghizadeh. <a href="https://openreview.net/pdf?id=rUxc9Pif3G">MultiRepast4py: A Framework for Agent Based Simulations on Multilayer Networks</a>. In the 26th International Workshop on Multi-Agent-Based Simulation (at AAMAS'25), May 2025.</li>
   </ul>
+  
 
-- <b>Ruey-An Shiu</b>, exchange program UCSD CSE B.Sc., Fall 2024.
+- <b>Ruey-An Shiu</b>, exchange program UCSD CSE B.Sc., Fall 2024. Publications:
   <ul>
-    <li> R. Shiu, P. Naghizadeh. <a href="https://www.ideals.illinois.edu/items/137327">Coordination Games on Multiplex Networks: Consensus and Convergence of Opinion Dynamics</a>. In the 61st Annual Allerton Conference on Communication, Control and Computing (Allerton’25), Sep 2025. </li>
+    <li> R. Shiu, P. Naghizadeh. <a href="https://www.ideals.illinois.edu/items/137327">Coordination Games on Multiplex Networks: Consensus and Convergence of Opinion Dynamics</a>. In the 61st Annual Allerton Conference on Communication, Control and Computing (Allerton’25), Sep 2025.</li>
   </ul>
 
 - <b>Jean Gorby Calicdan</b>, UCSD ECE BSc/MSc, Summer 2024 - Winter 2025.
