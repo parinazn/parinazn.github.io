@@ -25,10 +25,6 @@ __Generalization Error Bounds for Learning under Censored Feedback.__
 <a href="https://arxiv.org/pdf/2404.09247" class="button">pdf</a> <br> 
 with Yifan Yang and Ali Payani.<br>
 
-__An Advantage Based Policy Transfer Algorithm for Reinforcement Learning with Measures of Transferability.__ 
-<a href="https://arxiv.org/pdf/2311.06731.pdf" class="button">pdf</a><br>
-with Ferdous Alam and David Hoelzle.<br>
-
 
   <br>
 
@@ -115,29 +111,35 @@ In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 
 <h2>Refereed conference and workshop papers</h2>
 
+__[C37] Coordination Games on Multiplex Networks: Consensus and Convergence of Opinion Dynamics.__
+<a href="https://www.ideals.illinois.edu/items/137327" class="button">pdf</a>
+<br> 
+R. Shiu, P. Naghizadeh.<br> 
+In _the 61st Annual Allerton Conference on Communication, Control and Computing (Allerton’25)_, Sep 2025.<br>
+
 __[C36] The Feedback Loop in Recommendation Systems with Reactive Agents.__ <a href="https://arxiv.org/pdf/2504.07105" class="button">pdf</a>
 <br> 
 A. Mollabagher, P. Naghizadeh.<br>
-In _the American Control Conference (ACC'25)_, Jul. 2025.<br>
+In _the American Control Conference (ACC'25)_, Jul 2025.<br>
 
 __[C35] The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies.__ <a href="https://arxiv.org/pdf/2410.18066" class="button">pdf</a>
 <br>
 R. Ebrahimi, K. Vaccaro, P. Naghizadeh.<br>
-In _the ACM Conference on Fairness, Accountability, and Transparency (FAccT’25)_, Jun. 2025.<br>
+In _the ACM Conference on Fairness, Accountability, and Transparency (FAccT’25)_, Jun 2025.<br>
 
 __[C34] Could Anticipating Gaming Incentivize Improvement in (Fair) Strategic Classification?__ <a href="/papers/conferences/cdc24.pdf" class="button">pdf</a>
 <br> 
 S. Alhanouti, P. Naghizadeh.<br>
-In _the 63rd IEEE Conference on Decision and Control (CDC’24)_, Dec. 2024.<br>
+In _the 63rd IEEE Conference on Decision and Control (CDC’24)_, Dec 2024.<br>
 
 __[C33] Extended Horizons: Multi-hop Awareness in Network Games.__ <a href="/papers/conferences/gamesec24.pdf" class="button">pdf</a>
 <br> 
 R. Ebrahimi, P. Naghizadeh.<br>
-In _the 15th Conference on Game Theory and AI for Security (GameSec’24)_, Oct. 2024.<br>
+In _the 15th Conference on Game Theory and AI for Security (GameSec’24)_, Oct 2024.<br>
 
 __[C32] Robust Control Barrier Functions for Sampled-Data Systems.__ <br> 
 P. S. Oruganti, P. Naghizadeh, Q. Ahmed.<br>
-In _the American Control Conference (ACC'24)_, Jul. 2024.<br>
+In _the American Control Conference (ACC'24)_, Jul 2024.<br>
 
 __[C31] United We Fall: On The Nash Equilibria of Multiplex Network Games.__ <a href="/papers/conferences/allerton23.pdf" class="button">pdf</a>
 <br>
@@ -326,6 +328,12 @@ In _the 3rd International Conference on Game Theory for Networks (GameNets'12)_,
 
 <h3>Lightly refereed workshop papers</h3>
 
+__[W7] Robust Strategic Classification under Decision-Dependent Cost Uncertainty.__
+<a href="https://openreview.net/pdf?id=t8NeQQby18" class="button">pdf</a>
+<br>
+S. Alhanouti, G. Bayraksan, P. Naghizadeh.<br> 
+In the _NeurIPS 2025 MLxOR Workshop: Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making_, Dec. 2025. <br>
+
 __[W6] MultiRepast4py: A Framework for Agent Based Simulations on Multilayer Networks.__
   <a href="https://openreview.net/pdf?id=rUxc9Pif3G" class="button">pdf</a>
 <br>
@@ -364,6 +372,11 @@ In the _AAAI 2016 Workshop on Artificial Intelligence for Cyber Security (AICS)_
 <br><br> 
     
 <h3>Non-refereed publications/pre-prints</h3>
+
+__[P7] An Advantage Based Policy Transfer Algorithm for Reinforcement Learning with Measures of Transferability.__ 
+<a href="https://arxiv.org/pdf/2311.06731.pdf" class="button">pdf</a>
+<br>
+F. Alam, P. Naghizadeh, D. Hoelzle. 2024.<br>
 
 
 __[P6] Paid Prioritization with Content Competition.__
