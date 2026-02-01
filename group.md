@@ -69,12 +69,6 @@ Shravi joined our group during her sophomore year in Computer Science and Engine
 </tr> 
 
 <tr>
-      <td><img src="{{ site.baseurl }}/imgs/maitrayee_keskar.jpeg" alt="maitrayee_keskar"></td>
-      <td> <b>Maitrayee Keskar (UCSD ECE MSc, Winter 2025 - )</b> <a href="https://www.linkedin.com/in/maitrayee-keskar-0a426a19a/">[LinkedIn]</a> <br><br> 
-Maitrayee joined our group during the first year of her MSc studies in Electrical and Computer Engineering at UCSD. She is conducting independent research on the impacts of information sharing in multi-agent reinforcement learning in partially observable environments. She is part of the 2025 ECE SRIP program. </td>
-</tr> 
-
-<tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="sebastian_sugiyama"></td>
       <td> <b>Sebastian Willis Sugiyama (UCSD ECE BSc, Summer 2025 - )</b> <a href="https://www.linkedin.com/in/sebastian-willis-sugiyama">[LinkedIn]</a> <br><br> 
 Sebastian joined our group in the summer of the sohpomore year of his BSc studies in Electrical and Computer Engineering at UCSD. He is conducting independent research on influence maximization on single- and multi-layer networks, and the use of different centrality measures to guide seed node selection. </td>
@@ -118,6 +112,13 @@ Pradeep was a PhD student in Mechanical and Aerospace Engineering at The Ohio St
        <col span="1" style="width: 80%;">
     </colgroup>
   <tbody>
+
+<tr>
+      <td><img src="{{ site.baseurl }}/imgs/maitrayee_keskar.jpeg" alt="maitrayee_keskar"></td>
+      <td> <b>Maitrayee Keskar (UCSD ECE MSc, Winter 2025 - Fall 2025)</b> <a href="https://www.linkedin.com/in/maitrayee-keskar-0a426a19a/">[LinkedIn]</a> <br><br> 
+Maitrayee joined our group during the first year of her MSc studies in Electrical and Computer Engineering at UCSD. She conducted independent research on the impacts of information sharing in multi-agent reinforcement learning in partially observable environments. She was part of the 2025 ECE SRIP program. </td>
+</tr> 
+    
   <tr>
       <td><img src="{{ site.baseurl }}/imgs/raman_ebrahimi.jpg" alt="raman_ebrahimi"></td>
       <td> <b>Raman Ebrahimi (UCSD ECE MSc, Fall 2022 - Spring 2025)</b> <a href="https://ramanebrahimi.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/ramanebrahimi/">[LinkedIn]</a> <br><br> 
@@ -163,6 +164,9 @@ Xue was an MSc student in our group at The Ohio State University from Spring 202
   </ul>
 
 - <b>Ruey-An Shiu</b>, exchange program UCSD CSE B.Sc., Fall 2024.
+  <ul>
+    <li> R. Shiu, P. Naghizadeh. <a href="https://www.ideals.illinois.edu/items/137327">Coordination Games on Multiplex Networks: Consensus and Convergence of Opinion Dynamics</a>. In the 61st Annual Allerton Conference on Communication, Control and Computing (Allerton’25), Sep 2025. </li>
+  </ul>
 
 - <b>Jean Gorby Calicdan</b>, UCSD ECE BSc/MSc, Summer 2024 - Winter 2025.
 
