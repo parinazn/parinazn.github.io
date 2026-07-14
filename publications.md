@@ -9,7 +9,7 @@ Here is my <a href="https://scholar.google.com/citations?user=rbleSIcAAAAJ&hl=en
 <h2>Submitted and working papers</h2>
 
 __Decision-Focused Learning in Network Interdiction Games.__ <br>
-with Luca Hartmann.<br>
+with Luca M. Hartmann.<br>
                                               
 __Reactive Users vs. Social Recommender Systems: An Adaptive Policy to Manage Opinion Drifts.__
 <br>
