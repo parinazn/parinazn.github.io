@@ -8,27 +8,34 @@ Here is my <a href="https://scholar.google.com/citations?user=rbleSIcAAAAJ&hl=en
 
 <h2>Submitted and working papers</h2>
 
+__Decision-Focused Learning in Network Interdiction Games.__ <br>
+with Luca Hartmann.<br>
+                                              
+__Reactive Users vs. Social Recommender Systems: An Adaptive Policy to Manage Opinion Drifts.__
+<br>
+with Atefeh Mollabagher.<br>  
+
+__The Double-Edged Sword of Information: Revealed versus Hidden Lotteries in School Choice.__
+<br>
+with Jingyan Wang.<br> 
 
 __Learning for Dynamic Combinatorial Optimization without Training Data.__ 
 <a href="https://arxiv.org/pdf/2505.19497" class="button">pdf</a> <br> 
 with Yiqiao Liao and Farinaz Koushanfar.<br>
 
-__Friends in Unexpected Places: Enhancing Local Fairness in Federated Learning through Clustering.__ 
-<a href="https://arxiv.org/pdf/2407.19331" class="button">pdf</a> <br> 
-with Yifan Yang and Ali Payani.<br>
-
 __Anticipating Gaming to Incentivize Improvement: Guiding Agents in (Fair) Strategic Classification.__ 
 <a href="https://arxiv.org/pdf/2505.05594" class="button">pdf</a> <br> 
 with Sura Alhanouti.<br>
 
-__Generalization Error Bounds for Learning under Censored Feedback.__ 
-<a href="https://arxiv.org/pdf/2404.09247" class="button">pdf</a> <br> 
-with Yifan Yang and Ali Payani.<br>
 
-
-  <br>
+<br>
 
 <h2>Journal papers</h2>
+
+__[J15] Test-Time Adaptation for Unsupervised Combinatorial Optimization.__
+<a href="https://openreview.net/pdf?id=VVyGfRp4fG" class="button">pdf</a> <br>
+Y. Liao, F. Koushanfar, P. Naghizadeh.<br>
+In _Transactions on Machine Learning Research_, 2026.
 
 __[J14] Adaptive Bounded Exploration and Intermediate Actions for Data Debiasing.__
 <a href="https://arxiv.org/pdf/2504.08151" class="button">pdf</a> <br>
@@ -107,106 +114,113 @@ __[J1] Perceptions and Truth: A Mechanism Design Approach to Crowd-Sourcing Repu
 P. Naghizadeh, M. Liu. <br>
 In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 
-  <br>
+<br>
 
 <h2>Refereed conference and workshop papers</h2>
 
-__[C37] Coordination Games on Multiplex Networks: Consensus and Convergence of Opinion Dynamics.__
+__[C39] Robust Strategic Classification under Decision-Dependent Cost Uncertainty__ <a href="https://arxiv.org/pdf/2606.30136" class="button">pdf</a>
+<br>
+S. Alhanouti, G. Bayraksan, P. Naghizadeh.<br>
+_The Forty-Third International Conference on Machine Learning (ICML’26)_, Jul. 2026. 
+
+__[C38] Memory-Augmented Agentic AI for Personalized Construction Health Monitoring__ <br>
+Y. Gautam, A. Sharifironizi, A. Ojha, A. Mollabagher, P. Naghizadeh, J. Messner, H. Jebelli.<br>
+In _Construction Research Congress (CI&CRC’26)_, Mar. 2026.
+
+__[C37] MultiRepast4py: A Framework for Agent-Based Simulations on Multilayer Networks__ <br>
+KL. Lin, P. Naghizadeh.<br>
+In _Multi-Agent-Based Simulation XXVI, Springer Lecture Notes in Computer Science, vol 16227_, Feb. 2026.
+
+__[C36] Coordination Games on Multiplex Networks: Consensus and Convergence of Opinion Dynamics.__
 <a href="https://www.ideals.illinois.edu/items/137327" class="button">pdf</a>
 <br> 
 R. Shiu, P. Naghizadeh.<br> 
 In _the 61st Annual Allerton Conference on Communication, Control and Computing (Allerton’25)_, Sep 2025.<br>
 
-__[C36] The Feedback Loop in Recommendation Systems with Reactive Agents.__ <a href="https://arxiv.org/pdf/2504.07105" class="button">pdf</a>
+__[C35] The Feedback Loop in Recommendation Systems with Reactive Agents.__ <a href="https://arxiv.org/pdf/2504.07105" class="button">pdf</a>
 <br> 
 A. Mollabagher, P. Naghizadeh.<br>
 In _the American Control Conference (ACC'25)_, Jul 2025.<br>
 
-__[C35] The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies.__ <a href="https://arxiv.org/pdf/2410.18066" class="button">pdf</a>
+__[C34] The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies.__ <a href="https://arxiv.org/pdf/2410.18066" class="button">pdf</a>
 <br>
 R. Ebrahimi, K. Vaccaro, P. Naghizadeh.<br>
 In _the ACM Conference on Fairness, Accountability, and Transparency (FAccT’25)_, Jun 2025.<br>
 
-__[C34] Could Anticipating Gaming Incentivize Improvement in (Fair) Strategic Classification?__ <a href="/papers/conferences/cdc24.pdf" class="button">pdf</a>
+__[C33] Could Anticipating Gaming Incentivize Improvement in (Fair) Strategic Classification?__ <a href="/papers/conferences/cdc24.pdf" class="button">pdf</a>
 <br> 
 S. Alhanouti, P. Naghizadeh.<br>
 In _the 63rd IEEE Conference on Decision and Control (CDC’24)_, Dec 2024.<br>
 
-__[C33] Extended Horizons: Multi-hop Awareness in Network Games.__ <a href="/papers/conferences/gamesec24.pdf" class="button">pdf</a>
+__[C32] Extended Horizons: Multi-hop Awareness in Network Games.__ <a href="/papers/conferences/gamesec24.pdf" class="button">pdf</a>
 <br> 
 R. Ebrahimi, P. Naghizadeh.<br>
 In _the 15th Conference on Game Theory and AI for Security (GameSec’24)_, Oct 2024.<br>
 
-__[C32] Robust Control Barrier Functions for Sampled-Data Systems.__ <br> 
+__[C31] Robust Control Barrier Functions for Sampled-Data Systems.__ <br> 
 P. S. Oruganti, P. Naghizadeh, Q. Ahmed.<br>
 In _the American Control Conference (ACC'24)_, Jul 2024.<br>
 
-__[C31] United We Fall: On The Nash Equilibria of Multiplex Network Games.__ <a href="/papers/conferences/allerton23.pdf" class="button">pdf</a>
+__[C30] United We Fall: On The Nash Equilibria of Multiplex Network Games.__ <a href="/papers/conferences/allerton23.pdf" class="button">pdf</a>
 <br>
 R. Ebrahimi, P. Naghizadeh.<br>
 In _the 59th Annual Allerton Conference on Communication, Control and Computing (Allerton'23)_, Oct 2023.<br>
 
-__[C30] Interdependent Security Games in the Stackelberg Style: How First-Mover Advantage Impacts Free-Riding and Security (Under-)Investment.__ <a href="https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-huang.pdf" class="button">pdf</a>
+__[C29] Interdependent Security Games in the Stackelberg Style: How First-Mover Advantage Impacts Free-Riding and Security (Under-)Investment.__ <a href="https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-huang.pdf" class="button">pdf</a>
 <br>
 Z. Huang, P. Naghizadeh, M. Liu.<br>
 In _the 22nd Workshop on the Economics of Information Security (WEIS'23)_, Jul 2023.<br>
 
-__[C29] Safe Control Using High-Order Measurement Robust Control Barrier Functions.__ <a href="/papers/conferences/acc23.pdf" class="button">pdf</a>
+__[C28] Safe Control Using High-Order Measurement Robust Control Barrier Functions.__ <a href="/papers/conferences/acc23.pdf" class="button">pdf</a>
 <br> 
 P. S. Oruganti, P. Naghizadeh, Q. Ahmed.<br>
 In _the American Control Conference (ACC'23)_, May 2023.<br>
 
-__[C28] Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria.__
+__[C27] Social Bias Meets Data Bias: The Impacts of Labeling and Measurement Errors on Fairness Criteria.__
 <a href="https://arxiv.org/pdf/2206.00137.pdf" class="button">pdf</a>
 <br> 
 Y Liao, P. Naghizadeh.<br>
 In _The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI'23)_, Feb 2023.<br>
   
-__[C27] Adaptive Data Debiasing through Bounded Exploration.__
+__[C26] Adaptive Data Debiasing through Bounded Exploration.__
 <a href="https://openreview.net/pdf?id=Fm7Dt3lC_s2" class="button">pdf</a>
 <br> 
 Y. Yang, Y. Liu, P. Naghizadeh.<br>
 In _Advances in Neural Informration Processing Systems (NeurIPS'22)_, Dec 2022.<br>
 
-__[C26] DiPLe: Learning Directed Collaboration Graphs for Peer-to- Peer Personalized Learning.__
+__[C25] DiPLe: Learning Directed Collaboration Graphs for Peer-to- Peer Personalized Learning.__
 <a href="/papers/conferences/itw22.pdf" class="button">pdf</a>
 <br> 
 X. Zheng, P. Naghizadeh, A. Yener.<br>
 In _The IEEE Information Theory Workshop (ITW’22)_, Nov 2022.<br>
   
-__[C25] Fairness Interventions as (Dis)incentives for Strategic Manipulation.__
+__[C24] Fairness Interventions as (Dis)incentives for Strategic Manipulation.__
 <a href="https://xueruzhang.github.io/publication/manipulation.pdf" class="button">pdf</a>
 <br>
 X. Zhang, M. Khalili, K. Jin, P. Naghizadeh, M. Liu.<br>
 In _International Conference on Machine Learning (ICML'22)_, Jul 2022.<br>
 
-__[C24] Subsidy Mechanisms for Strategic Classification and Regression Problems.__
+__[C23] Subsidy Mechanisms for Strategic Classification and Regression Problems.__
 <a href="https://xueruzhang.github.io/publication/ec2022.pdf" class="button">pdf</a>
 <br>
 K. Jin, X. Zhang, M. Khalili, P. Naghizadeh, M. Liu. <br>
 In _ACM conference on Economics and Computation (EC'22)_, Jul 2022.<br> 
   
-__[C23] TASHAROK: Using Mechanism Design for Enhancing Security Resource Allocation in Interdependent Systems.__ <a href="https://par.nsf.gov/servlets/purl/10379097" class="button">pdf</a><br>
+__[C22] TASHAROK: Using Mechanism Design for Enhancing Security Resource Allocation in Interdependent Systems.__ <a href="https://par.nsf.gov/servlets/purl/10379097" class="button">pdf</a><br>
 M. Abdallah, D. Woods, P. Naghizadeh, I. Khalil, T. Cason, S. Bagchi, S. Sundaram. <br>
 In _IEEE Symposium on Security and Privacy (IEEE S&P'22)_, May 2022.<br>  
 
-__[C22] The Impact of Network Design Interventions on CPS Security.__
+__[C21] The Impact of Network Design Interventions on CPS Security.__
 <a href="https://arxiv.org/pdf/2109.14555" class="button">pdf</a> 
 <br>
 P. S. Oruganti, P. Naghizadeh, Q. Ahmed. <br>
 In _the 60th IEEE Conference on Decision and Control (CDC’21)_, Dec 2021.<br>
   
-__[C21] Morshed: Guiding Behavioral Decision-Makers towards Better Security Investment in Interdependent Systems.__
+__[C20] Morshed: Guiding Behavioral Decision-Makers towards Better Security Investment in Interdependent Systems.__
 <a href="https://engineering.purdue.edu/dcsl/publications/papers/2020/morshed_asiaccs21.pdf" class="button">pdf</a> 
 <br>
 M. Abdallah, D. Woods, P. Naghizadeh, I. Khalil, T. Cason, S. Sundaram, S. Bagchi.<br>
 In _the 16th ACM Asia Conference on Computer and Communications Security (ASIACCS'21)_, Jun 2021.<br>
-
-__[C20] The Impacts of Prediction Technologies on Relational Contracts.__
-<a href="https://web.ics.purdue.edu/~nguye161/prediction.pdf" class="button">pdf</a> 
-<br>
-P. Naghizadeh, T. Nguyen, S. Vardi.<br>
-In _the 30th Workshop on Information Systems and Economics (WISE’19)_, Dec. 2019.<br>
 
 __[C19] Protecting Assets with Heterogeneous Valuations under Behavioral Probability Weighting.__ 
 <a href="https://engineering.purdue.edu/dcsl/publications/papers/2019/game-theory-security_cdc19_cameraready.pdf" class="button">pdf</a> <br>
@@ -328,6 +342,17 @@ In _the 3rd International Conference on Game Theory for Networks (GameNets'12)_,
 
 <h3>Lightly refereed workshop papers</h3>
 
+__[W9] The Double-Edged Sword of Information: Revealed versus Hidden Lotteries in School Choice.__
+<br>
+P. Naghizadeh, J. Wang.<br> 
+In the _3rd Workshop on New Directions in Social Choice at EC 2026_, Jul. 2026. <br>
+
+__[W8] Fair Robust Strategic Classification under Decision-Dependent Cost Uncertainty.__
+<a href="https://openreview.net/pdf?id=C1zfSQbsmp" class="button">pdf</a>
+<br>
+S. Alhanouti, G. Bayraksan, P. Naghizadeh.<br> 
+In the _ICML 2026 NExT-Game: New Frontiers in Game-Theoretic Learning_, Jul. 2026. <br>
+
 __[W7] Robust Strategic Classification under Decision-Dependent Cost Uncertainty.__
 <a href="https://openreview.net/pdf?id=t8NeQQby18" class="button">pdf</a>
 <br>
@@ -367,17 +392,26 @@ In the _ICLR 2022 Workshop on Socially Responsible Machine Learning_, Apr 2022.<
 __[W1] Inter-Temporal Incentives in Security Information Sharing Agreements.__ <br>
 P. Naghizadeh, M. Liu.<br>
 In the _AAAI 2016 Workshop on Artificial Intelligence for Cyber Security (AICS)_, position paper,  Feb 2016.
-  
-    
-<br><br> 
+
+<br>
     
 <h3>Non-refereed publications/pre-prints</h3>
+
+__[P9] Friends in Unexpected Places: Enhancing Local Fairness in Federated Learning through Clustering.__ 
+<a href="https://arxiv.org/pdf/2407.19331" class="button">pdf</a> <br> 
+Y. Yang, A. Payani, P. Naghizadeh.<br>
+In _arXiv preprint arXiv:2407.19331_, 2025.<br>
+
+__[P8] Generalization Error Bounds for Learning under Censored Feedback.__ 
+<a href="https://arxiv.org/pdf/2404.09247" class="button">pdf</a> <br> 
+Y. Yang, A. Payani, P. Naghizadeh.<br>
+In _arXiv preprint arXiv:2404.09247_, 2025.<br>
 
 __[P7] An Advantage Based Policy Transfer Algorithm for Reinforcement Learning with Measures of Transferability.__ 
 <a href="https://arxiv.org/pdf/2311.06731.pdf" class="button">pdf</a>
 <br>
-F. Alam, P. Naghizadeh, D. Hoelzle. 2024.<br>
-
+F. Alam, P. Naghizadeh, D. Hoelzle.<br>
+In _arXiv preprint arXiv:2311.06731_, 2024.<br>
 
 __[P6] Paid Prioritization with Content Competition.__
 <a href="https://arxiv.org/pdf/2007.14574.pdf" class="button">pdf</a> 
