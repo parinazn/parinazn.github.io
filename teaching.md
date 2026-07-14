@@ -9,9 +9,7 @@ permalink: /teaching/
 - <details> 
   <summary><b>ECE 285: Ethics and Economics of AI</b>. Fall 2025 - 2026. <a href="/teaching-web/ECE285-syllabus.pdf">[Sample syllabus]</a></summary>
   <p style="margin-top: 10px; padding-left: 15px; border-left: 2px solid #ccc;"> 
-    This special topics graduate class explores the impacts of the recent advances in AI, particularly their use in automated decision making systems, from two complementary perspectives: ethical and economic. From the ethics of AI angle, we focus on three primary topics: fairness, privacy, and explainability. We explore the most common definitions and relevant algorithmic solutions in each area, as well as recent research advances in each direction. We then look at these same ethical questions, and also at the general use of AI, from an economic theory lens. This includes microeconomic questions such as gaming of algorithmic systems by human users, and macroeconomic questions such as the impacts of AI use on labor markets.
-</p>
-</details>
+    This special topics graduate class explores the impacts of the recent advances in AI, particularly their use in automated decision making systems, from two complementary perspectives: ethical and economic. From the ethics of AI angle, we focus on three primary topics: fairness, privacy, and explainability. We explore the most common definitions and relevant algorithmic solutions in each area, as well as recent research advances in each direction. We then look at these same ethical questions, and also at the general use of AI, from an economic theory lens. This includes microeconomic questions such as gaming of algorithmic systems by human users, and macroeconomic questions such as the impacts of AI use on labor markets.</p></details>
 
 - <details> 
   <summary><b>ECE 250: Random Processes</b>. Fall 2024 - 2026. <a href="/teaching-web/ECE250-syllabus.pdf">[Sample syllabus]</a><br></summary>
