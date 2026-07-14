@@ -10,9 +10,7 @@ permalink: /news/
     <b>{{ item.date }}</b>: {{ item.content }}
   </li>
 {% endfor %}
+
 </ul>
 
-<br/>
-<br/>
-
-
+<br/><br/>
