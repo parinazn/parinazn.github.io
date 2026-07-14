@@ -23,7 +23,7 @@ permalink: /teaching/
   <p style="margin-top: 10px; padding-left: 15px; border-left: 2px solid #ccc;"> 
     This undergraduate course is mainly about learning the fundamentals of random processes: how to model and analyze a collection of random variables indexed (usually) by time. While we learn about random processes with a formal/theoretical approach, example application areas are mentioned for motivation throughout. The broad set of topics covered in this course are: • Review of probability: random variables, expected values, conditional/joint distributions/expectations • Paris of random variables; random vectors • Error estimation; detection • Random processes: definitions and basic properties • Markov Chains; Gaussian processes; Stationary processes. </p></details>
 
-<br><br>
+<br>
 
 <h2>Ohio State University</h2>
 
