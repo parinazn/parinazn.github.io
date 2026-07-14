@@ -45,12 +45,12 @@ In _INFORMS Journal on Computing_, 2025.
 __[J13] United We Fall: On The Nash Equilibria of Multilayer and Multiplex Network Games.__
 <a href="https://arxiv.org/pdf/2402.06108" class="button">pdf</a> <br>
 R. Ebrahimi, P. Naghizadeh.<br>
-In _IEEE Transactions on Control of Network Systems_, 2025.
+In _IEEE Transactions on Control of Network Systems, 12(2): 1238-1250_, 2025.
 
 __[J12] Interdependent Security Games in the Stackelberg Style: How First-Mover Advantage Impacts Free-Riding and Security (Under-)Investment.__ <a href="https://academic.oup.com/cybersecurity/article-pdf/10/1/tyae009/58358215/tyae009.pdf" class="button">pdf</a>
 <br> 
 Z. Huang, P. Naghizadeh, M. Liu.<br>
-In _Journal of Cybersecurity, 10 (1)_, 2024.<br>
+In _Journal of Cybersecurity, 10 (1): 1-13_, 2024.<br>
 
 __[J11] Structured Network Games: Leveraging Relational Information in Equilibrium Analysis.__ 
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10499725" class="button">pdf</a>
