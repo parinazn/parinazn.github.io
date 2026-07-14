@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MINDS Lab
+title: 
 permalink: /group/
 ---
 
