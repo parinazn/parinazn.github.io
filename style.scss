@@ -303,9 +303,12 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
+/**************/
+/* DETAILS MOD */
+/**************/
 
 details.course-dropdown {
-    margin-bottom: 15px; /* Adds space between each course */
+    margin-bottom: 30px; /* Adds space between each course */
   }
 
   details.course-dropdown summary {
