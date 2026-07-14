@@ -39,3 +39,4 @@ permalink: /teaching/
   <summary><b>ISE 4100: Stochastic Modeling and Simulation</b>. Autumn 2020, 2022. <a href="/teaching-web/ISE4100-syllabus.pdf">[Sample syllabus]</a></summary>
 </details>
 
+<br><br>
