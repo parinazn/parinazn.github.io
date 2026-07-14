@@ -1,5 +1,34 @@
-- date: "July 2026"
-  content: "Description"
+- date: "June 2026"
+  content: > 
+    Our paper <a href="https://openreview.net/pdf?id=C1zfSQbsmp">"Fair Robust Strategic Classification under Decision-Dependent Cost Uncertainty"</a> led by Sura has been accepted in the <a href="https://sites.google.com/view/nextgame-icml26">NExt-Game@ICML'26</a> workshop. Congratulations, Sura!
+
+- date: "June 2026"
+  content: >
+    Our paper "The Double-Edged Sword of Information: Revealed versus Hidden Lotteries in School Choice" together with <a href="https://jingyanw.github.io">Jingyan Wang</a> has been accepted at <a href="https://ec26.comsocseminar.org">the 3rd Workshop on New Directions in Social Choice at EC 2026</a>. 
+
+- date: "April 2026"
+  content: >
+    Our paper <a href="https://openreview.net/pdf?id=VVyGfRp4fG">"Test-Time Adaptation for Unsupervised Combinatorial Optimization"</a> led by Yiqiao has been accepted to the <a href="https://jmlr.org/tmlr/">Transactions on Machine Learning Research (TMLR)</a>. Congratulations, Yiqiao!
+
+- date: "April 2026"
+  content: > 
+    Our paper <a href="https://arxiv.org/pdf/2606.30136">"Robust Strategic Classification under Decision-Dependent Cost Uncertainty"</a> led by Sura has been accepted in <a href="https://icml.cc">ICML</a> (~26.6% acceptance rate). Congratulations, Sura!
+
+- date: "March 2026"
+  content: >
+    Parinaz gave an invited talk on "Bias and Uncertainty in Strategic MAchine Learning" at <a href="https://gamenets.eai-conferences.org">GameNets 2026<a>. 
+
+- date: "September 2025"
+  content: >
+    Our paper was "Robust Strategic Classification under Decision-Dependent Cost Uncertainty" has been accepted at the <a href="">NeurIPS 2025 MLxOR Workshop</a>. Congratulations, Sura!
+
+- date: "August 2025"
+  content: >
+    Togehter with Alan Daly and Anita Caduff, we have received a new award for <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2530457">"Bridging Expertise: Translation and Diffusion of Knowledge, Resources, and Practices in STEM Education"</a> from the <a href="https://www.nsf.gov/funding/opportunities/td-translation-diffusion/506386/nsf25-528/solicitation">National Science Foundation's TD program</a>!
+
+- date: "August 2025"
+  content: >
+    Our paper <a href="https://www.ideals.illinois.edu/items/137327">"Coordination Games on Multiplex Networks: Consensus and Convergence of Opinion Dynamics" led by Ruey-An has been accepted in <a href="https://allerton.csl.illinois.edu">Allerton 2025</a>. Congratulations, Ruey-An!
 
 - date: "May 2025"
   content: > 
