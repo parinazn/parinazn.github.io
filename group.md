@@ -68,7 +68,7 @@ Eric is an MSc student at Brigham Young University, and a visiting researcher in
 <tr>
       <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="tai_karir"></td>
       <td> <b>Tai Karir (University of Michigan ECE BSc, Summer 2026 - )</b> <br><br> 
-Tai is a rising junior at the University of Michigan, Ann Arbor, and a visiting undergraduate researcher in our group during Summer 2026. His research in our group is on developing analytical models of concurrent translation and diffusion processes on networks.</td>
+Tai is a rising junior at the University of Michigan, Ann Arbor, and a visiting undergraduate researcher in our group during Summer 2026. His previous research has focused on autonomous vehicles and ransomware cybersecurity. His research in our group is on developing analytical models of concurrent translation and diffusion processes on networks.</td>
 </tr>
       
   </tbody>
