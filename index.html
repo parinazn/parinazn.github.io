@@ -16,9 +16,19 @@ I lead the <a href="group">MINDS lab</a>, where we study <em>decision making and
 
 <h3>Recent News</h3>
 
+<ul>
+{% for item in site.data.news limit: 5 %}
+  <li style="margin-bottom: 10px;">
+    <b>{{ item.date }}</b>: {{ item.content }}
+  </li>
+{% endfor %}
+</ul>
+
+<a href="news">[see all]</a>
+
+
 <b>May 2025.</b> I am honored to receive a <a href="https://ugresearch.ucsd.edu/research-mentors/outstanding-mentor-awards/urh-mentor-award/index.html">2025 Outstanding Mentor Award</a> from the Undergraduate Research Hub at UCSD. 
 
-</br></br>
 
 <b>April 2025.</b> Yifan successfully defended his PhD thesis "Accurate and Fair Decision Making from Biased and Distributed Datasets". Congratulations, Dr. Yang! 
 
@@ -41,7 +51,6 @@ I lead the <a href="group">MINDS lab</a>, where we study <em>decision making and
 </br>
 </br>
 
-<a href="news">[see all]</a>
 
 
     <div class="wrapper-footer">
