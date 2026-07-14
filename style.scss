@@ -304,3 +304,32 @@ footer {
 @import "svg-icons";
 
 
+details.course-dropdown {
+    margin-bottom: 15px; /* Adds space between each course */
+  }
+
+  details.course-dropdown summary {
+    list-style: none; 
+    cursor: pointer;
+    position: relative;
+    padding-left: 20px; 
+  }
+  
+  details.course-dropdown summary::-webkit-details-marker {
+    display: none; 
+  }
+  
+  details.course-dropdown summary::before {
+    content: '\276F'; 
+    position: absolute;
+    left: 0;
+    font-size: 0.8em;
+    color: #555; 
+    transition: transform 0.2s ease-in-out; 
+  }
+
+  details.course-dropdown[open] summary::before {
+    transform: rotate(90deg);
+  }
+
+
