@@ -20,7 +20,7 @@
 
 - date: "March 2026"
   content: >
-    Sura successfully defended her PhD thesis on "Advancing Strategic Machine Learning: Guiding Agent Behavior, Decision-Dependent Costs, and Fairness Implications". She will be joining the department of Industrial Engineering at Jordan University of Science and Technology in Fall. Congratulations, Dr. Alhanouti! 
+    Sura successfully defended her PhD thesis on "Advancing Strategic Machine Learning: Guiding Agent Behavior, Decision-Dependent Costs, and Fairness Implications". She will be joining the <a href="https://www.just.edu.jo/FacultiesandDepartments/FacultyofEngineering/Departments/IndustrialEngineering/Pages/Industrial%20Engineering.aspx">Department of Industrial Engineering at Jordan University of Science and Technology<\a> in Fall. Congratulations, Dr. Alhanouti! 
 
 - date: "September 2025"
   content: >
@@ -32,7 +32,7 @@
 
 - date: "August 2025"
   content: >
-    Our paper <a href="https://www.ideals.illinois.edu/items/137327">"Coordination Games on Multiplex Networks: Consensus and Convergence of Opinion Dynamics" led by Ruey-An has been accepted in <a href="https://allerton.csl.illinois.edu">Allerton 2025</a>. Congratulations, Ruey-An!
+    Our paper <a href="https://www.ideals.illinois.edu/items/137327">"Coordination Games on Multiplex Networks: Consensus and Convergence of Opinion Dynamics"</a> led by Ruey-An has been accepted in <a href="https://allerton.csl.illinois.edu">Allerton 2025</a>. Congratulations, Ruey-An!
 
 - date: "May 2025"
   content: > 
@@ -257,5 +257,3 @@
 - date: "February 2020"
   content: > 
     Parinaz gave a talk on "Improving Cyber Security through Incentive Design and Data Analytics" at OSU's Center for Automotive Research (CAR).
-
-
