@@ -4,9 +4,9 @@ title:
 permalink: /group/
 ---
 
-<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px;">
   <img src="{{ site.baseurl }}/imgs/lab-logo.png" alt="lab-logo" width="400" style="flex-shrink: 0;" />
-  <div>
+  <div style="flex: 1 1 300px;">
     Welcome to the <b>Multi-agent Intelligence and Decision Systems (MINDS)</b> lab. Our goal is to incorporate analytical models of human decision making in the design of socio-technical networks and AI systems, to understand how the interactions of humans and/or AI agents with misaligned (economic) incentives and diverse reasoning capabilities can impact these systems. We are particularly interested in the balance between "economic" goals (performance, robustness) and "ethical" considerations (fairness, explainability, and safety) in the design and use of AI systems with (strategic) human in the loop. We contribute to, and draw from, tools and methods in several disciplines, including network economics, game theory, machine learning, optimization, and control theory. Our work is generously supported by the <i>National Science Foundation (NSF)</i>, <i>Amazon</i>, and <i>Cisco</i>. 
   <br><br> 
     If you are a student interested in joining our group, please see <a href="/group/#prospective" color="$white">this note</a>.  
