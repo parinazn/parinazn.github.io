@@ -4,11 +4,14 @@ title: MINDS Lab
 permalink: /group/
 ---
 
-<p style="text-align:center;"><img src="{{ site.baseurl }}/imgs/lab-logo.png" alt="lab-logo" width="400"/></p>
-
-  Welcome to the <b>Multi-agent Intelligence and Decision Systems (MINDS)</b> lab. Our goal is to incorporate analytical models of human decision making in the design of socio-technical networks and AI systems, to understand how the interactions of humans and/or AI agents with misaligned (economic) incentives and diverse reasoning capabilities can impact these systems. We are particularly interested in the balance between "economic" goals (performance, robustness) and "ethical" considerations (fairness, explainability, and safety) in the design and use of AI systems with (strategic) human in the loop. We contribute to, and draw from, tools and methods in several disciplines, including network economics, game theory, machine learning, optimization, and control theory. Our work is generously supported by the <i>National Science Foundation (NSF)</i>, <i>Amazon</i>, and <i>Cisco</i>. 
+<div style="display: flex; align-items: center; gap: 30px;">
+  <img src="{{ site.baseurl }}/imgs/lab-logo.png" alt="lab-logo" width="400" style="flex-shrink: 0;" />
+  <div>
+    Welcome to the <b>Multi-agent Intelligence and Decision Systems (MINDS)</b> lab. Our goal is to incorporate analytical models of human decision making in the design of socio-technical networks and AI systems, to understand how the interactions of humans and/or AI agents with misaligned (economic) incentives and diverse reasoning capabilities can impact these systems. We are particularly interested in the balance between "economic" goals (performance, robustness) and "ethical" considerations (fairness, explainability, and safety) in the design and use of AI systems with (strategic) human in the loop. We contribute to, and draw from, tools and methods in several disciplines, including network economics, game theory, machine learning, optimization, and control theory. Our work is generously supported by the <i>National Science Foundation (NSF)</i>, <i>Amazon</i>, and <i>Cisco</i>. 
   <br><br> 
-  If you are a student interested in joining our group, please see <a href="/group/#prospective" color="$white">this note</a>.  
+    If you are a student interested in joining our group, please see <a href="/group/#prospective" color="$white">this note</a>.  
+  </div>
+</div>
 
 <br>
 
@@ -22,12 +25,6 @@ permalink: /group/
        <col span="1" style="width: 80%;">
     </colgroup>
   <tbody>
-    <tr>
-      <td><img src="{{ site.baseurl }}/imgs/sura_alhanouti.jpg" alt="sura_alhanouti"></td>
-      <td> <b>Sura Alhanouti (OSU ISE PhD, Autumn 2021 - )</b> <a href="https://www.linkedin.com/in/sura-alhanouti">[LinkedIn]</a> <br><br> 
-Sura is a PhD student in Integrated Systems Engineering at The Ohio State University. She received her BSc in Industrial Engineering from Jordan University of Science and Technology. Her research is at the intersection of data analytics, algorithmic decision making, robust optimization, and game theory. 
-</td>
-    </tr>
 
   <tr>
       <td><img src="{{ site.baseurl }}/imgs/atefeh_mollabagher.jpg" alt="atefeh_mollabagher"></td>
@@ -38,7 +35,7 @@ Atefeh is a PhD student in Electrical and Computer Engineering at the University
 
 <tr>
       <td><img src="{{ site.baseurl }}/imgs/yiqiao_liao.jpg" alt="yiqiao_liao"></td>
-      <td> <b>Yiqiao Liao (UCSD ECE PhD, Fall 2024 - )</b> <br><br> Yiqiao is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his MSc degree in Computer Science from UPenn in 2024. 
+      <td> <b>Yiqiao Liao (UCSD ECE PhD, Fall 2024 - )</b> <a href="https://scholar.google.com/citations?user=mr59CK0AAAAJ&hl=en">[Google Scholar]</a><br><br> Yiqiao is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his MSc degree in Computer Science from UPenn in 2024. 
         </td>
 </tr>
 
@@ -63,15 +60,15 @@ Atefeh is a PhD student in Electrical and Computer Engineering at the University
   <tbody>
 
 <tr>
-      <td><img src="{{ site.baseurl }}/imgs/shravi_jain.png" alt="shravi_jain"></td>
-      <td> <b>Shravi Jain (UCSD CSE BSc, Summer 2024 - )</b> <a href="https://www.linkedin.com/in/shjucsd/">[LinkedIn]</a> <br><br> 
-Shravi joined our group during her sophomore year in Computer Science and Engineering at UCSD. She is conducting independent research on the impacts of data biases and algorithmic choices on using AI to predict education outcomes. Her research received a SP'25 TRELS Scholar Award from UCSD. </td>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="eric_thomas"></td>
+      <td> <b>Eric Thomas (BYU CSE MSc, Summer 2026 - )</b> <a href="https://ericthomas.io">[Homepage]</a> <br><br> 
+Eric is an MSc student at Brigham Young University, and a visiting researcher in our group during Summer 2026. His research interests are broadly in developing artificial intelligence and algorithms that advance human well-being, with particular interests in robotics, reinforcement learning, economics, healthcare, and multi-agent systems. In our group, he is developing analytical and experimental approaches to the study of AI recommender systems and the strategic human interacting with them.</td>
 </tr> 
 
 <tr>
-      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="sebastian_sugiyama"></td>
-      <td> <b>Sebastian Willis Sugiyama (UCSD ECE BSc, Summer 2025 - )</b> <a href="https://www.linkedin.com/in/sebastian-willis-sugiyama">[LinkedIn]</a> <br><br> 
-Sebastian joined our group in the summer of the sohpomore year of his BSc studies in Electrical and Computer Engineering at UCSD. He is conducting independent research on influence maximization on single- and multi-layer networks, and the use of different centrality measures to guide seed node selection. </td>
+      <td><img src="{{ site.baseurl }}/imgs/icon.png" alt="tai_karir"></td>
+      <td> <b>Tai Karir (University of Michigan ECE BSc, Summer 2026 - )</b> <br><br> 
+Tai is a rising junior at the University of Michigan, Ann Arbor, and a visiting undergraduate researcher in our group during Summer 2026. His research in our group is on developing analytical models of concurrent translation and diffusion processes on networks.</td>
 </tr>
       
   </tbody>
@@ -88,15 +85,21 @@ Sebastian joined our group in the summer of the sohpomore year of his BSc studie
     </colgroup>
   <tbody>
     <tr>
+      <td><img src="{{ site.baseurl }}/imgs/sura_alhanouti.jpg" alt="sura_alhanouti"></td>
+      <td> <b>Sura Alhanouti (OSU ISE PhD, Autumn 2021 - Spring 2026)</b> <a href="https://www.linkedin.com/in/sura-alhanouti">[LinkedIn]</a> <br><br> 
+Sura was a PhD student in Integrated Systems Engineering at The Ohio State University. She received her BSc in Industrial Engineering from Jordan University of Science and Technology. Her research in our group was at the intersection of data analytics, algorithmic decision making, robust optimization, and game theory. She completed her PhD thesis on "Advancing Strategic Machine Learning: Guiding Agent Behavior, Decision-Dependent Costs, and Fairness Implications". First position: Tenure-Track Assistant Professor of Industrial Engineering at <a href="https://www.just.edu.jo/FacultiesandDepartments/FacultyofEngineering/Departments/IndustrialEngineering/Pages/Industrial%20Engineering.aspx">Jordan University of Science and Technology</a>. 
+</td>
+    </tr>  
+    <tr>
       <td><img src="{{ site.baseurl }}/imgs/yifan_yang.jpg" alt="yifan_yang"></td>
       <td> <b>Yifan Yang (OSU ISE PhD, Spring 2020 - Spring 2025)</b> <a href="https://sites.google.com/view/yangyifan/home?authuser=0">[Homepage]</a> <br><br> 
-Yifan was a PhD student in Integrated System Engineering at The Ohio State University. He obtained his MSc in Statistics from Georgia Tech, and dual BSc degrees in Mathematics and Economics from University of Washington, Seattle. His research in our group was focused on statistical data debiasing and machine learning algorithms for fair algorithmic decision making in both centralized and distributed settings. He completed a PhD thesis on "Accurate and Fair Decision Making from Biased and Distributed Datasets". Next: Research & Development Analyst III at GEICO. 
+Yifan was a PhD student in Integrated System Engineering at The Ohio State University. He obtained his MSc in Statistics from Georgia Tech, and dual BSc degrees in Mathematics and Economics from University of Washington, Seattle. His research in our group was focused on statistical data debiasing and machine learning algorithms for fair algorithmic decision making in both centralized and distributed settings. He completed his PhD thesis on "Accurate and Fair Decision Making from Biased and Distributed Datasets". First position: Research & Development Analyst III at <a href="https://www.geico.com/about/corporate/">GEICO</a>. 
       </td>
     </tr> 
     <tr>
       <td><img src="{{ site.baseurl }}/imgs/pradeep_oruganti.jpg" alt="pradeep_oruganti"></td>
       <td> <b>Pradeep Sharma Oruganti (OSU MAE PhD, Autumn 2021 - Spring 2023)</b> <a href="www.linkedin.com/in/pradeep-sharma-oruganti">[LinkedIn]</a> <br><br> 
-Pradeep was a PhD student in Mechanical and Aerospace Engineering at The Ohio State University. He was co-advised by Dr. Qadeer Ahmed and Dr. Naghizadeh. His research in our group was on game theoretical modeling and analysis of security decision making in cyber physical systems, with applications in automotive cyber security. He completed a PhD thesis on "Safety and Security Assurance for Automotive Systems". Next: <a href="https://getcruise.com">Cruise</a>. 
+Pradeep was a PhD student in Mechanical and Aerospace Engineering at The Ohio State University. He was co-advised by Dr. Qadeer Ahmed and Dr. Naghizadeh. His research in our group was on game theoretical modeling and analysis of security decision making in cyber physical systems, with applications in automotive cyber security. He completed his PhD thesis on "Safety and Security Assurance for Automotive Systems". First position: Senior Systems Engineer at <a href="https://getcruise.com">Cruise</a>. 
 </td>
      </tr>
   </tbody>
@@ -116,13 +119,13 @@ Pradeep was a PhD student in Mechanical and Aerospace Engineering at The Ohio St
 <tr>
       <td><img src="{{ site.baseurl }}/imgs/maitrayee_keskar.jpeg" alt="maitrayee_keskar"></td>
       <td> <b>Maitrayee Keskar (UCSD ECE MSc, Winter 2025 - Fall 2025)</b> <a href="https://www.linkedin.com/in/maitrayee-keskar-0a426a19a/">[LinkedIn]</a> <br><br> 
-Maitrayee joined our group during the first year of her MSc studies in Electrical and Computer Engineering at UCSD. She conducted independent research on the impacts of information sharing in multi-agent reinforcement learning in partially observable environments. She was part of the 2025 ECE SRIP program. </td>
+Maitrayee joined our group during the first year of her MSc studies in Electrical and Computer Engineering at UCSD. She conducted independent research on the impacts of information sharing in multi-agent reinforcement learning in partially observable environments. She was part of the 2025 ECE SRIP program. Next: EECS PhD at UC Merced. </td>
 </tr> 
     
   <tr>
       <td><img src="{{ site.baseurl }}/imgs/raman_ebrahimi.jpg" alt="raman_ebrahimi"></td>
       <td> <b>Raman Ebrahimi (UCSD ECE MSc, Fall 2022 - Spring 2025)</b> <a href="https://ramanebrahimi.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/ramanebrahimi/">[LinkedIn]</a> <br><br> 
-Raman completed his MSc in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his BSc degrees in Industrial Engineering and Physics from the Sharif University of Technology in 2022. He joined our group at OSU in Fall 2022, and moved to UCSD in Summer 2023. He conducted research on the modeling and analysis of strategic behavior in multilayer networks and classification problems. Publications: 
+Raman completed his MSc in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his BSc degrees in Industrial Engineering and Physics from the Sharif University of Technology in 2022. He joined our group at OSU in Fall 2022, and moved to UCSD in Summer 2023. He conducted research on the modeling and analysis of strategic behavior in multilayer networks and classification problems. Next: ECE PhD at UCSD. Publications: 
     <ul>
       <li> R. Ebrahimi, P. Naghizadeh. <a href="/papers/conferences/allerton23.pdf">United We Fall: On The Nash Equilibria of Multiplex Network Games</a>. In Allerton 2023.</li>
       <li> R. Ebrahimi, P. Naghizadeh. <a href="/papers/conferences/gamesec24.pdf">Extended Horizons: Multi-hop Awareness in Network Games</a>. In GameSec 2024.</li>
@@ -147,7 +150,7 @@ Abhishek was a Master's student in the ECE department at The Ohio State Universi
 <tr>
       <td><img src="{{ site.baseurl }}/imgs/xue_zheng.png" alt="xue_zheng"></td>
       <td> <b>Xue Zheng (OSU ECE MSc, Spring 2021 - Autumn 2021)</b> <a href="https://xuezheng96.github.io/XueZheng.github.io/">[Homepage]</a><a href="https://www.linkedin.com/in/xue-zheng-a138611b3/">[LinkedIn]</a> <br><br> 
-Xue was an MSc student in our group at The Ohio State University from Spring 2021 through Autumn 2021, where she completed her M.Sc. thesis on "Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning". Her research interests are in federated learning, distributed learning, and optimization. Next: ECE PhD student at OSU. Publications: 
+Xue was an MSc student in our group at The Ohio State University from Spring 2021 through Autumn 2021, where she completed her M.Sc. thesis on "Learning Directed Collaboration Graphs for Peer-to-Peer Personalized Learning". Her research interests are in federated learning, distributed learning, and optimization. Next: ECE PhD at OSU. Publications: 
     <ul>
       <li>X. Zheng, P. Naghizadeh, A. Yener. <a href="/papers/conferences/itw22.pdf">DiPLe: Learning Directed Collaboration Graphs for Peer-to- Peer Personalized Learning</a>. In the IEEE Information Theory Workshop (ITW’22), 2022.</li>
     </ul>  
@@ -157,6 +160,13 @@ Xue was an MSc student in our group at The Ohio State University from Spring 202
 </table>
       
 <h2> Past BSc and BSc/MSc Students</h2>
+
+- <b>Sebastian Willis Sugiyama</b>. UCSD ECE BSc, Summer 2025 - Spring 2026.
+
+- <b>Shravi Jain</b>. UCSD CSE BSc, Summer 2024 - Winter 2026. 
+  <ul>
+      <li> Spring 2025 UCSD Triton Research & Experiential Learning Scholars (TRELS) Scholar Award.</li>
+  </ul>
 
 - <b>Keng-Lien (Roger) Lin</b>. UCSD ECE BSc, Spring 2024 - Spring 2025. SRIP program. Publications:
   <ul>
@@ -178,7 +188,10 @@ Xue was an MSc student in our group at The Ohio State University from Spring 202
       <li> Student handouts and facilitator guides for the design challenge on "Social Networks", developed by Ishika as a middle school after-school activity, are available <a href="https://u.osu.edu/tek8/2023-design-challenges/social-networks/">here</a>.</li>
   </ul>
   
-- <b>Ian Thompson</b>. OSU ECE BSc, Summer 2022 - Spring 2023. Eminence Fellow; Spring 2023 CoE Undergraduate Honors Research Scholarship.
+- <b>Ian Thompson</b>. OSU ECE BSc, Summer 2022 - Spring 2023.
+  <ul>
+   <li> Eminence Fellow; Spring 2023 CoE Undergraduate Honors Research Scholarship.</li>
+  </ul>
 
 - <b>Jiaqi Xu</b>. OSU CSE BSc, Summer 2022 - Spring 2023. 
 
@@ -216,10 +229,10 @@ Xue was an MSc student in our group at The Ohio State University from Spring 202
 
 <h3 id="prospective"> Becoming a member </h3>
 
-__Prospective graduate students:__ We are always looking for motivated Ph.D. students, with a strong mathematical background and interest in interdisciplinary research, to join our research group. If you are interested in joining our group, please apply directly to the graduate program, and mention my name in your application. If you would like to send me an email, please include your CV and a brief description of your research experience and interests. I apologize in advance as I am unable to respond to all emails. 
+__Prospective graduate students:__ We are always looking for motivated Ph.D. students, with a strong mathematical background and interest in interdisciplinary research, to join our research group. If you are interested in joining our group, please apply directly to the graduate program (in ISRC or MLDS areas), and mention my name in your application. If you would like to send me an email, please include your CV and a brief description of your research experience and interests. I apologize in advance as I am unable to respond to all emails. 
 
 
-__Undergraduate students at UCSD:__ If you are interested in our group's research, please send me an email with your CV and a brief description of any past research/project experiences.
+__Undergraduate students at UCSD:__ If you are interested in our group's research, please send me an email with your CV and a brief description of any past research/project experiences. I apologize in advance as I am unable to respond to all emails.
 
 <br>
 <br>
