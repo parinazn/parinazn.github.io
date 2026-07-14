@@ -4,7 +4,7 @@ title:
 permalink: /group/
 ---
 
-<div style="display: flex; align-items: center; gap: 30px;">
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
   <img src="{{ site.baseurl }}/imgs/lab-logo.png" alt="lab-logo" width="400" style="flex-shrink: 0;" />
   <div>
     Welcome to the <b>Multi-agent Intelligence and Decision Systems (MINDS)</b> lab. Our goal is to incorporate analytical models of human decision making in the design of socio-technical networks and AI systems, to understand how the interactions of humans and/or AI agents with misaligned (economic) incentives and diverse reasoning capabilities can impact these systems. We are particularly interested in the balance between "economic" goals (performance, robustness) and "ethical" considerations (fairness, explainability, and safety) in the design and use of AI systems with (strategic) human in the loop. We contribute to, and draw from, tools and methods in several disciplines, including network economics, game theory, machine learning, optimization, and control theory. Our work is generously supported by the <i>National Science Foundation (NSF)</i>, <i>Amazon</i>, and <i>Cisco</i>. 
@@ -28,20 +28,20 @@ permalink: /group/
 
   <tr>
       <td><img src="{{ site.baseurl }}/imgs/atefeh_mollabagher.jpg" alt="atefeh_mollabagher"></td>
-      <td> <b>Atefeh Mollabagher (UCSD ECE PhD, Fall 2023 - )</b> <a href="https://atefeh-mobr.github.io">[Homepage]</a> <a href="https://www.linkedin.com/in/atefehmollabagher/">[LinkedIn]</a> <br><br> 
+      <td> <b>Atefeh Mollabagher (Fall 2023 - present)</b> <a href="https://atefeh-mobr.github.io">[Homepage]</a> <a href="https://www.linkedin.com/in/atefehmollabagher/">[LinkedIn]</a> <br><br> 
 Atefeh is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, she received her BSc degree in Electrical Engineering from the University of Tehran in 2023. Her research is on multi-agent reinforcement learning. 
 </td>
     </tr>
 
 <tr>
       <td><img src="{{ site.baseurl }}/imgs/yiqiao_liao.jpg" alt="yiqiao_liao"></td>
-      <td> <b>Yiqiao Liao (UCSD ECE PhD, Fall 2024 - )</b> <a href="https://scholar.google.com/citations?user=mr59CK0AAAAJ&hl=en">[Google Scholar]</a><br><br> Yiqiao is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his MSc degree in Computer Science from UPenn in 2024. 
+      <td> <b>Yiqiao Liao (Fall 2024 - present)</b> <a href="https://scholar.google.com/citations?user=mr59CK0AAAAJ&hl=en">[Google Scholar]</a><br><br> Yiqiao is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his MSc degree in Computer Science from UPenn in 2024. 
         </td>
 </tr>
 
 <tr>
       <td><img src="{{ site.baseurl }}/imgs/luca_hartmann.jpg" alt="luca_hartmann"></td>
-      <td> <b>Luca Hartmann (UCSD ECE PhD, Spring 2025 - )</b> <a href="https://www.linkedin.com/in/luca-hartmann-3682811b4/">[LinkedIn]</a> <a href="https://scholar.google.com/citations?user=X8-xWY8AAAAJ&hl=en">[Google Scholar]</a> <br><br> Luca is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his MSc degree in Electrical Engineering and Information Technology from ETH Zurich. 
+      <td> <b>Luca Hartmann (Spring 2025 - present)</b> <a href="https://www.linkedin.com/in/luca-hartmann-3682811b4/">[LinkedIn]</a> <a href="https://scholar.google.com/citations?user=X8-xWY8AAAAJ&hl=en">[Google Scholar]</a> <br><br> Luca is a PhD student in Electrical and Computer Engineering at the University of California, San Diego. Prior to joining our group, he received his MSc degree in Electrical Engineering and Information Technology from ETH Zurich. 
         </td>
 </tr>
 
