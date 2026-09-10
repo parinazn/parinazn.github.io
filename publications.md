@@ -9,7 +9,7 @@ Here is my <a href="https://scholar.google.com/citations?user=rbleSIcAAAAJ&hl=en
 <h2>Submitted and working papers</h2>
 
 
-__Rethinking Learning-Based Influence Maximization: Simple Neural Surrogates and Native Discrete Search.__ <a href=New pre-print: <a href="https://arxiv.org/pdf/2608.08406" class="button">pdf</a><br>
+__Rethinking Learning-Based Influence Maximization: Simple Neural Surrogates and Native Discrete Search.__ <a href="https://arxiv.org/pdf/2608.08406" class="button">pdf</a><br>
 with Yiqiao Liao.<br>
                                               
 __Reactive Users vs. Social Recommender Systems: An Adaptive Policy to Manage Opinion Drifts.__
@@ -124,7 +124,7 @@ __[C41] Personalized and Trust-Aware Health Recommendation Policies for a Constr
 A. Mollabagher, Y. Gautam, H. Jebelli, P. Naghizadeh.<br>
 _The 65th IEEE Conference on Decision and Control (CDC'26)_, Dec. 2026.
 
-__[C40] Decision-Focused Learning in Network Interdiction Games.__ <a href="https://arxiv.org/pdf/2608.09036">pdf</a>
+__[C40] Decision-Focused Learning in Network Interdiction Games.__ <a href="https://arxiv.org/pdf/2608.09036" class="button">pdf</a>
 <br>
 L. M. Hartmann, P. Naghizadeh.<br>
 _The 17th Conference on Game Theory and AI for Security (GameSec'26)_, Oct. 2026. 
