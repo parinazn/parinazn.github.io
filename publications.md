@@ -8,8 +8,9 @@ Here is my <a href="https://scholar.google.com/citations?user=rbleSIcAAAAJ&hl=en
 
 <h2>Submitted and working papers</h2>
 
-__Decision-Focused Learning in Network Interdiction Games.__ <br>
-with Luca M. Hartmann.<br>
+
+__Rethinking Learning-Based Influence Maximization: Simple Neural Surrogates and Native Discrete Search.__ <a href=New pre-print: <a href="https://arxiv.org/pdf/2608.08406" class="button">pdf</a><br>
+with Yiqiao Liao.<br>
                                               
 __Reactive Users vs. Social Recommender Systems: An Adaptive Policy to Manage Opinion Drifts.__
 <br>
@@ -40,12 +41,12 @@ In _Transactions on Machine Learning Research_, 2026.
 __[J14] Adaptive Bounded Exploration and Intermediate Actions for Data Debiasing.__
 <a href="https://arxiv.org/pdf/2504.08151" class="button">pdf</a> <br>
 Y. Yang, Y. Liu, P. Naghizadeh.<br>
-In _INFORMS Journal on Computing_, 2025.
+In _INFORMS Journal on Computing, 38 (4): 1213–1230_, 2026.
 
 __[J13] United We Fall: On The Nash Equilibria of Multilayer and Multiplex Network Games.__
 <a href="https://arxiv.org/pdf/2402.06108" class="button">pdf</a> <br>
 R. Ebrahimi, P. Naghizadeh.<br>
-In _IEEE Transactions on Control of Network Systems, 12(2): 1238-1250_, 2025.
+In _IEEE Transactions on Control of Network Systems, 12 (2): 1238-1250_, 2025.
 
 __[J12] Interdependent Security Games in the Stackelberg Style: How First-Mover Advantage Impacts Free-Riding and Security (Under-)Investment.__ <a href="https://academic.oup.com/cybersecurity/article-pdf/10/1/tyae009/58358215/tyae009.pdf" class="button">pdf</a>
 <br> 
@@ -116,7 +117,17 @@ In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 
 <br>
 
-<h2>Refereed conference and workshop papers</h2>
+<h2>Refereed conference papers</h2>
+
+__[C41] Personalized and Trust-Aware Health Recommendation Policies for a Construction Workplace__
+<br>
+A. Mollabagher, Y. Gautam, H. Jebelli, P. Naghizadeh.<br>
+_The 65th IEEE Conference on Decision and Control (CDC'26)_, Dec. 2026.
+
+__[C40] Decision-Focused Learning in Network Interdiction Games__ <a href="https://arxiv.org/pdf/2608.09036">pdf</a>
+<br>
+L. M. Hartmann, P. Naghizadeh.<br>
+_The 17th Conference on Game Theory and AI for Security (GameSec'26)_, Oct. 2026. 
 
 __[C39] Robust Strategic Classification under Decision-Dependent Cost Uncertainty__ <a href="https://arxiv.org/pdf/2606.30136" class="button">pdf</a>
 <br>
