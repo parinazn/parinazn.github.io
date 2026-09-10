@@ -119,26 +119,26 @@ In _IEEE/ACM Transactions on Networking, 24 (1): 163-176_, 2016.<br>
 
 <h2>Refereed conference papers</h2>
 
-__[C41] Personalized and Trust-Aware Health Recommendation Policies for a Construction Workplace__
+__[C41] Personalized and Trust-Aware Health Recommendation Policies for a Construction Workplace.__
 <br>
 A. Mollabagher, Y. Gautam, H. Jebelli, P. Naghizadeh.<br>
 _The 65th IEEE Conference on Decision and Control (CDC'26)_, Dec. 2026.
 
-__[C40] Decision-Focused Learning in Network Interdiction Games__ <a href="https://arxiv.org/pdf/2608.09036">pdf</a>
+__[C40] Decision-Focused Learning in Network Interdiction Games.__ <a href="https://arxiv.org/pdf/2608.09036">pdf</a>
 <br>
 L. M. Hartmann, P. Naghizadeh.<br>
 _The 17th Conference on Game Theory and AI for Security (GameSec'26)_, Oct. 2026. 
 
-__[C39] Robust Strategic Classification under Decision-Dependent Cost Uncertainty__ <a href="https://arxiv.org/pdf/2606.30136" class="button">pdf</a>
+__[C39] Robust Strategic Classification under Decision-Dependent Cost Uncertainty.__ <a href="https://arxiv.org/pdf/2606.30136" class="button">pdf</a>
 <br>
 S. Alhanouti, G. Bayraksan, P. Naghizadeh.<br>
 _The Forty-Third International Conference on Machine Learning (ICML’26)_, Jul. 2026. 
 
-__[C38] Memory-Augmented Agentic AI for Personalized Construction Health Monitoring__ <br>
+__[C38] Memory-Augmented Agentic AI for Personalized Construction Health Monitoring.__ <br>
 Y. Gautam, A. Sharifironizi, A. Ojha, A. Mollabagher, P. Naghizadeh, J. Messner, H. Jebelli.<br>
 In _Construction Research Congress (CI&CRC’26)_, Mar. 2026.
 
-__[C37] MultiRepast4py: A Framework for Agent-Based Simulations on Multilayer Networks__ <br>
+__[C37] MultiRepast4py: A Framework for Agent-Based Simulations on Multilayer Networks.__ <br>
 KL. Lin, P. Naghizadeh.<br>
 In _Multi-Agent-Based Simulation XXVI, Springer Lecture Notes in Computer Science, vol 16227_, Feb. 2026.
 
